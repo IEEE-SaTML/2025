@@ -1,3 +1,6 @@
 [submodule "themes/syna"]
 	path = themes/syna
 	url = git@github.com:IEEE-SaTML/website_theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:IEEE-SaTML/ieee-satml.github.io.git
