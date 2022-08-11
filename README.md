@@ -30,4 +30,4 @@ The folder `public` is populated by the `hugo` command to generate the static we
 * Once satisfied with the edits, run `hugo` to generate the static files. They will be placed automatically in the `public` folder
 * Go into the `public` folder, commit, and push the changes (static website will be redeployed by Github Pages automatically shortly after these changes have been pushed)
 * Go back to the root folder of the SaTML website Template git repository, commit, and push the modifications there too.
-
+(see `./deploy.sh` script)
