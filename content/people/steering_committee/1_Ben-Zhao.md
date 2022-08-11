@@ -6,5 +6,5 @@ item_url = "https://people.cs.uchicago.edu/~ravenben/"
 #disabled = true
 
 [asset]
-  image = "people/Ben-Zhao.png"
+  image = "people/Ben-Zhao.jpg"
 +++
