@@ -77,12 +77,6 @@ lastmod = ["lastmod", ":git", "date"]
   identifier = "participate"
 
 [[menu.main]]
-  url = "/participate"
-  name = "Participate"
-  weight = 10
-  parent = "participate"
-
-[[menu.main]]
   url = "/participate-cfp"
   name = "Call For Papers"
   weight = 20

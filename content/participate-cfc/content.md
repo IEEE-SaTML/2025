@@ -25,7 +25,7 @@ To reduce the reviewers’ workload, we will accept only 3 pages submissions.
 
 #### Reviewing and Selection Process
 
-A competition program committee will be formed, consisting of experts on both machine learning and challenges organization. Each proposal will be reviewed by members of the program committee. Proposals will be evaluated based on factors such as:
+Proposals will be evaluated based on factors such as:
 
 * **Task(s)**: Impact, originality, relevance to the SaTML community will all be considered. Tasks that will foster positive societal impact are highly encouraged, although other topics relevant to the SaTML community are also welcomed.
 
@@ -45,4 +45,4 @@ A competition program committee will be formed, consisting of experts on both ma
 
 Competition organizers should propose a timeline for running the competition to ensure participants have enough time to contribute high-quality entries. It is recommended that competitions be completed by mid January 2023 (that is, one month prior to the SaTML conference) at the absolute latest.
 
-Competition organizers that require help or suggestions regarding competition platforms for running the competition can contact the competition chairs for advice.
+Competition organizers that require help or suggestions regarding competition platforms for running the competition can contact [contact@satml.org](mailto:contact@satml.org) for advice.

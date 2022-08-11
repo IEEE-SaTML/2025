@@ -10,4 +10,4 @@ subtitle = ""
 #title_align = "left" # Default is center, can be left,  right or center
 +++
 
-- **Amy Hasan**, Pennsylvania State University, [alh31@psu.edu](mailto:alh31@psu.edu)
+- **Amy Hasan**, Pennsylvania State University, [contact@satml.org](mailto:contact@satml.org)

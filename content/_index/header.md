@@ -5,7 +5,7 @@ date = "2022-08-09"
 weight = 1
 background = "light" # can influence the text color
 particles = false
-minHeight = "calc(66.7vw)" # optional - changes hero fragment's minimum height
+minHeight = "50vh" #66.7vw" # optional - changes hero fragment's minimum height
 
 title = "IEEE Conference on Secure and Trustworthy Machine Learning "
 subtitle1 = "February 8-10, 2023"
