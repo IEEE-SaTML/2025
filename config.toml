@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://ieee-satml.github.io/"
+baseurl = "https://satml.org/"
 languageCode = "en-us"
 title = "IEEE SaTML 2023"
 theme = "syna"
