@@ -4,8 +4,8 @@
 
 - Prerequisite: install hugo (https://gohugo.io/getting-started/installing/)
 - Clone repository and submodules:
-  - (HTTPS) `git clone --recurse-submodules https://github.com/IEEE-SaTML/website_theme.git`
-  - (SSH) `git clone --recurse-submodules git@github.com:IEEE-SaTML/website_theme.git`
+  - (HTTPS) `git clone --recurse-submodules https://github.com/IEEE-SaTML/website_template.git`
+  - (SSH) `git clone --recurse-submodules git@github.com:IEEE-SaTML/website_template.git`
 
 ## Template Architecture
 
