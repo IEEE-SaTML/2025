@@ -61,6 +61,7 @@ subtitle = ""
 - **Saeed Mahloujifar**,  Princeton University
 - **Sheila McIlraith**,  University of Toronto
 - **Audra McMillan**,  Boston University
+- **Jaron Mink**, University of Illinois
 - **Ilya Mironov**,  Meta
 - **Sasho Nikolov**,  University of Toronto
 - **Olya Ohrimenko**,  University of Melbourne
