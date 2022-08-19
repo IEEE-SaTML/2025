@@ -55,7 +55,7 @@ To improve the fairness of the reviewing process, SaTML will follow a double-bli
 
 #### Reviews from Prior Submissions 
 
-For papers that were previously submitted to, and rejected from, another conference, authors are required to submit a separate document containing the (anonymized, but otherwise unedited) prior reviews along with a description of how those reviews were addressed in the current version of the paper. Authors are only required to include reviews from the last time the paper was submitted. Authors who try to circumvent this rule (e.g., by changing the title of the paper without significantly changing the contents) may have their papers rejected without further consideration, at the discretion of the PC chairs. 
+For papers that were previously submitted to, and rejected from, another conference, authors are required to append to their submission PDF the (anonymized, but otherwise unedited) prior reviews along with a description of how those reviews were addressed in the current version of the paper. Authors are only required to include reviews from the last time the paper was submitted. Authors who try to circumvent this rule (e.g., by changing the title of the paper without significantly changing the contents) may have their papers rejected without further consideration, at the discretion of the PC chairs. 
 
 Submissions must use the two-column IEEE Proceedings style: https://www.ieee.org/conferences/publishing/templates.html 
 
