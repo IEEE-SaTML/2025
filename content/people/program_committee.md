@@ -20,6 +20,7 @@ subtitle = ""
 - **Aurélien Bellet**,  Inria
 - **Asia Biega**,  Max Planck Institute
 - **Battista Biggio**,  University of Cagliari
+- **Franziska Boenisch**, University of Toronto and Vector Institute
 - **Dan Boneh**,  Stanford University
 - **Kevin Butler**,  University of Florida
 - **Aylin Caliskan**,  University of Washington
@@ -42,15 +43,18 @@ subtitle = ""
 - **Rachel Greenstadt**,  NYU
 - **Roger Grosse**,  University of Toronto
 - **Shion Guha**,  University of Toronto
+- **Chuan Guo**, Meta
 - **Dylan Hadfield-Menell**,  MIT
 - **Gillian Hadfield**,  University of Toronto
 - **Blaine Hoak**,  Pennsylvania State University
 - **Thorsten Holz**,  CISPA Helmholtz Center for Information Security
+- **Sanghyun Hong**, Oregon State University
 - **Matthew Jagielski**,  Google Brain
 - **Suman Jana**,  University of Columbia
 - **Somesh Jha**,  University of Wisconsin
 - **Gautam Kamath**,  MIT
 - **Florian Kerschbaum**,  University of Waterloo
+- **Raouf Kerkouche**, CISPA
 - **Boris Köpf**,  Microsoft Research
 - **Ananya Kumar**,  Stanford University
 - **Marta Kwiatkowska**,  University of Oxford
@@ -73,17 +77,21 @@ subtitle = ""
 - **Konrad Rieck**,  Technische Universität Braunschweig
 - **Lea Schönherr**,  CISPA Helmholtz Center for Information Security
 - **Hanie Sedghi**,  Google Brain
+- **Vikash Sehwag**, Princeton Univeristy
 - **Ryan Sheatsley**,  Pennsylvania State University
 - **Ilia Shumailov**,  University of Cambridge
 - **Congzheng Song**,  Cornell University
 - **Shuang Song**,  University of California San Diego
 - **Jacob Steinhardt**,  University of California Berkeley
 - **Kunal Talwar**,  Apple Research
+- **Rohan Taori**, Stanford University
 - **Graham Taylor**,  University of Guelph
 - **Shruti Tople**,  Microsoft
 - **Patrick Traynor**,  University of Florida
 - **Carmela Troncoso**,  EPFL
 - **Xiao Wang**,  Northwestern University
+- **Christian Wressnegger**, Karlsruhe Institute of Technology
+- **Chaowei Xiao**, NVIDIA
 - **Michael Xie**,  Stanford University
 - **Mohammad Yaghini**,  University of Toronto and Vector Institute
 - **Hongyang Zhang**,  University of Waterloo
