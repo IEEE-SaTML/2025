@@ -54,7 +54,7 @@ subtitle = ""
 - **Somesh Jha**,  University of Wisconsin
 - **Gautam Kamath**,  MIT
 - **Florian Kerschbaum**,  University of Waterloo
-- **Raouf Kerkouche**, CISPA
+- **Raouf Kerkouche**, CISPA Helmholtz Center for Information Security
 - **Boris Köpf**,  Microsoft Research
 - **Ananya Kumar**,  Stanford University
 - **Marta Kwiatkowska**,  University of Oxford
