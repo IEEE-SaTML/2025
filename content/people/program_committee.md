@@ -13,6 +13,7 @@ subtitle = ""
 - **Martin Abadi**,  Google
 - **Sandhini Agarwal**,  OpenAI
 - **Ishtiaque Ahmed**,  University of Toronto
+- **Shimaa Ahmed**, University of Wisconsin-Madison
 - **Ross Anderson**,  University of Cambridge
 - **Lisa Austin**,  University of Toronto
 - **Michael Backes**,  CISPA Helmholtz Center for Information Security
@@ -52,6 +53,7 @@ subtitle = ""
 - **Matthew Jagielski**,  Google Brain
 - **Suman Jana**,  University of Columbia
 - **Somesh Jha**,  University of Wisconsin
+- **Hengrui Jia**, University of Toronto and Vector Institute
 - **Gautam Kamath**,  MIT
 - **Florian Kerschbaum**,  University of Waterloo
 - **Raouf Kerkouche**, CISPA Helmholtz Center for Information Security
@@ -78,11 +80,13 @@ subtitle = ""
 - **Lea Schönherr**,  CISPA Helmholtz Center for Information Security
 - **Hanie Sedghi**,  Google Brain
 - **Vikash Sehwag**, Princeton Univeristy
+- **Avital Shafran**, Hebrew University of Jerusalem
 - **Ryan Sheatsley**,  Pennsylvania State University
 - **Ilia Shumailov**,  University of Cambridge
 - **Congzheng Song**,  Cornell University
 - **Shuang Song**,  University of California San Diego
 - **Jacob Steinhardt**,  University of California Berkeley
+- **Vinith Suriyakumar**, MIT
 - **Kunal Talwar**,  Apple Research
 - **Rohan Taori**, Stanford University
 - **Graham Taylor**,  University of Guelph
