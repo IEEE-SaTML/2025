@@ -116,3 +116,7 @@ lastmod = ["lastmod", ":git", "date"]
   name = "twitter"
   pre = "fab fa-twitter"
   url = "https://twitter.com/satml_conf"
+
+# See issue https://github.com/okkur/syna/issues/859 
+[minify]
+disableJS = true
