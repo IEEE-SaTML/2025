@@ -1,4 +1,4 @@
-# SaTML website Template
+# SaTML website
 
 ## Getting Started
 
@@ -27,7 +27,6 @@ The folder `static` contains the favicon, images, and some custom CSS for the we
 * Make your edits in the template files
 * View your edits locally with `hugo server -D`
 * Once satisfied, commit and push your edits to Github
-* At every new commit, a Github action is triggered to rebuild and redeploy the
-  website automatically (no need to run the `hugo` command yourself or create a
-  `public` folder anymore)
-
+* At every new commit pushed to the `main` branch on Github, a Github Action is
+  triggered to rebuild and redeploy the  website automatically (no need to run
+  the `hugo` command yourself or create a  `public` folder anymore)
