@@ -119,4 +119,5 @@ lastmod = ["lastmod", ":git", "date"]
 
 # See issue https://github.com/okkur/syna/issues/859 
 [minify]
-disableJS = true
+  disableJS = true
+

@@ -2,10 +2,11 @@
 
 ## Getting Started
 
-- Prerequisite: install hugo (https://gohugo.io/getting-started/installing/)
+- Prerequisite: install hugo (https://gohugo.io/getting-started/installing/) if
+  you want to see and test the changes locally
 - Clone repository and submodules:
-  - (HTTPS) `git clone --recurse-submodules https://github.com/IEEE-SaTML/website_template.git`
-  - (SSH) `git clone --recurse-submodules git@github.com:IEEE-SaTML/website_template.git`
+  - (HTTPS) `git clone --recurse-submodules https://github.com/IEEE-SaTML/ieee-satml.github.io.git`
+  - (SSH) `git clone --recurse-submodules git@github.com:IEEE-SaTML/ieee-satml.github.io.git`
 
 ## Template Architecture
 
@@ -20,15 +21,13 @@ The folder `resources` is populated by the `hugo server -D` command when locally
 
 The folder `static` contains the favicon, images, and some custom CSS for the website.
 
-The folder `public` is populated by the `hugo` command to generate the static website, the files under `public` are the ones that need to be hosted somewhere for the website to be visible, that is why `public` is defined as a git submodule pointing to the `ieee-satml.github.io` repository.
-
 ## Website Deployment
 
-* Clone the SaTML website Template
+* Clone this repository
 * Make your edits in the template files
 * View your edits locally with `hugo server -D`
-* Once satisfied with the edits, delete the HTML/CSS/JS content of the `public` folder (keep `.git` and `CNAME`), then run `hugo` to generate the static files. They will be placed automatically in the `public` folder
-* Go into the `public` folder, commit, and push the changes (static website will be redeployed by Github Pages automatically shortly after these changes have been pushed)
-* Go back to the root folder of the SaTML website Template git repository, commit, and push the modifications there too.
+* Once satisfied, commit and push your edits to Github
+* At every new commit, a Github action is triggered to rebuild and redeploy the
+  website automatically (no need to run the `hugo` command yourself or create a
+  `public` folder anymore)
 
-(See `./deploy.sh` script)
