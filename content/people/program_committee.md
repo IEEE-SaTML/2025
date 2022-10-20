@@ -47,7 +47,7 @@ subtitle = ""
 - **Chuan Guo**, Meta
 - **Dylan Hadfield-Menell**,  MIT
 - **Gillian Hadfield**,  University of Toronto
-- **Blaine Hoak**,  Pennsylvania State University
+- **Blaine Hoak**,  University of Wisconsin-Madison
 - **Thorsten Holz**,  CISPA Helmholtz Center for Information Security
 - **Sanghyun Hong**, Oregon State University
 - **Matthew Jagielski**,  Google Brain
@@ -81,7 +81,7 @@ subtitle = ""
 - **Hanie Sedghi**,  Google Brain
 - **Vikash Sehwag**, Princeton Univeristy
 - **Avital Shafran**, Hebrew University of Jerusalem
-- **Ryan Sheatsley**,  Pennsylvania State University
+- **Ryan Sheatsley**,  University of Wisconsin-Madison
 - **Ilia Shumailov**,  University of Cambridge
 - **Congzheng Song**,  Cornell University
 - **Shuang Song**,  University of California San Diego

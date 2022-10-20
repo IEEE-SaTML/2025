@@ -1,7 +1,7 @@
 +++
 weight = 1
 title = "Patrick McDaniel"
-subtitle = "Pennsylvania State University"
+subtitle = "University of Wisconsin-Madison"
 item_url = "https://patrickmcdaniel.org/"
 #disabled = true
 
