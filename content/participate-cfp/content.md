@@ -29,6 +29,7 @@ We solicit **research papers, systematization of knowledge papers, and position 
 
 * Abstracts due for Paper​ ​​submissions: **Monday, August 22, 2022** (11:59 PM AoE, UTC-12) 
 * Paper​ ​submission: **Thursday, September 1, 2022** (11:59 PM AoE, UTC-12) 
+* End of interactive discussion & revision phase: **Tuesday, November 8, 2022** (11:59 PM AoE, UTC-12) 
 * Paper​ ​notification: **Tuesday, November 15, 2022** 
 * Camera-ready​ ​versions​ of Papers and Abstracts: **Monday, December 15, 2022**
 * Conference: **Wednesday, February 8​ ​to Friday,​ February​ ​10,​ ​2023**
