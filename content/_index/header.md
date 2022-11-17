@@ -9,9 +9,8 @@ minHeight = "50vh" #66.7vw" # optional - changes hero fragment's minimum height
 
 title = "IEEE Conference on Secure and Trustworthy Machine Learning "
 subtitle1 = "February 8-10, 2023"
-subtitle2 = "Hilton Raleigh North Hills"
-subtitle3 = "Raleigh, North Carolina"
-subtitle4 = "Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)"
+subtitle2 = "Hilton Raleigh North Hills<br>Raleigh, North Carolina, USA"
+subtitle3 = "Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)"
 
 [header]
   image = "header.jpg"
