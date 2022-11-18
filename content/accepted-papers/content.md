@@ -73,6 +73,7 @@ This list is tentative as some papers are still ongoing [major revisions](/parti
 
 
 <li class="list-group-item d-flex justify-content-between align-items-start"><div class="ms-2 me-auto"> <div class="fw-bold"><b>Position: “Real Attackers Don’t Compute Gradients”: Bridging the Gap Between Adversarial ML Research and Practice</b></div>Giovanni Apruzzese, Hyrum S Anderson, Savino Dambra, David Freeman, Fabio Pierazzi, Kevin Alejandro Roundy</div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=54Jcj2YmJg" target="_blank" style="text-decoration: none; color: white;">OpenReview</a></span></li>
+<li class="list-group-item d-flex justify-content-between align-items-start"><div class="ms-2 me-auto"> <div class="fw-bold"><b>Position: Tensions Between the Proxies of Human Values in AI</b></div>Teresa Datta, Daniel Nissani, Max Cembalest, Akash Khanna, Haley Massa, John P Dickerson</div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=7EjikkMkIl" target="_blank" style="text-decoration: none; color: white;">OpenReview</a></span></li>
 
 
 
