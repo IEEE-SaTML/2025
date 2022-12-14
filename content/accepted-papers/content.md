@@ -13,6 +13,20 @@ title = "Accepted Papers"
 There were 40 papers accepted out of 152 submissions; resulting in an acceptance rate of 26.3%. For more details about the 3 types of papers that were accepted at SaTML 2023, check our [call for papers](/participate-cfp).
 
 
+#### Systematization of Knowledge (SoK) Papers
+
+<ol class="list-group mb-3 mt-3">
+
+<li class="list-group-item d-flex justify-content-between align-items-start"><div class="ms-2 me-auto"> <div class="fw-bold"><b>SoK: Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks</b></div>Dylan Hadfield-Menell <i>(Massachusetts Institute of Technology)</i>, Stephen Casper <i>(Massachusetts Institute of Technology)</i>, Anson Ho <i>(Epoch)</i>, Tilman Räuker <i>(Universität Hannover)</i></div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=8C5zt-0Utdn" target="_blank" style="text-decoration: none; color: white;">OpenReview</a></span></li>
+<li class="list-group-item d-flex justify-content-between align-items-start"><div class="ms-2 me-auto"> <div class="fw-bold"><b>SoK: A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms</b></div>Amanda Lee Coston <i>(School of Computer Science, Carnegie Mellon University)</i>, Haiyi Zhu <i>(Carnegie Mellon University)</i>, Ken Holstein <i>(School of Computer Science, Carnegie Mellon University)</i>, Hoda Heidari <i>(Carnegie Mellon University)</i>, Anna Kawakami <i>(CMU, Carnegie Mellon University)</i></div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=LghfT9-phCc" target="_blank" style="text-decoration: none; color: white;">OpenReview</a></span></li>
+<li class="list-group-item d-flex justify-content-between align-items-start"><div class="ms-2 me-auto"> <div class="fw-bold"><b>SoK: Harnessing Prior Knowledge for Explainable Machine Learning: An Overview</b></div>Katharina Beckh <i>(Fraunhofer Institute IAIS, Fraunhofer IAIS)</i>, Laura von Rueden <i>(Fraunhofer Institute IAIS, Fraunhofer IAIS)</i>, Matthias Jakobs <i>(TU Dortmund)</i>, Pascal Welke <i>(University of Bonn)</i>, Sebastian Houben <i>(Hochschule Bonn-Rhein-Sieg)</i>, Vanessa Toborek <i>(Rheinische Friedrich-Wilhelms Universität Bonn)</i>, Hanxiao Tan <i>(Technische Universität Dortmund)</i>, Raphael Fischer <i>(TU Dortmund University)</i>, Sebastian Müller <i>(Rheinische Friedrich-Wilhelms Universität Bonn)</i></div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=1KE7TlU4bOt" target="_blank" style="text-decoration: none; color: white;">OpenReview</a></span></li>
+
+
+
+
+</ol>
+
+
 #### Research Papers
 
 
@@ -65,18 +79,7 @@ There were 40 papers accepted out of 152 submissions; resulting in an acceptance
 </ol>
 
 
-#### Systematization of Knowledge (SoK) Papers
 
-<ol class="list-group mb-3 mt-3">
-
-<li class="list-group-item d-flex justify-content-between align-items-start"><div class="ms-2 me-auto"> <div class="fw-bold"><b>SoK: Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks</b></div>Dylan Hadfield-Menell <i>(Massachusetts Institute of Technology)</i>, Stephen Casper <i>(Massachusetts Institute of Technology)</i>, Anson Ho <i>(Epoch)</i>, Tilman Räuker <i>(Universität Hannover)</i></div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=8C5zt-0Utdn" target="_blank" style="text-decoration: none; color: white;">OpenReview</a></span></li>
-<li class="list-group-item d-flex justify-content-between align-items-start"><div class="ms-2 me-auto"> <div class="fw-bold"><b>SoK: A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms</b></div>Amanda Lee Coston <i>(School of Computer Science, Carnegie Mellon University)</i>, Haiyi Zhu <i>(Carnegie Mellon University)</i>, Ken Holstein <i>(School of Computer Science, Carnegie Mellon University)</i>, Hoda Heidari <i>(Carnegie Mellon University)</i>, Anna Kawakami <i>(CMU, Carnegie Mellon University)</i></div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=LghfT9-phCc" target="_blank" style="text-decoration: none; color: white;">OpenReview</a></span></li>
-<li class="list-group-item d-flex justify-content-between align-items-start"><div class="ms-2 me-auto"> <div class="fw-bold"><b>SoK: Harnessing Prior Knowledge for Explainable Machine Learning: An Overview</b></div>Katharina Beckh <i>(Fraunhofer Institute IAIS, Fraunhofer IAIS)</i>, Laura von Rueden <i>(Fraunhofer Institute IAIS, Fraunhofer IAIS)</i>, Matthias Jakobs <i>(TU Dortmund)</i>, Pascal Welke <i>(University of Bonn)</i>, Sebastian Houben <i>(Hochschule Bonn-Rhein-Sieg)</i>, Vanessa Toborek <i>(Rheinische Friedrich-Wilhelms Universität Bonn)</i>, Hanxiao Tan <i>(Technische Universität Dortmund)</i>, Raphael Fischer <i>(TU Dortmund University)</i>, Sebastian Müller <i>(Rheinische Friedrich-Wilhelms Universität Bonn)</i></div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=1KE7TlU4bOt" target="_blank" style="text-decoration: none; color: white;">OpenReview</a></span></li>
-
-
-
-
-</ol>
 
 #### Position Papers
 
