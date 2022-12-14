@@ -15,4 +15,9 @@ subtitle3 = "Sponsored by the [IEEE Computer Society Technical Committee of Secu
 [header]
   image = "header.jpg"
 
+[[buttons]]
+  text = "Register"
+  url = "/attend"
+  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
 +++
