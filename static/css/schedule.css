@@ -29,6 +29,10 @@ form legend {
  display:block
 }
 
+.fw-bold {
+  font-weight: bolder;
+}
+
 .cd-schedule ol, .cd-schedule ul {
  list-style:none
 }
@@ -3189,7 +3193,7 @@ mark {
  .js .cd-schedule__top-info>span {
   font-weight:normal;
   font-size:0.83333em;
-  font-size:var(--text-sm);
+  font-size:var(--text-base);
   margin-bottom:0
  }
 }

@@ -14,7 +14,10 @@ will be presented in the form of:
 * A 15 min talk followed by a 5 min Q&A session
 * A poster at the poster session 
 
-The poster session is an opportunity for attendees to continue conversations with the paper authors.
+The poster session is an opportunity for attendees to continue conversations
+with the paper authors.
+
+*On the schedule below: click on each session to obtain the list of corresponding papers*
 
 <script>document.getElementsByTagName("html")[0].className += " js";</script>
 
@@ -72,7 +75,7 @@ data-event="event-5" >
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="10:35" data-end="12:00" data-content="session-d-1"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #D - Integrity at
@@ -86,7 +89,7 @@ inference (part 1)</em>
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="13:00" data-end="14:45" data-content="session-d-2"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #D - Integrity at
@@ -100,7 +103,7 @@ inference (part 2)</em>
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="15:00" data-end="16:45" data-content="session-g"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #G - Verification in
@@ -114,7 +117,7 @@ Machine Learning</em>
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="17:00" data-end="18:00" data-content="session-e"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #E - Integrity at training
@@ -132,7 +135,7 @@ bold;">Thursday, February 9</span></div>
 
 <ul>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="09:00" data-end="10:20" data-content="session-f"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #F - Interpretability and
@@ -146,7 +149,7 @@ explainability</em>
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="10:35" data-end="12:00" data-content="session-a"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #A - Fairness</em>
@@ -172,14 +175,14 @@ data-content="keynote-timnit" data-event="event-5" >
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="14:15" data-end="14:55" data-content="session-i"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #I - Responsible AI</em>
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="14:55" data-end="16:15" data-content="session-h"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #H - Model governance</em>
@@ -192,9 +195,9 @@ data-event="event-1" >
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="16:30" data-end="17:30"
-data-content="poster-session" data-event="event-2" >
+data-content="session-poster" data-event="event-2" >
 <em class="cd-schedule__name">Poster session for all papers</em>
 </a>
 </li>
@@ -223,7 +226,7 @@ data-content="tutorial-gautam" data-event="event-5" >
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="10:15" data-end="12:00" data-content="session-b"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #B - Privacy</em>
@@ -236,7 +239,7 @@ data-event="event-1" >
 </a>
 </li>
 
-<li class="cd-schedule__event" open-modal="false">
+<li class="cd-schedule__event" open-modal="true">
 <a data-start="13:00" data-end="14:20" data-content="session-c"
 data-event="event-1" >
 <em class="cd-schedule__name">Session #C - Distributed and

@@ -25,6 +25,26 @@ The folder `static` contains the favicon, images, and some custom CSS for the we
 
 We use the following [component](https://codyhouse.co/gem/schedule-template).
 
+Here is the corresponding README for that template: 
+### Schedule Template
+
+A simple template that lets you display events on a timeline, as well as organize them in groups (week days, conference rooms etc…).
+
+[Article on CodyHouse](https://codyhouse.co/gem/schedule-template)
+
+[Demo](https://codyhouse.co/demo/schedule-template)
+ 
+[License](https://codyhouse.co/license)
+
+### Dependencies
+
+This experiment is built upon the [CodyHouse Framework](https://github.com/CodyHouse/codyhouse-framework).
+
+Make sure to include both the style.scss and util.js files of the framework.
+
+(Addded note by Yohan: .scss deleted as not needed)
+
+
 ## Website Deployment
 
 * Clone this repository
