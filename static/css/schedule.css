@@ -6,6 +6,10 @@
  font:inherit
 }
 
+nav[role="navigation"]{
+  z-index: 100 !important;
+}
+
 html {
  box-sizing:border-box
 }
@@ -3262,7 +3266,7 @@ mark {
 .cd-schedule__name,
 .cd-schedule-modal__name {
  font-size:1.44em;
- font-size:var(--text-lg)
+ font-size:calc(var(--text-sm)*1.2);
 }
 @media (min-width: 64rem) {
  .cd-schedule__name,
@@ -3313,7 +3317,7 @@ mark {
 }
 .cd-schedule-modal {
  position:fixed;
- z-index:3;
+ z-index:1000 !important;
  top:0;
  right:0;
  height:100%;

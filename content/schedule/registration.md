@@ -78,8 +78,8 @@ data-event="event-5" >
 <li class="cd-schedule__event" open-modal="true">
 <a data-start="10:35" data-end="12:00" data-content="session-d-1"
 data-event="event-1" >
-<em class="cd-schedule__name">Session #D - Integrity at
-inference (part 1)</em>
+<em class="cd-schedule__name">Session #D - Integrity at inference (part
+1)</em>
 </a>
 </li>
 
@@ -92,8 +92,8 @@ inference (part 1)</em>
 <li class="cd-schedule__event" open-modal="true">
 <a data-start="13:00" data-end="14:45" data-content="session-d-2"
 data-event="event-1" >
-<em class="cd-schedule__name">Session #D - Integrity at
-inference (part 2)</em>
+<em class="cd-schedule__name">Session #D - Integrity at inference (part
+2)</em>
 </a>
 </li>
 
@@ -106,8 +106,8 @@ inference (part 2)</em>
 <li class="cd-schedule__event" open-modal="true">
 <a data-start="15:00" data-end="16:45" data-content="session-g"
 data-event="event-1" >
-<em class="cd-schedule__name">Session #G - Verification in
-Machine Learning</em>
+<em class="cd-schedule__name">Session #G - Verification in Machine
+Learning</em>
 </a>
 </li>
 
@@ -120,8 +120,7 @@ Machine Learning</em>
 <li class="cd-schedule__event" open-modal="true">
 <a data-start="17:00" data-end="18:00" data-content="session-e"
 data-event="event-1" >
-<em class="cd-schedule__name">Session #E - Integrity at training
-time</em>
+<em class="cd-schedule__name">Session #E - Integrity at training time</em>
 </a>
 </li>
 
@@ -163,8 +162,8 @@ data-event="event-1" >
 </li>
 
 <li class="cd-schedule__event">
-<a data-start="13:00" data-end="14:00"
-data-content="keynote-timnit" data-event="event-5" >
+<a data-start="13:00" data-end="14:00" data-content="keynote-timnit"
+data-event="event-5" >
 <em class="cd-schedule__name">Keynote by Timnit Gebru</em>
 </a>
 </li>
@@ -196,8 +195,8 @@ data-event="event-1" >
 </li>
 
 <li class="cd-schedule__event" open-modal="true">
-<a data-start="16:30" data-end="17:30"
-data-content="session-poster" data-event="event-2" >
+<a data-start="16:30" data-end="17:30" data-content="session-poster"
+data-event="event-2" >
 <em class="cd-schedule__name">Poster session for all papers</em>
 </a>
 </li>
@@ -208,14 +207,14 @@ data-content="session-poster" data-event="event-2" >
 
 
 <li class="cd-schedule__group">
-<div class="cd-schedule__top-info"><span style="font-weight:
-bold;">Friday, February 10</span></div>
+<div class="cd-schedule__top-info"><span style="font-weight: bold;">Friday,
+February 10</span></div>
 
 <ul>
 
 <li class="cd-schedule__event">
-<a data-start="09:00" data-end="10:00"
-data-content="tutorial-gautam" data-event="event-5" >
+<a data-start="09:00" data-end="10:00" data-content="tutorial-gautam"
+data-event="event-5" >
 <em class="cd-schedule__name">Tutorial by Gautam Kamath</em>
 </a>
 </li>
@@ -242,21 +241,21 @@ data-event="event-1" >
 <li class="cd-schedule__event" open-modal="true">
 <a data-start="13:00" data-end="14:20" data-content="session-c"
 data-event="event-1" >
-<em class="cd-schedule__name">Session #C - Distributed and
-Collaborative Learning</em>
+<em class="cd-schedule__name">Session #C - Distributed and Collaborative
+Learning</em>
 </a>
 </li>
 
 <li class="cd-schedule__event">
-<a data-start="14:20" data-end="14:30" data-event="event-3" style="font-size:
-calc(var(--text-sm));" >
+<a data-start="14:20" data-end="14:30" data-event="event-3"
+style="font-size: calc(var(--text-sm));" >
 <em class="cd-schedule__name">Break</em>
 </a>
 </li>
 
 <li class="cd-schedule__event">
-<a data-start="14:30" data-end="15:30"
-data-content="tutorial-jacob" data-event="event-5" >
+<a data-start="14:30" data-end="15:30" data-content="tutorial-jacob"
+data-event="event-5" >
 <em class="cd-schedule__name">Tutorial by Jacob Steinhardt</em>
 </a>
 </li>
