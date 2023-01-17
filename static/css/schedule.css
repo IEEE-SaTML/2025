@@ -5,7 +5,9 @@
 .cd-schedule * {
  font:inherit
 }
-
+.bg-secondary {
+  background-color: #f8f9fa !important;
+}
 nav[role="navigation"]{
   z-index: 100 !important;
 }
@@ -3038,7 +3040,7 @@ mark {
 }
 @media (min-width: 64rem) {
  .js .cd-schedule {
-  width:100%;
+  width:calc(100% - 2*var(--component-padding));
   margin-left:auto;
   margin-right:auto;
   max-width:90rem;
