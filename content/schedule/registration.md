@@ -49,7 +49,7 @@ js-cd-schedule">
 </div> <!-- .cd-schedule__timeline -->
 
 <div class="cd-schedule__events">
-<ul>
+<ul style="padding-left: 20px;">
 
 <li class="cd-schedule__group">
 <div class="cd-schedule__top-info"><span style="font-weight:
