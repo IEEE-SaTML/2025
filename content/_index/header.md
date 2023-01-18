@@ -20,4 +20,9 @@ subtitle3 = "Sponsored by the [IEEE Computer Society Technical Committee of Secu
   url = "/attend"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
+[[buttons]]
+  text = "Schedule"
+  url = "/schedule"
+  color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
 +++

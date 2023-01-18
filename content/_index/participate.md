@@ -15,4 +15,10 @@ title = ""
 * Prior to the conference in February 2023, you are invited to [participate in competitions](/participate-competitions)  that have been accepted to SaTML.
 * Registration and information to attend the conference in February 2023 are posted [here](/attend).
 * Accepted papers are now posted [here](/accepted-papers).
-* We are very excited to share that [Timnit Gebru](https://www.dair-institute.org/about) and [Zico Kolter](https://zicokolter.com/) will be the keynote speakers for this first edition of SaTML!
+* We are very excited to share that [Timnit
+  Gebru](https://www.dair-institute.org/about) and [Zico
+  Kolter](https://zicokolter.com/) will be the keynote speakers as well as
+  [Gautam Kamath](http://www.gautamkamath.com/)
+  and [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/) the tutorial speakers for this first
+  edition of SaTML! 
+* The schedule of the conference can be found [here](/schedule).
