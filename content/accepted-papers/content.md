@@ -12,6 +12,8 @@ title = "Accepted Papers"
 
 There were 40 papers accepted out of 152 submissions; resulting in an acceptance rate of 26.3%. For more details about the 3 types of papers that were accepted at SaTML 2023, check our [call for papers](/participate-cfp).
 
+Conference attendees can access the proceedings <a href="https://conferences.computer.org/satmlpub/#!/toc/0" target="_blank">here</a> (username and password communicated at the conference).
+
 
 #### Systematization of Knowledge (SoK) Papers
 
