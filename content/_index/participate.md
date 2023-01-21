@@ -20,5 +20,5 @@ title = ""
   Kolter](https://zicokolter.com/) will be the keynote speakers as well as
   [Gautam Kamath](http://www.gautamkamath.com/)
   and [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/) the tutorial speakers for this first
-  edition of SaTML! 
+  edition of SaTML! Find more details on the schedule once posted.
 * The schedule of the conference can be found [here](/schedule).

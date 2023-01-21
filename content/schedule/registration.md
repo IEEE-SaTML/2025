@@ -17,4 +17,5 @@ will be presented in the form of:
 The poster session is an opportunity for attendees to continue conversations
 with the paper authors.
 
-*On the schedule below: click on each session to obtain the list of corresponding papers*
+**On the schedule below: click on each session to obtain more information like
+the list of corresponding papers or the keynote and tutorial details.**
