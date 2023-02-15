@@ -8,7 +8,6 @@ weight = 25
 title = ""
 #subtitle = ""
 +++
-* Recordings of the keynotes, tutorials, contributed talks, and competitions are [now available here](/videos).
 * ~~[Call for Competitions (closed)](/participate-cfc), due by **Friday, July 29, 2022** (11:59 PM AoE, UTC-12)~~
 * ~~[Call for Papers (closed)](/participate-cfp):~~
   * ~~Abstracts due by **Monday, August 22, 2022** (11:59 PM AoE, UTC-12)~~ 
@@ -24,4 +23,6 @@ title = ""
   edition of SaTML!
 * The schedule of the conference can be found [here](/schedule).
 * The final report for the [Machine Learning Model Attribution
-  Challenge](https://mlmac.io/) is available [here](participate-competitions/).
+  Challenge](https://mlmac.io/) is available [here](participate-competitions/)
+  and the results of the [MICO: A Membership Inference Competition](https://github.com/microsoft/MICO) are [here](https://microsoft.github.io/MICO/).
+* **Recordings of the keynotes, tutorials, contributed talks, and competitions are [now available here](/videos)**.
