@@ -5,12 +5,15 @@ date = "2022-08-09"
 weight = 200
 #background = ""
 
-title = "Final report"
+title = "Results and final report"
 #subtitle = ""
 +++
 
+The Winners of the **MICO: A Membership Inference Competition** can be found
+[here](https://microsoft.github.io/MICO/).
 
-Here is the final report for the **ML Model Attribution Challenge** that was
+
+Below is the final report for the **ML Model Attribution Challenge** that was
 organized along with this first edition of SaTML. To cite the report:
 
 ```bibtex

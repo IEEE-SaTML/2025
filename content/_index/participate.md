@@ -12,8 +12,8 @@ title = ""
 * ~~[Call for Papers (closed)](/participate-cfp):~~
   * ~~Abstracts due by **Monday, August 22, 2022** (11:59 PM AoE, UTC-12)~~ 
   * ~~Full Paper​ ​submissions due by **Thursday, September 1, 2022** (11:59 PM AoE, UTC-12)~~
-* Prior to the conference in February 2023, you are invited to [participate in competitions](/participate-competitions)  that have been accepted to SaTML.
-* Registration and information to attend the conference in February 2023 are posted [here](/attend).
+* ~~Prior to the conference in February 2023, you are invited to [participate in competitions](/participate-competitions)  that have been accepted to SaTML.~~
+* ~~Registration and information to attend the conference in February 2023 are posted [here](/attend).~~
 * Accepted papers are now posted [here](/accepted-papers).
 * We are very excited to share that [Timnit
   Gebru](https://www.dair-institute.org/about) and [Zico
@@ -23,4 +23,6 @@ title = ""
   edition of SaTML!
 * The schedule of the conference can be found [here](/schedule).
 * The final report for the [Machine Learning Model Attribution
-  Challenge](https://mlmac.io/) is available [here](participate-competitions/).
+  Challenge](https://mlmac.io/) is available [here](participate-competitions/)
+  and the results of the [MICO: A Membership Inference Competition](https://github.com/microsoft/MICO) are [here](https://microsoft.github.io/MICO/).
+* **Recordings of the keynotes, tutorials, contributed talks, and competitions are [now available here](/videos)**.

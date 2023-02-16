@@ -16,13 +16,13 @@ subtitle3 = "Sponsored by the [IEEE Computer Society Technical Committee of Secu
   image = "header.jpg"
 
 [[buttons]]
-  text = "Register"
-  url = "/attend"
-  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
-
-[[buttons]]
   text = "Schedule"
   url = "/schedule"
   color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
+[[buttons]]
+  text = "Video Recordings"
+  url = "/videos"
+  color = "danger" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 +++

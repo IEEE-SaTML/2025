@@ -71,23 +71,18 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
-  url = "/attend"
-  name = "Attend"
+  url = "/videos"
+  name = "Video Recordings"
   weight = 20
 
 [[menu.main]]
   url = "/schedule"
   name = "Schedule"
-  weight = 25
+  weight = 35
 
 [[menu.main]]
   url = "/accepted-papers"
   name = "Accepted Papers"
-  weight = 30
-
-[[menu.main]]
-  url = "/participate-competitions"
-  name = "Participate in Competitions"
   weight = 40
 
 [[menu.main]]
