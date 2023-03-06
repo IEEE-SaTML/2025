@@ -14,6 +14,12 @@ There were 40 papers accepted out of 152 submissions; resulting in an acceptance
 rate of 26.3%. For more details about the 3 types of papers that were accepted
 at SaTML 2023, check our [call for papers](/participate-cfp).
 
+Two best paper awards were announced at the conference:
+* *SoK: A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms*
+by Amanda Coston (Carnegie Mellon University, USA), Anna Kawakami (Carnegie Mellon University, USA), Haiyi Zhu (Carnegie Mellon University, USA), Ken Holstein (Carnegie Mellon University, USA), andHoda Heidari (Carnegie Mellon University, USA).
+* *Optimal Data Acquisition with Privacy-Aware Agents* by Rachel Cummings (Columbia University), Hadi Elzayn (Stanford University), Emmanouil Pountourakis (Drexel University), Vasilis Gkatzelis (Drexel University), and Juba Ziani (Georgia Institute of Technology).
+
+
 Conference attendees can access the proceedings <a href="https://conferences.computer.org/satmlpub/#!/toc/0" target="_blank">here</a> (username and password communicated at the conference).
 
 
