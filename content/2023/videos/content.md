@@ -725,7 +725,7 @@ title = "Video Recordings for SaTML 2023"
 <div class="col-9"> 
 <h5 class="mt-0 mb-1">Model Attribution Challenge<span class="badge bg-danger rounded-pill"><a href="http://mlmac.io/" target="_blank" style="text-decoration: none; color: white;">Website</a></span></h5>
 <p><i>organized by Deepesh Chaudhari, Hyrum Anderson, Keith Manville, Lily Wong, Jonathan Broadbent, Christina Liaghati, Joao Gante, Ram Shankar, Yonadav Shavit, Elizabeth Merkhofer</i></p>
-<div><b>Final report</b> <a href="/participate-competitions/" target="_blank">here</a></div>
+<div><b>Final report</b> <a href="/2023/participate-competitions/" target="_blank">here</a></div>
 </div> 
 </div>
 </div>

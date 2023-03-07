@@ -71,24 +71,34 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
-  url = "/videos"
-  name = "Video Recordings"
+  url = "/participate-cfp"
+  name = "Call for Papers"
   weight = 20
 
 [[menu.main]]
-  url = "/schedule"
-  name = "Schedule"
-  weight = 35
+  url = "/participate-cfc"
+  name = "Call for Competitions"
+  weight = 30
 
 [[menu.main]]
-  url = "/accepted-papers"
-  name = "Accepted Papers"
-  weight = 40
+  url = "/attend"
+  name = "Attend"
+  weight = 35
+
+# [[menu.main]]
+#  url = "/accepted-papers"
+#  name = "Accepted Papers"
+#  weight = 40
 
 [[menu.main]]
   url = "/people"
   name = "People"
   weight = 50
+
+[[menu.main]]
+  url = "/contact"
+  name = "Contact"
+  weight = 55
 
 [[menu.main]]
   url = "/past"

@@ -6,5 +6,5 @@ item_url = "https://www.papernot.fr/"
 #disabled = true
 
 [asset]
-  image = "people/Nicolas-Papernot.jpg"
+  image = "2023/people/Nicolas-Papernot.jpg"
 +++

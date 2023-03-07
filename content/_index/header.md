@@ -8,21 +8,47 @@ particles = false
 minHeight = "50vh" #66.7vw" # optional - changes hero fragment's minimum height
 
 title = "IEEE Conference on Secure and Trustworthy Machine Learning "
-subtitle1 = "February 8-10, 2023"
-subtitle2 = "Hilton Raleigh North Hills<br>Raleigh, North Carolina, USA"
+subtitle1 = "Date TBD, 2024"
+subtitle2 = "Location<br>TBD"
 subtitle3 = "Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)"
 
 [header]
-  image = "header.jpg"
+  image = "2024/header.jpg"
 
 [[buttons]]
-  text = "Schedule"
-  url = "/schedule"
-  color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+text = "Call For Papers"
+url = "/participate-cfp"
+color = "primary"
 
 [[buttons]]
-  text = "Video Recordings"
-  url = "/videos"
-  color = "danger" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+text = "Call For Competitions"
+url = "/participate-cfc"
+color = "secondary" 
+
+[[buttons]]
+text = "Attend"
+url = "/attend"
+color = "info"
+
+#[[buttons]]
+#  text = "Accepted Papers"
+#  url = "/accepted-papers"
+#  color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
+#[[buttons]]
+#  text = "Competitions"
+#  url = "/participate-competitions"
+#  color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
+
+#[[buttons]]
+#  text = "Schedule"
+#  url = "/schedule"
+#  color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
+#[[buttons]]
+#  text = "Video Recordings"
+#  url = "/videos"
+#  color = "danger" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 +++

@@ -6,5 +6,5 @@ item_url = "https://aisecure.github.io/"
 #disabled = true
 
 [asset]
-  image = "people/Bo-Li.jpg"
+  image = "2023/people/Bo-Li.jpg"
 +++

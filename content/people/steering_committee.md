@@ -2,6 +2,7 @@
 date = "2022-08-09"
 fragment = "portfolio"
 weight = 10
+#disabled = true
 #background = "secondary"
 
 title = "Steering Committee"

@@ -6,5 +6,5 @@ item_url = "https://madry.mit.edu/"
 #disabled = true
 
 [asset]
-  image = "people/Aleksander-Madry.png"
+  image = "2023/people/Aleksander-Madry.png"
 +++

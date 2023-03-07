@@ -6,5 +6,5 @@ item_url = "https://patrickmcdaniel.org/"
 #disabled = true
 
 [asset]
-  image = "people/Patrick-McDaniel.png"
+  image = "2023/people/Patrick-McDaniel.png"
 +++

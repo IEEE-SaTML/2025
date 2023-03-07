@@ -13,12 +13,42 @@ subtitle2 = "Hilton Raleigh North Hills<br>Raleigh, North Carolina, USA"
 subtitle3 = "Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)"
 
 [header]
-  image = "header.jpg"
+  image = "2023/header.jpg"
+
+[[buttons]]
+  text = "Call For Papers"
+  url = "/2023/participate-cfp"
+  color = "primary"
+  
+[[buttons]]
+text = "Call For Competitions"
+url = "/2023/participate-cfc"
+color = "primary" 
+
+[[buttons]]
+text = "Attend"
+url = "/2023/attend"
+color = "secondary"
+
+[[buttons]]
+text = "People"
+url = "/2023/people"
+color = "secondary"
 
 [[buttons]]
   text = "Schedule"
   url = "/2023/schedule"
-  color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  
+[[buttons]]
+  text = "Accepted Papers"
+  url = "/2023/accepted-papers"
+  color = "success"
+
+[[buttons]]
+  text = "Competitions"
+  url = "/2023/participate-competitions"
+  color = "success"
 
 [[buttons]]
   text = "Video Recordings"

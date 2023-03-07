@@ -6,5 +6,5 @@ item_url = "https://zicokolter.com/"
 #disabled = true
 
 [asset]
-  image = "people/Zico-Kolter.jpg"
+  image = "2023/people/Zico-Kolter.jpg"
 +++

@@ -6,5 +6,5 @@ item_url = "https://beenkim.github.io/"
 #disabled = true
 
 [asset]
-  image = "people/Been-Kim.png"
+  image = "2023/people/Been-Kim.png"
 +++
