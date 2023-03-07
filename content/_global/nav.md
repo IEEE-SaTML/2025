@@ -17,5 +17,5 @@ background = "primary"
 
 # Branding options
 [asset]
-  text = "IEEE SaTML 2023"
+  text = "IEEE SaTML 2024"
 +++

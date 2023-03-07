@@ -42,7 +42,7 @@ This experiment is built upon the [CodyHouse Framework](https://github.com/CodyH
 
 Make sure to include both the style.scss and util.js files of the framework.
 
-(Addded note by Yohan: .scss deleted as not needed)
+(Added note by Yohan: .scss deleted as not needed)
 
 
 ## Website Deployment
@@ -54,3 +54,21 @@ Make sure to include both the style.scss and util.js files of the framework.
 * At every new commit pushed to the `main` branch on Github, a Github Action is
   triggered to rebuild and redeploy the  website automatically (no need to run
   the `hugo` command yourself or create a  `public` folder anymore)
+
+
+## Preparing website for new edition
+
+We want to archive the version of the current edition that just happened and
+prepare the website for the following year. 
+
+1. Let's switch to a new branch `git checkout -b 20xx`
+2. Create the corresponding folders under `static` to store the new edition's
+   files/pictures
+3. Under `content` create a folder for the previous edition, copy-paste there
+   the content of the `content` folder (`_index`,
+   `accepted-papers`, ..., `_index.md`) except the `_global` and `past` folders.
+4. Under `content/past` add the previous edition and different links
+5. Update accordingly the links on the pages, and the menu of the website to
+   correctly point to previous edition where it needs to and next edition
+   otherwise, remove details about previous edition that are not needed anymore.
+   
