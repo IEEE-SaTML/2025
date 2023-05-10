@@ -27,12 +27,12 @@ We solicit **research papers, systematization of knowledge papers, and position 
 
 #### Important Dates
 
-* Abstracts due for Paper​ ​​submissions: **Date, TBD, 2023** (11:59 PM AoE, UTC-12) 
-* Paper​ ​submission: **Date, TBD, 2023**(11:59 PM AoE, UTC-12) 
+* Abstracts due for Paper​ ​​submissions: **Wednesday, October 4, 2023** (11:59 PM AoE, UTC-12) 
+* Paper​ ​submission: **Wednesday, October 11, 2023**(11:59 PM AoE, UTC-12) 
 * End of interactive discussion & revision phase: **Date, TBD, 2023** (11:59 PM AoE, UTC-12) 
-* Paper​ ​notification: **Date, TBD, 2023** 
-* Camera-ready​ ​versions​ of Papers and Abstracts: **Date, TBD, 2023**
-* Conference: **Date, TBD, 2023**
+* Paper​ ​notification: **Tuesday, December 19, 2023** 
+* Camera-ready​ ​versions​ of Papers and Abstracts: **Date, TBD, 2024**
+* Conference: **Monday, June 10 to Wednesday, June 12, 2024**
 
 #### Submission Details
 

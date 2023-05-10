@@ -3,14 +3,14 @@ fragment = "hero"
 #disabled = true
 date = "2022-08-09"
 weight = 1
-background = "light" # can influence the text color
+background = "secondary" # can influence the text color
 particles = false
 minHeight = "50vh" #66.7vw" # optional - changes hero fragment's minimum height
 
-title = "IEEE Conference on Secure and Trustworthy Machine Learning "
-subtitle1 = "Date TBD, 2024"
-subtitle2 = "Location<br>TBD"
-subtitle3 = "Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)"
+title = "IEEE Conference on Secure and Trustworthy Machine Learning"
+subtitle1 = "June 10-12, 2024<br>University of Toronto<br>Toronto, Ontario - Canada<br><br>Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)"
+subtitle2 = "<br>"
+subtitle3 = "<br>"
 
 [header]
   image = "2024/header.jpg"
