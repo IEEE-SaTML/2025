@@ -1,5 +1,5 @@
 +++
-weight = 2
+weight = 5
 title = "Zico Kolter"
 subtitle = "Carnegie Mellon University"
 item_url = "https://zicokolter.com/"

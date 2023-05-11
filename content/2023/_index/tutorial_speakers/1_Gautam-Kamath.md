@@ -6,5 +6,5 @@ item_url = "http://www.gautamkamath.com/"
 #disabled = true
 
 [asset]
-  image = "people/Gautam-Kamath.jpg"
+  image = "2023/people/Gautam-Kamath.jpg"
 +++

@@ -6,5 +6,5 @@ item_url = "https://jsteinhardt.stat.berkeley.edu/"
 #disabled = true
 
 [asset]
-  image = "people/Jacob-Steinhardt.png"
+  image = "2023/people/Jacob-Steinhardt.png"
 +++

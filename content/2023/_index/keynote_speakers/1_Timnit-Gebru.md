@@ -6,5 +6,5 @@ item_url = "https://www.dair-institute.org/about"
 #disabled = true
 
 [asset]
-  image = "people/Timnit_Gebru.jpg"
+  image = "2023/people/Timnit_Gebru.jpg"
 +++
