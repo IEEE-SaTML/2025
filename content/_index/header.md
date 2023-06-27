@@ -3,7 +3,7 @@ fragment = "hero"
 #disabled = true
 date = "2022-08-09"
 weight = 1
-background = "white" # can influence the text color
+background = "dark" # can influence the text color
 particles = false
 minHeight = "50vh" #66.7vw" # optional - changes hero fragment's minimum height
 
