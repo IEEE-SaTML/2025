@@ -35,14 +35,14 @@ Proposals will be evaluated based on factors such as:
 
 #### Important Dates (anywhere on earth)
 
-* Competition proposal submission deadline: **Date, TBD, 2023** (11:59 PM AoE, UTC-12)
+* Competition proposal submission deadline: **August 24th, 2023** (11:59 PM AoE, UTC-12)
 
-* Acceptance notification: **Date, TBD, 2023**
+* Acceptance notification: **August 31st, 2023**
 
-* Competition track (during the conference): **Date, TBD, 2023**
+* Competition track (during the conference): **April 10-12, 2024**
 
 #### Additional Comments
 
-Competition organizers should propose a timeline for running the competition to ensure participants have enough time to contribute high-quality entries. It is recommended that competitions be completed by mid **Date, TBD, 2023** (that is, one month prior to the SaTML conference) at the absolute latest.
+Competition organizers should propose a timeline for running the competition to ensure participants have enough time to contribute high-quality entries. It is recommended that competitions be completed by mid **March 2024** (that is, one month prior to the SaTML conference) at the absolute latest.
 
 Competition organizers that require help or suggestions regarding competition platforms for running the competition can contact [contact@satml.org](mailto:contact@satml.org) for advice.

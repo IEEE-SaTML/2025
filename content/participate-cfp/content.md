@@ -32,11 +32,11 @@ We solicit **research papers, systematization of knowledge papers, and position 
 * End of interactive discussion & revision phase: **Date, TBD, 2023** (11:59 PM AoE, UTC-12) 
 * Paper​ ​notification: **Tuesday, December 19, 2023** 
 * Camera-ready​ ​versions​ of Papers and Abstracts: **Date, TBD, 2024**
-* Conference: **Monday, June 10 to Wednesday, June 12, 2024**
+* Conference: **April 10-12, 2024**
 
 #### Submission Details
 
-* The website for submissions is TBD
+* The website for submissions is here: https://openreview.net/group?id=IEEE.org/SaTML/2024/Conference
 
 * Submissions must use the two-column IEEE Proceedings style: https://www.ieee.org/conferences/publishing/templates.html (Note: use `\documentclass[conference]{IEEEtran}` for your submission)
 
