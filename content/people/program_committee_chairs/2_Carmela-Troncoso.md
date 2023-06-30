@@ -6,5 +6,5 @@ item_url = "http://carmelatroncoso.com/"
 #disabled = true
 
 [asset]
-  image = "2024/people/Carmela-Troncoso.jpeg"
+  image = "2024/people/Carmela-Troncoso.jpg"
 +++
