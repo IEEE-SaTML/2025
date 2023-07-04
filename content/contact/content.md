@@ -9,6 +9,6 @@ title = "Contact"
 #subtitle = ""
 +++
 
-**General Chair** - Name - Affiliation – [contact@satml.org](mailto:contact@satml.org)
+**General Chair** - Nicolas Papernot – University of Toronto & Vector Institute & Google Brain – [contact@satml.org](mailto:contact@satml.org)
 
 **Program Chairs** - Nicolas Papernot and Carmela Troncoso - [satml@googlegroups.com](mailto:satml@googlegroups.com)

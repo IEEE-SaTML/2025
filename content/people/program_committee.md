@@ -10,6 +10,4 @@ subtitle = ""
 #title_align = "left" # Default is center, can be left,  right or center
 +++
 
-- **Name**, Affiliation 
-- **Name**, Affiliation 
-- **Name**, Affiliation 
+To be announced later.
