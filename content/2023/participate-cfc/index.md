@@ -1,0 +1,4 @@
++++
+title = "Call For Competitions 2023"
+date = "2022-08-09"
++++

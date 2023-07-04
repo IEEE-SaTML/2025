@@ -27,16 +27,16 @@ We solicit **research papers, systematization of knowledge papers, and position 
 
 #### Important Dates
 
-* Abstracts due for Paper​ ​​submissions: **Monday, August 22, 2022** (11:59 PM AoE, UTC-12) 
-* Paper​ ​submission: **Thursday, September 1, 2022** (11:59 PM AoE, UTC-12) 
-* End of interactive discussion & revision phase: **Tuesday, November 8, 2022** (11:59 PM AoE, UTC-12) 
-* Paper​ ​notification: **Tuesday, November 15, 2022** 
-* Camera-ready​ ​versions​ of Papers and Abstracts: **Tuesday, December 27, 2022**
-* Conference: **Wednesday, February 8​ ​to Friday,​ February​ ​10,​ ​2023**
+* Abstracts due for Paper​ ​​submissions: **Wednesday, October 4, 2023** (11:59 PM AoE, UTC-12) 
+* Paper​ ​submission: **Wednesday, October 11, 2023**(11:59 PM AoE, UTC-12) 
+* Interactive discussion & revision phase: **November 28 - December 12, 2023** (11:59 PM AoE, UTC-12) 
+* Paper​ ​notification: **Tuesday, December 19, 2023** 
+* Camera-ready​ ​versions​ of Papers and Abstracts: **Date, TBD, 2024**
+* Conference: **April, 2024** (exact dates to be confirmed)
 
 #### Submission Details
 
-* The website for submissions is https://openreview.net/group?id=IEEE.org/SaTML/2023/Conference
+* The website for submissions is here: https://openreview.net/group?id=IEEE.org/SaTML/2024/Conference
 
 * Submissions must use the two-column IEEE Proceedings style: https://www.ieee.org/conferences/publishing/templates.html (Note: use `\documentclass[conference]{IEEEtran}` for your submission)
 
@@ -68,7 +68,7 @@ Submissions must use the two-column IEEE Proceedings style: https://www.ieee.org
 
 For each submission, one of the following decisions will be made: 
 
-* **Accept**: Papers in this category will be accepted for publication in the proceedings and presentation at the conference, possibly after making minor changes with the oversight of a shepherd (Minor Revision). Within one month of acceptance, all accepted papers must submit a camera-ready copy incorporating reviewer feedback. The papers will immediately be published, open access, in the Computer Society’s Digital Library, and they may be cited as “To appear in the IEEE Conference on Secure and Trustworthy Machine Learning, February 2023”. 
+* **Accept**: Papers in this category will be accepted for publication in the proceedings and presentation at the conference, possibly after making minor changes with the oversight of a shepherd (Minor Revision). Within one month of acceptance, all accepted papers must submit a camera-ready copy incorporating reviewer feedback. The papers will immediately be published, open access, in the Computer Society’s Digital Library, and they may be cited as “To appear in the IEEE Conference on Secure and Trustworthy Machine Learning, 2024”. 
 * **Major Revision**: A limited number of papers will be invited to submit a major revision; such papers will receive a detailed summary of expectations for revision, in addition to standard reviewer comments. Authors will have a limited time window to submit revision after the notification is sent. The authors should clearly explain in a well-marked appendix how the revisions address the comments of the reviewers. The revised paper will then be re-evaluated, and either accepted or rejected. We will assign the same set of reviewers. Authors can choose to withdraw their paper and not submit a revision.  
 
 * **Reject**: Papers in this category are declined for inclusion in the conference. 
