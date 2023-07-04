@@ -10,4 +10,4 @@ subtitle = ""
 #title_align = "left" # Default is center, can be left,  right or center
 +++
 
-- **Gautam Kamath**, University of Waterloo
+- **Gautam Kamath**, University of Waterloo & Vector Institute
