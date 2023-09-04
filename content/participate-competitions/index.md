@@ -1,4 +1,4 @@
 +++
 title = "Participate in competitions held before SaTML"
-date = "2022-08-09"
+date = "2023-09-04"
 +++
