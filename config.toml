@@ -75,10 +75,10 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Call for Papers"
   weight = 20
 
-[[menu.main]]
-  url = "/participate-cfc"
-  name = "Call for Competitions"
-  weight = 30
+#[[menu.main]]
+#  url = "/participate-cfc"
+#  name = "Call for Competitions"
+#  weight = 30
 
 [[menu.main]]
   url = "/attend"
@@ -89,6 +89,11 @@ lastmod = ["lastmod", ":git", "date"]
 #  url = "/accepted-papers"
 #  name = "Accepted Papers"
 #  weight = 40
+
+[[menu.main]]
+  url = "/participate-competitions"
+  name = "Competitions"
+  weight = 40
 
 [[menu.main]]
   url = "/people"
