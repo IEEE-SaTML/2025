@@ -18,7 +18,7 @@ in a few weeks):
 * [*Find the Trojan: Universal Backdoor Detection in Aligned Large Language
   Models*](#) organized by Javier Rando & Florian Tramèr.
 * [*CNN Interpretability Competition*](#) organized by Stephen Casper & Dylan Hadfield-Menell.
-* [*Large Language Models Capture-the-Flage*](#) organized by Sahar Abdelnabi &
+* [*Large Language Models Capture-the-Flag*](#) organized by Sahar Abdelnabi &
   Nicholas Carlini & Edoardo Debenedetti & Mario Fritz & Kai Greshake & Richard
   Hadzic & Thorsten Holz & Daphne Ippolito & Daniel Paleka & Lea Schönherr &
   Florian Tramèr & Yiming Zhang.
