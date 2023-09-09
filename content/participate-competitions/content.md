@@ -17,7 +17,7 @@ you may have (details on how to participate into each competition will be shared
 in a few weeks): 
 * [*Find the Trojan: Universal Backdoor Detection in Aligned Large Language
   Models*](#) organized by Javier Rando & Florian Tramèr.
-* [*CNN Interpretability Competition*](#) organized by Stephen Casper & Dylan Hadfield-Menell.
+* [*CNN Interpretability Competition*](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/) organized by Stephen Casper & Dylan Hadfield-Menell.
 * [*Large Language Models Capture-the-Flag*](#) organized by Sahar Abdelnabi &
   Nicholas Carlini & Edoardo Debenedetti & Mario Fritz & Kai Greshake & Richard
   Hadzic & Thorsten Holz & Daphne Ippolito & Daniel Paleka & Lea Schönherr &
