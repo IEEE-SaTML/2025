@@ -14,4 +14,5 @@ title = ""
   * Full Paper​ ​submissions due by **Wednesday, October 11, 2023** (11:59 PM AoE, UTC-12)
   * Notification of acceptance: **Tuesday, December 19, 2023**
 * [Participate in any of the 3 competitions](/participate-competitions) that
-  have been accepted to SaTML 2024 (more details shared soon by the organizers).
+  have been accepted to SaTML 2024 (more details will be shared soon by the
+  competitions organizers).
