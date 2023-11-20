@@ -15,3 +15,7 @@ title = ""
   * Notification of acceptance: **Tuesday, December 19, 2023**
 * [Participate in any of the 3 competitions](/participate-competitions) that
   have been accepted to SaTML 2024!
+* IEEE SaTML 2024 will provide travel support thanks to the generous support of
+  our sponsors, find more info [here](/attend)
+
+travel support applications
