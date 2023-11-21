@@ -8,8 +8,8 @@ particles = false
 minHeight = "50vh" #66.7vw" # optional - changes hero fragment's minimum height
 
 title = "2nd IEEE Conference on Secure and Trustworthy Machine Learning"
-subtitle1 = "April 9-11, 2024<br>Toronto, Canada<br>"
-subtitle2 = "<br>"
+subtitle1 = "April 9-11, 2024<br><br>"
+subtitle2 = "University of Toronto<br>Toronto, Canada"
 subtitle3 = "<br>Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)"
 
 [header]
