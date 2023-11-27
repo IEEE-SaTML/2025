@@ -39,7 +39,7 @@ Proposals will be evaluated based on factors such as:
 
 * Acceptance notification: **August 31st, 2023**
 
-* Competition track (during the conference): **April, 2024** (exact dates to be confirmed)
+* Competition track (during the conference): **April 9-11, 2024**
 
 #### Additional Comments
 

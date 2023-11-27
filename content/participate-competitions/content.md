@@ -9,11 +9,12 @@ title = "Participate in competitions held before SaTML"
 #subtitle = ""
 +++
 
-Prior to the SaTML conference in April 2024, you are invited to participate in
-any of the 3 competitions that have been accepted to SaTML. Results will then be
-presented and discussed by participants and organizers during the conference.
-Please contact the organizers of the competitions directly with any questions
-you may have (more details will be shared soon by the competitions organizers): 
+Prior to the SaTML conference on April 9-11, 2024, you are invited to
+participate in any of the 3 competitions that have been accepted to SaTML.
+Results will then be presented and discussed by participants and organizers
+during the conference. Please contact the organizers of the competitions
+directly with any questions you may have (more details will be shared soon by
+the competitions organizers): 
 * [*Find the Trojan: Universal Backdoor Detection in Aligned Large Language
   Models*](https://github.com/ethz-spylab/rlhf_trojan_competition) organized by
   Javier Rando & Stephen Casper & Florian Tramèr.
