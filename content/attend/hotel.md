@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-disabled = true
+disabled = false
 date = "2022-08-09"
 weight = 7
 #background = ""
@@ -9,4 +9,10 @@ title = "Hotel"
 #subtitle = ""
 +++
 
-We negotiated a <b>room rate of $149 per night</b> with the conference hotel. <b>Please <a href="https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=RDUNHHF&groupCode=SATML&arrivaldate=2023-02-07&departuredate=2023-02-11&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT" target="_blank">use this link</a> to make a reservation</b> or use the group code <b>SATML</b> when booking through Hilton's website, otherwise the conference will face a financial penalty from the hotel for not making enough use of our room block. Click on "Edit Stay" at the top of the booking page to change the dates before making a reservation. <b>The cut-off date for reservations within this room block is January 9, 2023.</b>
+We negotiated a <b>room rate of $309 per night</b> at the Yorkville Royal
+Sonesta Hotel, a short walk from the conference venues. <b>Please <a
+href="https://www.sonesta.com/royal-sonesta/on/toronto/yorkville-royal-sonesta-hotel-toronto?isGroupCode=true&groupCode=G040824UTEC&checkin=2024-04-08&checkout=2024-04-11"
+target="_blank">use this link</a> to make a reservation</b> through the Royal
+Sonesta’s website. This price *is subject to availability* and will be
+applicable until March 11, 2024.
+
