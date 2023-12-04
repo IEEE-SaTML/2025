@@ -17,3 +17,4 @@ title = ""
   have been accepted to SaTML 2024!
 * IEEE SaTML 2024 will provide travel support thanks to the generous support of
   our sponsors, find more info [here](/attend).
+* Find the registration website [here](https://web.cvent.com/event/71bd5e3c-76f9-472c-8aea-57e5cf97cdbd/summary).
