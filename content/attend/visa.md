@@ -9,8 +9,11 @@ title = "Visa invitation letter"
 #subtitle = ""
 +++
 
-The option to have a visa invitation letter issued can be selected during registration. 
-If you need a visa invitation letter issued before registering, please contact
-Reika Kinoshita at reika.kinoshita@utoronto.ca. Include your full name (as shown
-in your passport), date of birth, and any other information relevant to your
-visa application when sending a request via email to Reika.
+During the registration process, in Section **'3. Personal Information'**, please
+select **'Yes'** when asked if you require a visa invitation letter, one will be
+automatically generated using your name, organization, and address.
+
+Requests for letters containing additional information, such as date of birth or
+passport information (number, date of issue, expiration date, place of issue),
+may be emailed to: reika.kinoshita@utoronto.ca.
+
