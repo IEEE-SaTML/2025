@@ -1,0 +1,10 @@
++++
+weight = 3
+title = ""
+subtitle = ""
+item_url = "https://srinstitute.utoronto.ca/"
+#disabled = true
+
+[asset]
+  image = "2024/sponsors/Schwartz-Reisman-Institute.png"
++++
