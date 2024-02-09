@@ -9,7 +9,7 @@ title = ""
 #subtitle = ""
 +++
 * ~~[Call for Competitions](/participate-cfc), due by **August 24th,2023** (11:59 PM AoE, UTC-12)~~
-* [Call for Papers](/participate-cfp):
+* ~~[Call for Papers](/participate-cfp):~~
   * ~~Abstracts due by **Wednesday, October 4, 2023** (11:59 PM AoE, UTC-12)~~
   * ~~Full Paper​ ​submissions due by **Wednesday, October 11, 2023** (11:59 PM AoE, UTC-12)~~
   * ~~Notification of acceptance: **Tuesday, December 19, 2023**~~
