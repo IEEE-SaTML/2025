@@ -70,10 +70,10 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Home"
   weight = 10
 
-[[menu.main]]
-  url = "/participate-cfp"
-  name = "Call for Papers"
-  weight = 20
+# [[menu.main]]
+#   url = "/participate-cfp"
+#   name = "Call for Papers"
+#   weight = 20
 
 #[[menu.main]]
 #  url = "/participate-cfc"

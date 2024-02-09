@@ -15,10 +15,10 @@ subtitle3 = "<br>Sponsored by the [IEEE Computer Society Technical Committee of 
 [header]
   image = "2024/header.jpg"
 
-[[buttons]]
-text = "Call For Papers"
-url = "/participate-cfp"
-color = "primary"
+#[[buttons]]
+#text = "Call For Papers"
+#url = "/participate-cfp"
+#color = "primary"
 
 #[[buttons]]
 #text = "Call For Competitions"
