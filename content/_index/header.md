@@ -26,14 +26,16 @@ subtitle3 = "<br>Sponsored by the [IEEE Computer Society Technical Committee of 
 #color = "secondary" 
 
 [[buttons]]
+  text = "Accepted Papers"
+  url = "/accepted-papers"
+  color = "success" # primary, secondary, success, danger, warning, info, light,dark, link - default: primary
+  
+[[buttons]]
 text = "Attend"
 url = "/attend"
 color = "info"
 
-#[[buttons]]
-#  text = "Accepted Papers"
-#  url = "/accepted-papers"
-#  color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
 
 [[buttons]]
 text = "Competitions"
