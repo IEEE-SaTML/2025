@@ -1,8 +1,8 @@
 +++
-weight = 4
-title = "Silver Sponsor"
+weight = 5
+title = "Gold Sponsor"
 subtitle = ""
-item_url = "https://cifar.ca/"
+item_url = "https://about.google/"
 #disabled = true
 
 [asset]

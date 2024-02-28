@@ -1,6 +1,6 @@
 +++
 weight = 3
-title = ""
+title = "Gold Sponsor"
 subtitle = ""
 item_url = "https://srinstitute.utoronto.ca/"
 #disabled = true

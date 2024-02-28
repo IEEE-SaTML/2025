@@ -123,7 +123,7 @@ white;">OpenReview</a></span>
 
 <li class="list-group-item d-flex justify-content-between align-items-start">
 <div class="ms-2 me-auto">
-<div class="fw-bold"><b>EdgePruner: Poisoned Edge Pruning in Graph Contrastive Learning</b></div>Hiroya Kato (KDDI Research, Inc.), Kento Hasegawa (KDDI Corporation), Seira Hidano (KDDI Research, Inc.), Kazuhide Fukushima (Kyushu University)
+<div class="fw-bold"><b>EdgePruner: Poisoned Edge Pruning in Graph Contrastive Learning</b></div>Hiroya Kato (KDDI Research, Inc.), Kento Hasegawa (KDDI Research, Inc.), Seira Hidano (KDDI Research, Inc.), Kazuhide Fukushima (KDDI Research, Inc.)
 </div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=pbCcdMOTMR"
 target="_blank" style="text-decoration: none; color:
 white;">OpenReview</a></span>
@@ -283,7 +283,7 @@ white;">OpenReview</a></span>
 
 <li class="list-group-item d-flex justify-content-between align-items-start">
 <div class="ms-2 me-auto">
-<div class="fw-bold"><b>Under manipulations, are there AI models harder to audit?</b></div>Augustin Godinot (Université Rennes I), Gilles Tredan (LAAS / CNRS), Erwan Le Merrer (INRIA), Camilla Penzo (Ministère de l'Économie, des Finances, et de la Souveraineté Industrielle et Numérique), Francois Taiani (INRIA Rennes)
+<div class="fw-bold"><b>Under manipulations, are there AI models harder to audit?</b></div>Augustin Godinot (Université Rennes I), Gilles Tredan (LAAS / CNRS), Erwan Le Merrer (INRIA), Camilla Penzo (PEReN - French Center of Expertise for Digital Platform Regulation), Francois Taiani (INRIA Rennes)
 </div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=Q40m3Gcsd9"
 target="_blank" style="text-decoration: none; color:
 white;">OpenReview</a></span>
