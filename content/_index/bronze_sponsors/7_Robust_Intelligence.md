@@ -1,6 +1,6 @@
 +++
-weight = 2
-title = "Bronze Sponsor"
+weight = 7
+title = ""
 subtitle = ""
 item_url = "https://www.robustintelligence.com/"
 #disabled = true

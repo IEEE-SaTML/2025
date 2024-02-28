@@ -1,6 +1,6 @@
 +++
-weight = 7
-title = "Gold Sponsor"
+weight = 1
+title = ""
 subtitle = ""
 item_url = "https://www.schmidtsciences.org/"
 #disabled = true

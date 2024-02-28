@@ -1,6 +1,6 @@
 +++
 weight = 6
-title = "Silver Sponsor"
+title = ""
 subtitle = ""
 item_url = "https://vectorinstitute.ai/"
 #disabled = true

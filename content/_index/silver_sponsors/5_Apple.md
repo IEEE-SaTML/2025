@@ -1,6 +1,6 @@
 +++
-weight = 1
-title = "Silver Sponsor"
+weight = 5
+title = ""
 subtitle = ""
 item_url = "https://www.apple.com/"
 #disabled = true

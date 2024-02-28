@@ -1,6 +1,6 @@
 +++
 weight = 4
-title = "Silver Sponsor"
+title = ""
 subtitle = ""
 item_url = "https://cifar.ca/"
 #disabled = true

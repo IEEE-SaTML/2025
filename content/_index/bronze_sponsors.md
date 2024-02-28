@@ -1,10 +1,10 @@
 +++
 date = "2022-08-09"
 fragment = "portfolio"
-weight = 30
+weight = 33
 #background = "secondary"
 disabled = false
-title = "Our Sponsors"
+title = "Bronze Sponsors"
 #subtitle = ""
 #title_align = "left" # Default is center, can be left, right or center
 
