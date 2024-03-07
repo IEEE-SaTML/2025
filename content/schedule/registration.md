@@ -1,11 +1,11 @@
 +++
 fragment = "content"
-disabled = true
-date = "2023-01-12"
+disabled = false
+date = "2024-03-07"
 weight = 5
 #background = ""
 
-title = "Schedule"
+title = "Schedule 2024"
 #subtitle = ""
 +++
 
