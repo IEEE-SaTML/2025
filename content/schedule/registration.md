@@ -14,7 +14,7 @@ will be presented in the form of:
 * A 15 min talk followed by a 5 min Q&A session
 * A poster at the poster session 
 
-The poster session is an opportunity for attendees to continue conversations
+The poster sessions are an opportunity for attendees to continue conversations
 with the paper authors.
 
 **On the schedule below: click on each session to obtain more information like
