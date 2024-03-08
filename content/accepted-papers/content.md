@@ -28,7 +28,7 @@ white;">OpenReview</a></span>
 
 <li class="list-group-item d-flex justify-content-between align-items-start">
 <div class="ms-2 me-auto">
-<div class="fw-bold"><b>SoK: A Review of Differentially Private Linear Models For High Dimensional Data</b></div>Amol Khanna (Booz Allen Hamilton), Edward Raff (University of Maryland, Baltimore County), Nathan Inkawhich (Air Force Research Laboratory)
+<div class="fw-bold"><b>SoK: A Review of Differentially Private Linear Models For High Dimensional Data</b></div>Amol Khanna (Booz Allen Hamilton), Edward Raff (Booz Allen Hamilton), Nathan Inkawhich (Air Force Research Laboratory)
 </div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=zbVUP5HvKI"
 target="_blank" style="text-decoration: none; color:
 white;">OpenReview</a></span>
@@ -275,7 +275,7 @@ white;">OpenReview</a></span>
 
 <li class="list-group-item d-flex justify-content-between align-items-start">
 <div class="ms-2 me-auto">
-<div class="fw-bold"><b>The Devil's Advocate: Shattering the Illusion of Unexploitable Data using Diffusion Models</b></div>Hadi Mohaghegh Dolatabadi (Oracle), Sarah Monazam Erfani (The University of Melbourne), Christopher Leckie (The University of Melbourne)
+<div class="fw-bold"><b>The Devil's Advocate: Shattering the Illusion of Unexploitable Data using Diffusion Models</b></div>Hadi Mohaghegh Dolatabadi (University of Melbourne), Sarah Monazam Erfani (The University of Melbourne), Christopher Leckie (The University of Melbourne)
 </div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=H2aMtyFhQh"
 target="_blank" style="text-decoration: none; color:
 white;">OpenReview</a></span>
