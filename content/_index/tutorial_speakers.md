@@ -1,9 +1,9 @@
 +++
-date = "2022-12-13"
+date = "2024-03-12"
 fragment = "portfolio"
 weight = 28
 #background = "secondary"
-disabled = true
+disabled = false
 title = "Tutorial Speakers"
 #subtitle = ""
 #title_align = "left" # Default is center, can be left, right or center
