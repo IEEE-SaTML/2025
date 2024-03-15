@@ -6,5 +6,5 @@ item_url = "https://www.apple.com/"
 #disabled = true
 
 [asset]
-  image = "2024/sponsors/apple.png"
+  image = "2024/sponsors/apple.svg"
 +++
