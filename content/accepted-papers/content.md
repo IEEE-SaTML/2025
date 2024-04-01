@@ -75,7 +75,8 @@ white;">OpenReview</a></span>
 
 <li class="list-group-item d-flex justify-content-between align-items-start">
 <div class="ms-2 me-auto">
-<div class="fw-bold"><b>The Hidden Costs on Distributional Shifts when Fine-tuning Joint Text-Image Encoders and Redemptions</b></div>Andrew Geng (University of Wisconsin, Madison), Pin-Yu Chen (International Business Machines)
+<div class="fw-bold"><b>Model Reprogramming Outperforms Fine-tuning on
+Out-of-distribution Data in Text-Image Encoders</b></div>Andrew Geng (University of Wisconsin, Madison), Pin-Yu Chen (International Business Machines)
 </div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=Xcl0UUX3s8"
 target="_blank" style="text-decoration: none; color:
 white;">OpenReview</a></span>
