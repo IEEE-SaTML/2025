@@ -1,4 +1,4 @@
 +++
-title = "Video Recordings for SaTML 2023"
-date = "2023-02-10"
+title = "Video Recordings for SaTML 2024"
+date = "2024-04-15"
 +++
