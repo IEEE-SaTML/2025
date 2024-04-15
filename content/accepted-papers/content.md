@@ -188,7 +188,7 @@ white;">OpenReview</a></span>
 
 <li class="list-group-item d-flex justify-content-between align-items-start">
 <div class="ms-2 me-auto">
-<div class="fw-bold"><b>ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks</b></div>Tim Clifford (Imperial College London), Ilia Shumailov (Google DeepMind), Yiren Zhao (Imperial College London), Ross Anderson (University of Edinburgh, University of Edinburgh), Robert D. Mullins (University of Cambridge)
+<div class="fw-bold"><b>ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks</b></div>Eleanor Clifford (Imperial College London), Ilia Shumailov (Google DeepMind), Yiren Zhao (Imperial College London), Ross Anderson (University of Edinburgh, University of Edinburgh), Robert D. Mullins (University of Cambridge)
 </div><span class="badge bg-danger rounded-pill"><a href="https://openreview.net/forum?id=v01xUvzem4"
 target="_blank" style="text-decoration: none; color:
 white;">OpenReview</a></span>
