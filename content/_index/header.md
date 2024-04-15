@@ -48,9 +48,9 @@ color = "success" # primary, secondary, success, danger, warning, info, light, d
   url = "/schedule"
   color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
-#[[buttons]]
-#  text = "Video Recordings"
-#  url = "/videos"
-#  color = "danger" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+[[buttons]]
+  text = "Video Recordings"
+  url = "/videos"
+  color = "danger" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 +++

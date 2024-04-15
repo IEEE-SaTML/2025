@@ -20,3 +20,4 @@ title = ""
 * Find the registration website [here](https://web.cvent.com/event/71bd5e3c-76f9-472c-8aea-57e5cf97cdbd/summary).
 * The list of accepted papers is available [here](/accepted-papers).
 * The schedule of the conference can be found [here](/schedule).
+* **Recordings of the keynotes, tutorials, contributed talks, and competitions are [now available here](/videos)**.
