@@ -14,6 +14,12 @@ There were 34 papers accepted out of 158 submissions; resulting in an acceptance
 rate of 21.5%. For more details about the 3 types of papers that were accepted
 at SaTML 2024, check our [call for papers](/participate-cfp).
 
+Two best paper awards were announced at the conference:
+* *SoK: AI Auditing: The Broken Bus on the Road to AI Accountability* by Abeba Birhane (Trinity College Dublin), Ryan Steed (Carnegie Mellon University), Victor Ojewale (Brown University), Briana Vecchione (Cornell University), Inioluwa Deborah Raji (Mozilla Foundation).
+
+* *Data Redaction from Conditional Generative Models* by Zhifeng Kong (NVIDIA), Kamalika Chaudhuri (UC San Diego, University of California, San Diego).
+
+
 #### Systematization of Knowledge (SoK) Papers
 
 <ol class="list-group mb-3 mt-3">
