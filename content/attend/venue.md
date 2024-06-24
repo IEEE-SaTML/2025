@@ -9,7 +9,7 @@ title = "Venue"
 #subtitle = ""
 +++
 
-IEEE SaTML 2024 will be hosted on the campus of University of Toronto on April
-9-11, 2024. The venue for the first and second day of the conference will be the
-Hart House (April 9-10, 2024), and for the last day at the Innis College (April
-11, 2024).
+IEEE SaTML 2025 will be hosted on the campus of the University of Copenhagen on April
+9-11, 2025. The venue for the conference will be the <a
+href="https://www.biocenter.ku.dk/english/auditorium/"
+target="_blank">Lundbeckfond Auditorium</a>.

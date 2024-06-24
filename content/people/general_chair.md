@@ -10,4 +10,4 @@ subtitle = ""
 #title_align = "left" # Default is center, can be left,  right or center
 +++
 
-- **Nicolas Papernot**, University of Toronto, [contact@satml.org](mailto:contact@satml.org)
+- TBA

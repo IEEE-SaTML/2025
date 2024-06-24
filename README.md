@@ -74,7 +74,7 @@ prepare the website for the following year.
 
 1. Let's switch to a new branch `git checkout -b 20xx`
 2. Create the corresponding folders under `static` to store the new edition's
-   files/pictures
+   files (`images/20xx`)/pictures (`files/20xx`)
 3. Under `content` create a folder for the previous edition, copy-paste there
    the content of the `content` folder (`_index`, `accepted-papers`, ...,
    `_index.md`) except the `_global` and `past` folders.

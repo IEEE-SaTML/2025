@@ -10,4 +10,5 @@ subtitle = ""
 #title_align = "left" # Default is center, can be left,  right or center
 +++
 
-- **Yohan Beugin**, University of Wisconsin-Madison
+- **Thorsten Eisenhofer**, TU Berlin
+- **Stefan Czybik**, BIFOLD & TU Berlin
