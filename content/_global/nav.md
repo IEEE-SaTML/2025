@@ -6,7 +6,7 @@ weight = 0
 background = "primary"
 
 [contact_button]
-  url = "/contact"
+  url = "mailto:contact@satml.org"
   text = ""
   icon = "fa fa-envelope"
 

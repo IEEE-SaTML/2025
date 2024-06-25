@@ -7,6 +7,8 @@ weight = 7
 
 title = "Hotel"
 #subtitle = ""
+title_align = "left"
+
 +++
 
 We negotiated a <b>room rate of $309 per night</b> at the Yorkville Royal

@@ -7,6 +7,7 @@ weight = 10
 
 title = "Travel Grants (apply by December 20, 2023)"
 #subtitle = ""
+title_align = "left"
 +++
 
 The conference will be using the generous support we received from our sponsors

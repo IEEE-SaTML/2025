@@ -7,6 +7,7 @@ weight = 5
 
 title = "Registration"
 #subtitle = ""
+title_align = "left"
 +++
 
 The registration website for SaTML can be found [here](https://web.cvent.com/event/71bd5e3c-76f9-472c-8aea-57e5cf97cdbd/summary).

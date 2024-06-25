@@ -5,8 +5,9 @@ date = "2022-08-09"
 weight = 8
 #background = ""
 
-title = "Visa invitation letter"
+subtitle = "Visa invitation letter"
 #subtitle = ""
+title_align = "left"
 +++
 
 During the registration process, in Section **'3. Personal Information'**, please

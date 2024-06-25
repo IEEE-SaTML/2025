@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://satml.org/"
 languageCode = "en-us"
-title = "IEEE SaTML 2024"
+title = "IEEE SaTML 2025"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
@@ -101,14 +101,14 @@ lastmod = ["lastmod", ":git", "date"]
 #  weight = 40
 
 [[menu.main]]
-  url = "/people"
-  name = "People"
+  url = "/organizers"
+  name = "Organizers"
   weight = 50
 
-[[menu.main]]
-  url = "/contact"
-  name = "Contact"
-  weight = 55
+#[[menu.main]]
+#  url = "/contact"
+#  name = "Contact"
+#  weight = 55
 
 [[menu.main]]
   url = "/past"
