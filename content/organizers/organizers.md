@@ -10,20 +10,20 @@ subtitle = " "
 title_align = "left"
 +++
 
-#### Program chairs
-**Konrad Rieck**, BIFOLD & TU Berlin    
-**Somesh Jha**, University of Wisconsin
-
 #### Steering committee
 **Been Kim**, Google Brain    
 **Zico Kolter**, Carnegie Mellon University    
 **Carmela Troncoso**, EPFL    
 **Nicolas Papernot**, University of Toronto & Vector Institute
 
+#### Program chairs
+**Konrad Rieck**, BIFOLD & TU Berlin    
+**Somesh Jha**, University of Wisconsin
+
 #### General chair
 **Amartya Sanyal**, University of Copenhagen
 
-##### Treasurer
+#### Treasurer
 **Kathrin Grosse**, EPFL
 
 #### Social media chair
