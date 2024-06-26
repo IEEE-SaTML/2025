@@ -1,6 +1,6 @@
 +++ 
 fragment = "content" 
-#disabled = true 
+disabled = true 
 date = "2024-04-15" 
 weight = 100
 #background = ""
