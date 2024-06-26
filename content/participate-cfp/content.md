@@ -10,8 +10,7 @@ subtitle = " "
 title_align = "left"
 +++
 
-
-##### Areas of Interest
+#### Areas of interest
 
 IEEE SaTML expands upon the theoretical and practical understandings of vulnerabilities inherent to machine learning (ML), explores the robustness of learning algorithms and systems, and aids in developing a unified, coherent scientific community aiming to establish trustworthy machine learning. Topics of interest include (but are not limited to):
 
@@ -23,9 +22,8 @@ IEEE SaTML expands upon the theoretical and practical understandings of vulnerab
 * Forensic analysis of machine learning
 * Fairness and interpretability
 * Trustworthy data curation
-<br><br>
 
-##### Important dates
+#### Important dates
   * Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
   * Early reject notification: **Wednesday, October 23, 2024** 
   * Interactive discussion & revision phase: **November 13--27, 2024**
@@ -33,14 +31,9 @@ IEEE SaTML expands upon the theoretical and practical understandings of vulnerab
   * Conference dates: **April 9--11, 2025**
 
 All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to UTC-12 time zone.
-<br><br>
 
-##### Submission format
+#### Submission categories
 
-Submissions must use the two-column IEEE Proceedings style: https://www.ieee.org/conferences/publishing/templates.html. That is, use `\documentclass[conference]{IEEEtran}` for your submission. All formatting guidelines and constraints will be strictly enforced. Submissions not meeting these guidelines risk rejection without consideration of their merits.
-<br><br>
-
-##### Submission categories
 We solicit research papers, systematization of knowledge papers, and position papers:
 
 - **Research Papers**, up to 12 pages of body text, with unlimited additional space for references and well-marked appendices. These must be well-argued and worthy of publication and​ ​citation,​ ​on​ ​the​ ​topics​ ​above.​ ​Research​ ​papers​ ​must​ ​present​ ​new​ ​work​, evidence, ​or​ ​ideas.
@@ -49,48 +42,47 @@ We solicit research papers, systematization of knowledge papers, and position pa
 
 - **Position​ ​papers**​, between 5 to 12 pages of body text, should present
 broader issues and visions of trustworhy machine learning, such as challenges, technical perspectives, educational aspects, societal impact, significant applications, and notable research results. Position papers should provide background, define concepts, compare approaches, and explain the significance of technologies or results with well-reasoned text and relevant graphics. *When submitting a position paper, prepend "Position:" to the title of your paper*.
-<br><br>
 
+#### Submission information
 
+All submissions must be received by 11:59 PM AoE (UTC-12) on the day of the deadline. The submission site is available here:
 
-##### Review information
-While a paper is under submission to this conference, authors may choose to give talks about their work, post a preprint of the paper online, and disclose security vulnerabilities to vendors.
+* **Submission site: TBD**
 
-To improve the fairness of the reviewing process, SaTML will follow a double-blind reviewing process. Submitted papers must (a) omit any reference to the authors’ names or the names of their institutions, and (b) reference the authors’ own related work in the third person (e.g., not *“We build on our previous work …”* but rather *“We build on the work of …”*). Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult (e.g., important background references should not be omitted or anonymized). Please see this [double-blind FAQ](https://secdev.ieee.org/2019/double-blind-faq/) for the answers to many common concerns about SaTML’s double-blind reviewing process. When in doubt, contact the program chairs. We are devoted to seeking broad representation in the program, and may take this into account when reviewing multiple submissions from the same author. 
+Submitted papers must not substantially overlap with papers that have been published or accepted for publication, or that are simultaneously in submission to a journal, conference, or workshop with published proceedings. 
+However, authors may choose to give talks about their work, post a preprint of the paper online, and disclose security vulnerabilities to vendors.
+
+**Double-bind review:** SaTML follows a double-blind reviewing process. Submitted papers must (a) omit any reference to the authors' names or their institutions, and (b) cite the authors' own related work in the third person. It is important, however, to ensure that efforts to maintain anonymity do not compromise the quality of the submission or complicate the review process. Essential background references, for example, should not be omitted or anonymized. Please see this [double-blind FAQ](https://secdev.ieee.org/2019/double-blind-faq/) for the answers to many common concerns about double-blind reviewing. 
+
+**Previous reviews:** For papers that were previously submitted to, and rejected from, another conference, authors are required to append to their submission PDF the (anonymized, but otherwise unedited) prior reviews along with a description of how those reviews were addressed in the current version of the paper. Authors are only required to include reviews from the last time the paper was submitted. Authors who try to circumvent this rule (e.g., by changing the title of the paper without significantly changing the contents) may have their papers rejected without further consideration, at the discretion of the PC chairs.
+
+**Submission format:** Submissions must be a PDF file in two-column [IEEE proceedings style](https://www.ieee.org/conferences/publishing/templates.html). That is, authors must use `\documentclass[conference]{IEEEtran}` when preparing their submission. The number of allowed pages for a submission depends on the submission category, aee above.
+
+#### Reviewing process
+
+All submissions to the conference will be evaluated based on their merits, particularly their relevance to the conference’s areas of interest, novelty, quality of execution, and presentation.
 
 To decrease the load of reviewing on PC members, SaTML implements a two-round reviewing process. Each paper is initially assigned two reviews. If the PC chairs conclude that there is no path for acceptance at SaTML upon considering these initial reviews, the paper is early-rejected. This means that the paper is not assigned additional reviews and the authors are notified that their paper will not be included in the conference.
-<br><br>
 
-##### Reviews from prior submissions 
+#### Auther Discussion Phase
 
-For papers that were previously submitted to, and rejected from, another conference, authors are required to append to their submission PDF the (anonymized, but otherwise unedited) prior reviews along with a description of how those reviews were addressed in the current version of the paper. Authors are only required to include reviews from the last time the paper was submitted. Authors who try to circumvent this rule (e.g., by changing the title of the paper without significantly changing the contents) may have their papers rejected without further consideration, at the discretion of the PC chairs. 
+SaTML will have a discussion period during which authors can exchange messages with reviewers, respond to their questions, and address their comments through direct changes to the paper. To facilitate this, we will use an anonymous communication feature to enable interaction between authors and reviewers. Authors should primarily focus on correcting factual errors in the reviews and answering specific questions posed by the reviewers. New research results may also be discussed if they help clarify open questions. More instructions will be sent to the authors at the beginning of the discussion phase.
 
-Submissions must use the two-column IEEE Proceedings style: https://www.ieee.org/conferences/publishing/templates.html (Note: use `\documentclass[conference]{IEEEtran}` for your submission)
-
-**Failure to adhere to these rules is grounds for rejection.**
-<br><br>
-
-##### Submission decisions 
+#### Submission Decisions
 
 For each submission, one of the following decisions will be made: 
 
-* **Accept**: Papers in this category will be accepted for publication in the proceedings and presentation at the conference, possibly after making minor changes with the oversight of a shepherd (Minor Revision). Within one month of acceptance, all accepted papers must submit a camera-ready copy incorporating reviewer feedback. The papers will immediately be published, open access, in the Computer Society’s Digital Library, and they may be cited as “To appear in the IEEE Conference on Secure and Trustworthy Machine Learning, 2025”. 
-* **Major Revision**: A limited number of papers will be invited to submit a major revision; such papers will receive a detailed summary of expectations for revision, in addition to standard reviewer comments. Authors will have a limited time window to submit revision after the notification is sent. The authors should clearly explain in a well-marked appendix how the revisions address the comments of the reviewers. The revised paper will then be re-evaluated, and either accepted or rejected. We will assign the same set of reviewers. Authors can choose to withdraw their paper and not submit a revision.  
-* **Reject**: Papers in this category are declined for inclusion in the conference. 
-<br><br>
+* **Accept**: Papers in this category will be accepted for publication in the proceedings and presentation at the conference, possibly after making minor changes with the oversight of a shepherd (Minor Revision). Within one month of acceptance, all accepted papers must submit a camera-ready copy incorporating reviewer feedback. The papers will immediately be published, open access, in the Computer Society’s Digital Library, and they may be cited as "To appear in the IEEE Conference on Secure and Trustworthy Machine Learning, 2025".
 
-##### Rebuttal period 
+* **Major Revision**: A limited number of papers will be invited to submit a major revision; such papers will receive a detailed summary of expectations for revision, in addition to standard reviewer comments. Authors will have a limited time window to submit revision after the notification is sent. The authors should clearly explain in a well-marked appendix how the revisions address the comments of the reviewers. The revised paper will then be re-evaluated, and either accepted or rejected. We will assign the same set of reviewers. Authors can choose to withdraw their paper and not submit a revision. 
 
-We will have a rebuttal period during which authors have the opportunity to exchange messages with the reviewers, respond to questions asked, and address reviewer comments in the paper. To this end, we will use an anonymous communication feature to enable communication between authors and reviewers. The authors should mainly focus on factual errors in the reviews and concrete questions posed by the reviewers. New research results can also be discussed if they help to clarify open questions. More instructions will be sent out to the authors at the beginning of the rebuttal period. 
-<br><br>
+* **Reject**: Papers in this category are declined for inclusion in the conference.
 
-##### Best paper award 
+#### Best Paper Award
 
 Outstanding paper(s) will be selected by the Program Committee, with input from the Steering Committee, for the best paper award. The award will be announced at the conference. Best paper awards are intended to highlight papers which significantly challenge the state of the art in research areas relevant to SaTML. 
-<br><br>
 
-##### Attendance for authors of accepted papers
-
-At least one author​ ​of​ ​accepted papers​ ​will​ ​present​ ​their​ ​work​ ​at​ ​the​ ​conference​ ​and​ ​their papers​ ​will​ ​appear​ ​in​ ​the​ ​conference’s​ ​formal​ ​IEEE​ ​proceedings. In the event of difficulty in obtaining visas for travel and other exceptional circumstances, exceptions may be made and will be discussed on a case-by-case basis.
+#### Attendance for Accepted Papers
+At least one author of accepted papers must present their work at the conference, and their papers will appear in the conference’s formal IEEE proceedings. In the event of difficulty obtaining visas for travel or other exceptional circumstances, exceptions may be made and will be discussed on a case-by-case basis.
 
 If you have any questions, please email us at [contact@satml.org](mailto:contact@satml.org)

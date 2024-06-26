@@ -9,7 +9,7 @@ title = ""
 #subtitle = ""
 +++
 
-##### Important dates
+#### Important dates
   * Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
   * Early reject notification: **Wednesday, October 23, 2024** 
   * Interactive discussion & revision phase: **November 13--27, 2024**
@@ -17,9 +17,8 @@ title = ""
   * Conference dates: **April 9--11, 2025**
 
 All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to UTC-12 time zone.
-<br><br>
 
-##### Overview
+#### Overview
 This conference will expand on the theoretical and practical understandings of vulnerabilities inherent to machine learning (ML), explore the robustness of learning algorithms and systems, and aid in developing a unified, coherent scientific community which aims to establish trustworthy machine learning. Topics of interest include (but are not limited to):
 
 * Novel attacks on machien learning
@@ -33,9 +32,8 @@ This conference will expand on the theoretical and practical understandings of v
 
 We solicit research papers, systematization of knowledge papers, and position
 papers (see [Call for Papers](/participate-cfp) for details).
-<br><br>
 
-##### Venue
+#### Venue
 IEEE SaTML 2025 will be hosted on the campus of the University of Copenhagen on April
 9-11, 2025. The venue for the conference will be the <a
 href="https://www.biocenter.ku.dk/english/auditorium/"
