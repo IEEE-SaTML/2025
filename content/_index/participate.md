@@ -21,7 +21,7 @@ All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to 
 #### Overview
 This conference will expand on the theoretical and practical understandings of vulnerabilities inherent to machine learning (ML), explore the robustness of learning algorithms and systems, and aid in developing a unified, coherent scientific community which aims to establish trustworthy machine learning. Topics of interest include (but are not limited to):
 
-* Novel attacks on machien learning
+* Novel attacks on machine learning
 * Novel defenses for machine learning
 * Secure and safe machine learning in practice
 * Verification of algorithms and systems
