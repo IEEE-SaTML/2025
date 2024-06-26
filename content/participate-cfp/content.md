@@ -14,7 +14,7 @@ title_align = "left"
 
 IEEE SaTML expands upon the theoretical and practical understandings of vulnerabilities inherent to machine learning (ML), explores the robustness of learning algorithms and systems, and aids in developing a unified, coherent scientific community aiming to establish trustworthy machine learning. Topics of interest include (but are not limited to):
 
-* Novel attacks on machien learning
+* Novel attacks on machine learning
 * Novel defenses for machine learning
 * Secure and safe machine learning in practice
 * Verification of algorithms and systems
