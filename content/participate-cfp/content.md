@@ -10,40 +10,48 @@ subtitle = " "
 title_align = "left"
 +++
 
-##### Areas of interest include (but are not limited to):
+
+##### Areas of Interest
+
+IEEE SaTML expands upon the theoretical and practical understandings of vulnerabilities inherent to machine learning (ML), explores the robustness of learning algorithms and systems, and aids in developing a unified, coherent scientific community aiming to establish trustworthy machine learning. Topics of interest include (but are not limited to):
+
+* Novel attacks on machien learning
+* Novel defenses for machine learning
+* Secure and safe machine learning in practice
+* Verification of algorithms and systems
+* Privacy in machine learning
+* Forensic analysis of machine learning
+* Fairness and interpretability
 * Trustworthy data curation
-* Novel attacks on ML systems
-* Methods for defending against attacks on ML systems
-* Forensic analysis of ML systems
-* Verifying properties of ML systems
-* Securely and safely integrating ML into systems
-* Privacy (e.g., confidentiality, inference privacy, machine unlearning)
-* Fairness
-* Accountability
-* Transparency
-* Interpretability
 <br><br>
 
 ##### Important dates
-* Paper​ ​submission: **Wednesday, October 11, 2024** (11:59 PM AoE, UTC-12)
-* Interactive discussion & revision phase: **November 30 - December 12, 2024** (11:59 PM AoE, UTC-12)
-* Paper​ ​notification: **Tuesday, December 19, 2024**
-* Camera-ready​ ​versions​ of Papers and Abstracts: **Date, TBD, 2024**
-* Conference: **April 9-11, 2025**
+  * Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
+  * Early reject notification: **Wednesday, October 23, 2024** 
+  * Interactive discussion & revision phase: **November 13--27, 2024**
+  * Decision ​notification: **Wednesday, December 11, 2024**
+  * Conference dates: **April 9--11, 2025**
+
+All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to UTC-12 time zone.
 <br><br>
 
-##### Submission details
-* The website for submissions is here: **TBD**
-* Submissions must use the two-column IEEE Proceedings style: https://www.ieee.org/conferences/publishing/templates.html (Note: use `\documentclass[conference]{IEEEtran}` for your submission)
+##### Submission format
+
+Submissions must use the two-column IEEE Proceedings style: https://www.ieee.org/conferences/publishing/templates.html. That is, use `\documentclass[conference]{IEEEtran}` for your submission. All formatting guidelines and constraints will be strictly enforced. Submissions not meeting these guidelines risk rejection without consideration of their merits.
 <br><br>
 
 ##### Submission categories
 We solicit research papers, systematization of knowledge papers, and position papers:
 
 - **Research Papers**, up to 12 pages of body text, with unlimited additional space for references and well-marked appendices. These must be well-argued and worthy of publication and​ ​citation,​ ​on​ ​the​ ​topics​ ​above.​ ​Research​ ​papers​ ​must​ ​present​ ​new​ ​work​, evidence, ​or​ ​ideas.
-- **Systematization of Knowledge** papers, up to 12 pages of body text, should ​provide​ ​an integration​ ​and​ ​clarification​ ​of​ ​ideas​ ​on​ ​an​ ​established,​ ​major​ ​research​ ​area,​ ​support​ ​or challenge​ ​long-held​ ​beliefs​ ​in​ ​such​ ​an​ ​area​ ​with​ ​compelling​ ​evidence,​ ​or​ ​present​ ​a convincing,​ ​comprehensive​ ​new​ ​taxonomy​ ​of​ ​some​ ​aspect​ ​of​ secure and trustworthy machine learning. **When submitting a systematization of knowledge paper, prepend “SoK:” to the title of your paper**.
-- **Position​ ​papers**​ ​with​ ​novel visions, with a minimum of 5 pages of body text, ​will​ ​also​ ​be​ ​considered.​ Reviewers will be asked to evaluate vision as bringing opinions and views that pertain to issues of broad interest to the computing community, typically, but not exclusively, of a nontechnical nature. Controversial issues will not be avoided but be dealt with fairly. Authors are welcome to submit carefully reasoned “Viewpoints” in which positions are substantiated by facts or principled arguments. Vision may relate to the wide and abundant spectrum of the computing field of trustworthy machine learning—its open challenges, technical visions and perspectives, educational aspects, societal impact, significant applications and research results of high significance and broad interest.  Position papers should set the background and provide introductory references, define fundamental concepts, compare alternate approaches, and explain the significance or application of a particular technology or result by means of well-reasoned text and pertinent graphical material. The use of sidebars to illustrate significant points is encouraged. **When submitting a position paper, prepend “Position:” to the title of your paper**.  
+
+- **Systematization of Knowledge** papers, up to 12 pages of body text, should ​provide​ ​an integration​ ​and​ ​clarification​ ​of​ ​ideas​ ​on​ ​an​ ​established,​ ​major​ ​research​ ​area,​ ​support​ ​or challenge​ ​long-held​ ​beliefs​ ​in​ ​such​ ​an​ ​area​ ​with​ ​compelling​ ​evidence,​ ​or​ ​present​ ​a convincing,​ ​comprehensive​ ​new​ ​taxonomy​ ​of​ ​some​ ​aspect​ ​of​ secure and trustworthy machine learning. *When submitting a systematization of knowledge paper, prepend “SoK:” to the title of your paper*.
+
+- **Position​ ​papers**​, between 5 to 12 pages of body text, should present
+broader issues and visions of trustworhy machine learning, such as challenges, technical perspectives, educational aspects, societal impact, significant applications, and notable research results. Position papers should provide background, define concepts, compare approaches, and explain the significance of technologies or results with well-reasoned text and relevant graphics. *When submitting a position paper, prepend "Position:" to the title of your paper*.
 <br><br>
+
+
 
 ##### Review information
 While a paper is under submission to this conference, authors may choose to give talks about their work, post a preprint of the paper online, and disclose security vulnerabilities to vendors.

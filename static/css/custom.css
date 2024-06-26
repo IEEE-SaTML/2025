@@ -1,4 +1,10 @@
- /* unvisited link */
+
+section .bg-light code, section .bg-light pre {
+  background-color: #eee;
+  color: darkblue;
+}
+
+/* unvisited link */
  h2 a:link {
    color: white;
    text-decoration: underline;
@@ -12,37 +18,37 @@
 
  /* mouse over link */
  h2 a:hover {
-   color: orange;
+   color: brown;
    text-decoration: underline;
  }
 
  /* selected link */
  h2 a:active {
-   color: orange;
+   color: brown;
    text-decoration: underline;
  }
 
  /* unvisited link */
  article a:link {
-   color: blue;
-   text-decoration: underline;
+   color: brown;
+   text-decoration: ;
  }
 
  /* visited link */
  article a:visited {
-   color: blue;
+   color: brown;
    text-decoration: underline;
  }
 
  /* mouse over link */
  article a:hover {
-   color: orange;
+   color: brown;
    text-decoration: underline;
  }
 
  /* selected link */
  article a:active {
-   color: orange;
+   color: brown;
    text-decoration: underline;
  }
 

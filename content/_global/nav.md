@@ -3,7 +3,7 @@ fragment = "nav"
 #disabled = true
 date = "2022-08-09"
 weight = 0
-background = "primary"
+background = "light"
 
 [contact_button]
   url = "mailto:contact@satml.org"

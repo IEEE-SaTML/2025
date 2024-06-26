@@ -10,31 +10,29 @@ title = ""
 +++
 
 ##### Important dates
-  * Paper​ ​submission: **Wednesday, October 11, 2024** (11:59 PM AoE, UTC-12)
-  * Interactive discussion & revision phase: **November 30 - December 12, 2024** (11:59 PM AoE, UTC-12)
-  * Paper​ ​notification: **Tuesday, December 19, 2024**
-  * Camera-ready​ ​versions​ of Papers and Abstracts: **Date, TBD, 2024**
-  * Conference: **April 9-11, 2025**
+  * Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
+  * Early reject notification: **Wednesday, October 23, 2024** 
+  * Interactive discussion & revision phase: **November 13--27, 2024**
+  * Decision ​notification: **Wednesday, December 11, 2024**
+  * Conference dates: **April 9--11, 2025**
+
+All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to UTC-12 time zone.
 <br><br>
 
 ##### Overview
-This conference will expand on the theoretical and practical understandings of vulnerabilities inherent to ML systems, explore the robustness of ML algorithms and systems, and aid in developing a unified, coherent scientific community which aims to build trustworthy ML systems.
+This conference will expand on the theoretical and practical understandings of vulnerabilities inherent to machine learning (ML), explore the robustness of learning algorithms and systems, and aid in developing a unified, coherent scientific community which aims to establish trustworthy machine learning. Topics of interest include (but are not limited to):
+
+* Novel attacks on machien learning
+* Novel defenses for machine learning
+* Secure and safe machine learning in practice
+* Verification of algorithms and systems
+* Privacy in machine learning
+* Forensic analysis of machine learning
+* Fairness and interpretability
+* Trustworthy data curation
 
 We solicit research papers, systematization of knowledge papers, and position
 papers (see [Call for Papers](/participate-cfp) for details).
-
-Topics of interest include (but are not limited to):
-* Trustworthy data curation
-* Novel attacks on ML systems
-* Methods for defending against attacks on ML systems
-* Forensic analysis of ML systems
-* Verifying properties of ML systems
-* Securely and safely integrating ML into systems
-* Privacy (e.g., confidentiality, inference privacy, machine unlearning)
-* Fairness
-* Accountability
-* Transparency
-* Interpretability
 <br><br>
 
 ##### Venue

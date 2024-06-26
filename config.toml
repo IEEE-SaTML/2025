@@ -53,8 +53,8 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#343538"
-    secondary = "#868e96"
+    primary = "#532"
+    secondary = "#888"
     success = "#008f54"
     info = "#00c9dc"
     warning = "#fdf314"
@@ -70,10 +70,10 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Home"
   weight = 10
 
-# [[menu.main]]
-#   url = "/participate-cfp"
-#   name = "Call for Papers"
-#   weight = 20
+[[menu.main]]
+  url = "/participate-cfp"
+  name = "Call for Papers"
+  weight = 20
 
 #[[menu.main]]
 #  url = "/participate-cfc"
