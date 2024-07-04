@@ -20,10 +20,10 @@ text = "Call For Papers"
 url = "/participate-cfp"
 color = "secondary"
 
-#[[buttons]]
-#text = "Call For Competitions"
-#url = "/participate-cfc"
-#color = "secondary" 
+[[buttons]]
+text = "Call For Competitions"
+url = "/participate-cfc"
+color = "secondary" 
 
 #[[buttons]]
 #  text = "Accepted Papers"

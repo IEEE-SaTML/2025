@@ -10,6 +10,7 @@ title = ""
 +++
 
 #### Important dates
+  * Competition proposal deadline: **August 7, 2024**
   * Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
   * Early reject notification: **Wednesday, October 23, 2024** 
   * Interactive discussion & revision phase: **November 13--27, 2024**
@@ -31,7 +32,7 @@ This conference will expand on the theoretical and practical understandings of v
 * Trustworthy data curation
 
 We solicit research papers, systematization of knowledge papers, and position
-papers (see [Call for Papers](/participate-cfp) for details).
+papers (see [Call for Papers](/participate-cfp) for details). Furthermore, we invite proposals for our competition track (see [Call for Competitions](/participate-cfc) for details).
 
 #### Venue
 IEEE SaTML 2025 will be hosted on the campus of the University of Copenhagen on April
