@@ -28,7 +28,7 @@ To ensure a swift review process, we will accept submissions with a maximum leng
 
 Proposals will be evaluated based on factors such as:
 
-* **Task(s)**: Impact, originality, relevance to the SaTML community will all be considered. Tasks that will foster positive societal impact are highly encouraged, although other topics relevant to the SaTML community are also welcomed.
+* **Task(s)**: Impact, originality, and relevance to the SaTML community will all be considered. Tasks that will foster positive societal impact are highly encouraged, although other topics relevant to the SaTML community are also welcomed.
 
 * **Evaluation Protocol**: Feasibility of the task chosen, sufficient data for training and testing algorithms to solve the proposed task, soundness of the evaluation criteria, and clarity and fairness of the competition rules will all be evaluated.
 
@@ -46,4 +46,4 @@ Competition organizers should propose a timeline for running the competition to 
 
 #### Contact and help
 
-Competition organizers that require help or suggestions regarding competition platforms for running the competition can contact [contact@satml.org](mailto:contact@satml.org) for advice. This call for competitions is adapted from the NeurIPS competition track.
+Competition organizers who require help or suggestions regarding competition platforms for running the competition can contact [contact@satml.org](mailto:contact@satml.org) for advice. This call for competitions is adapted from the NeurIPS competition track.
