@@ -11,10 +11,10 @@ title_align = "left"
 +++
 
 #### Steering committee
+**Nicolas Papernot**, University of Toronto & Vector Institute    
+**Carmela Troncoso**, EPFL    
 **Been Kim**, Google Brain    
 **Zico Kolter**, Carnegie Mellon University    
-**Carmela Troncoso**, EPFL    
-**Nicolas Papernot**, University of Toronto & Vector Institute
 
 #### Program committee chairs
 **Konrad Rieck**, BIFOLD & TU Berlin    
@@ -33,7 +33,7 @@ title_align = "left"
 **Lea Schönherr**, CISPA
 
 #### Web chairs
-**Thorsten Eisenhofer**, TU Berlin    
+**Thorsten Eisenhofer**, BIFOLD & TU Berlin    
 **Stefan Czybik**, BIFOLD & TU Berlin
 
 #### Program committee

@@ -43,7 +43,7 @@ color = "secondary"
 [[buttons]]
   text = "Schedule"
   url = "/2024/schedule"
-  color = "light" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "primary"
 
 [[buttons]]
   text = "Accepted Papers"
