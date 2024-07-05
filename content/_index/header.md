@@ -13,7 +13,7 @@ subtitle2 = "University of Copenhagen<br>Copenhagen, Denmark"
 subtitle3 = "<br>Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)<br><br>"
 
 [header]
-  image = "2025/header.jpg"
+  image = "2025/header02a.jpg"
 
 [[buttons]]
 text = "Call For Papers"
