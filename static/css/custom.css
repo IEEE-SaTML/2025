@@ -15,6 +15,17 @@ section .bg-light code, section .bg-light pre {
   border-color: #ddd !important;
 }
 
+.jumbotron {
+  padding: 0rem 0rem;
+}
+
+.filter-layer {
+  width: 100%;
+  height: 100%;
+  backdrop-filter: sepia(100%) brightness(0.4) hue-rotate(-60deg);
+  padding: 4rem 2rem;
+}
+
 nav {
   box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
 }
