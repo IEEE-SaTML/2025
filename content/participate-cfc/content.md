@@ -10,19 +10,17 @@ subtitle = " "
 title_align = "left"
 +++
 
-#### Competition Track
+#### Competition track
 
 The SaTML 2025 conference will feature a competition track. We invite proposals for competitions on topics that advance trustworthy and secure machine learning. The results of these competitions will be presented and discussed by participants and organizers at the conference. Further details on the organization will be released in the following months.
 
-We particularly encourage proposals from fields that have a demonstrable positive societal impact, especially those utilizing AI to support disadvantaged communities. Additionally, we seek submissions in areas where machine learning can significantly benefit scientific, technological, or business domains. Our goal is to curate a series of competitions that will attract a diverse and interdisciplinary group of participants, fostering collaboration and innovation across sectors.
+We seek proposals with a clear scientific question in areas where machine learning can advance scientific, technological, or business domains. We especially encourage submissions that demonstrate a positive societal impact, particularly those using AI to support disadvantaged communities.
 
-We will focus on **data science competitions**, where participants will compete to achieve the highest score on a machine learning task relevant to the community. These tasks will be based on well-defined problems and corresponding data sets provided by the competition organizers.
+Our focus is on **data science competitions** where participants will compete to achieve the highest score on a relevant machine learning task. These tasks will be based on well-defined problems and corresponding data sets provided by the competition organizers.
 
-#### Proposal Submission
+#### Proposal submission
 
-Proposals for competitions at SaTML must be submitted via email to [contact@satml.org](mailto:contact@satml.org)
-
-To ensure a swift review process, we will accept submissions with a maximum length of **three pages** only. This limit reduces the reviewers' workload and aids in timely assessments of all proposals.
+Proposals for competitions at SaTML must be submitted via email to [contact@satml.org](mailto:contact@satml.org). They should be concise, with a **maximum length of three pages**, to ensure a swift and efficient review process.
 
 #### Reviewing and selection process
 
@@ -34,7 +32,7 @@ Proposals will be evaluated based on factors such as:
 
 * **Logistics**: The competition schedule, plan for attracting competition participants, and experience and diversity of the organizers will all be considered. The specific plan for attracting competition participants, including groups under-represented at SaTML, will be important during the review process.
 
-#### Important dates and timeline
+#### Important dates
 
 The competition track includes the following dates:
 

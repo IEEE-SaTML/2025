@@ -23,7 +23,8 @@ IEEE SaTML expands upon the theoretical and practical understandings of vulnerab
 * Fairness and interpretability
 * Trustworthy data curation
 
-#### Important dates
+#### Important date
+
   * Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
   * Early reject notification: **Wednesday, October 23, 2024** 
   * Interactive discussion & revision phase: **November 13--27, 2024**
@@ -64,11 +65,11 @@ All submissions to the conference will be evaluated based on their merits, parti
 
 To decrease the load of reviewing on PC members, SaTML implements a two-round reviewing process. Each paper is initially assigned two reviews. If the PC chairs conclude that there is no path for acceptance at SaTML upon considering these initial reviews, the paper is early-rejected. This means that the paper is not assigned additional reviews and the authors are notified that their paper will not be included in the conference.
 
-#### Author Discussion Phase
+#### Author discussion phase
 
 SaTML will have a discussion period during which authors can exchange messages with reviewers, respond to their questions, and address their comments through direct changes to the paper. To facilitate this, we will use an anonymous communication feature to enable interaction between authors and reviewers. Authors should primarily focus on correcting factual errors in the reviews and answering specific questions posed by the reviewers. New research results may also be discussed if they help clarify open questions. More instructions will be sent to the authors at the beginning of the discussion phase.
 
-#### Submission Decisions
+#### Submission decisions
 
 For each submission, one of the following decisions will be made: 
 
@@ -78,11 +79,12 @@ For each submission, one of the following decisions will be made:
 
 * **Reject**: Papers in this category are declined for inclusion in the conference.
 
-#### Best Paper Award
+#### Best paper award
 
 Outstanding paper(s) will be selected by the Program Committee, with input from the Steering Committee, for the best paper award. The award will be announced at the conference. Best paper awards are intended to highlight papers which significantly challenge the state of the art in research areas relevant to SaTML. 
 
-#### Attendance for Accepted Papers
+#### Attendance for accepted papers
+
 At least one author of accepted papers must present their work at the conference, and their papers will appear in the conference’s formal IEEE proceedings. In the event of difficulty obtaining visas for travel or other exceptional circumstances, exceptions may be made and will be discussed on a case-by-case basis.
 
 If you have any questions, please email us at [contact@satml.org](mailto:contact@satml.org)
