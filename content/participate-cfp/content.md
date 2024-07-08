@@ -26,11 +26,11 @@ IEEE SaTML expands upon the theoretical and practical understandings of vulnerab
 
 #### Important date
 
-  * Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
-  * Early reject notification: **Wednesday, October 23, 2024** 
-  * Interactive discussion & revision phase: **November 13--27, 2024**
-  * Decision ​notification: **Wednesday, December 11, 2024**
-  * Conference dates: **April 9--11, 2025**
+* Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
+* Early reject notification: **Wednesday, October 23, 2024** 
+* Interactive discussion & revision phase: **November 13--27, 2024**
+* Decision ​notification: **Wednesday, December 11, 2024**
+* Conference dates: **April 9--11, 2025**
 
 All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to UTC-12 time zone.
 
@@ -38,12 +38,11 @@ All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to 
 
 We solicit research papers, systematization of knowledge papers, and position papers:
 
-- **Research Papers**, up to 12 pages of body text, with unlimited additional space for references and well-marked appendices. These must be well-argued and worthy of publication and​ ​citation,​ ​on​ ​the​ ​topics​ ​above.​ ​Research​ ​papers​ ​must​ ​present​ ​new​ ​work​, evidence, ​or​ ​ideas.
+- **Research Papers:** These papers should present new work, evidence, or ideas related to secure and trustworthy machine learning. Submission must be up to 12 pages of body text, with unlimited additional space for references and appendices. Research papers must be well-argued and worthy of publication and​ ​citation,​ ​on​ ​one of the​ ​topics listed​ ​above.​
 
-- **Systematization of Knowledge** papers, up to 12 pages of body text, should ​provide​ ​an integration​ ​and​ ​clarification​ ​of​ ​ideas​ ​on​ ​an​ ​established,​ ​major​ ​research​ ​area,​ ​support​ ​or challenge​ ​long-held​ ​beliefs​ ​in​ ​such​ ​an​ ​area​ ​with​ ​compelling​ ​evidence,​ ​or​ ​present​ ​a convincing,​ ​comprehensive​ ​new​ ​taxonomy​ ​of​ ​some​ ​aspect​ ​of​ secure and trustworthy machine learning. *When submitting a systematization of knowledge paper, prepend “SoK:” to the title of your paper*.
+- **Systematization of Knowledge (SoK) Papers:** These papers should either consolidate and clarify ideas in a major research area within secure and trustworthy machine learning or provide compelling evidence to support or challenge long-held beliefs in such areas. Submissions must be up to 12 pages of body text. *SoK papers must include "SoK:" at the beginning of their title.*
 
-- **Position​ ​papers**​, between 5 to 12 pages of body text, should present
-broader issues and visions of trustworthy machine learning, such as challenges, technical perspectives, educational aspects, societal impact, significant applications, and notable research results. Position papers should provide background, define concepts, compare approaches, and explain the significance of technologies or results with well-reasoned text and relevant graphics. *When submitting a position paper, prepend "Position:" to the title of your paper*.
+- **Position Papers:** These papers should cover broader issues and visions related to secure and trustworthy machine learning, including open challenges, technical perspectives, educational aspects, societal impact, or notable research results. Submissions must be very well-argued and consist of 5 to 12 pages of body text. *Position papers must include "Position:" at the beginning of their title.*
 
 #### Submission information
 
@@ -58,7 +57,11 @@ However, authors may choose to give talks about their work, post a preprint of t
 
 **Previous reviews:** For papers that were previously submitted to, and rejected from, another conference, authors are required to append to their submission PDF the (anonymized, but otherwise unedited) prior reviews along with a description of how those reviews were addressed in the current version of the paper. Authors are only required to include reviews from the last time the paper was submitted. Authors who try to circumvent this rule (e.g., by changing the title of the paper without significantly changing the contents) may have their papers rejected without further consideration, at the discretion of the PC chairs.
 
-**Submission format:** Submissions must be a PDF file in two-column [IEEE proceedings style](https://www.ieee.org/conferences/publishing/templates.html). That is, authors must use `\documentclass[conference]{IEEEtran}` when preparing their submission. The number of allowed pages for a submission depends on the submission category, see above.
+**Large-language models:** We encourage authors to use any suitable tools, including Large Language Models (LLMs), for preparing high-quality papers and research. However, authors must adhere to two key criteria: First, the methodology must be thoroughly described, and if LLMs are integral to this methodology, their use should be explicitly detailed. Second, authors are responsible for the entire content of their paper, including all text and figures. While any tool may be used for writing, it is crucial that all content is accurate and original, ensuring transparency and maintaining the integrity of the research process (Adapted from the NeurIPS 2024 Call for Papers).
+
+**Submission format:** Submissions must be a PDF file in two-column [IEEE proceedings style](https://www.ieee.org/conferences/publishing/templates.html). That is, authors must use `\documentclass[conference]{IEEEtran}` when preparing their paper. The number of allowed pages for a submission depends on the submission category, see above. 
+
+*Authors need to closely follow the rules provided in this document and precisely adhere to the format guidelines. Failure to comply with these rules is grounds for rejection.*
 
 #### Reviewing process
 
