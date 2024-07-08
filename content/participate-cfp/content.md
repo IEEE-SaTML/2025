@@ -18,6 +18,7 @@ IEEE SaTML expands upon the theoretical and practical understandings of vulnerab
 * Novel defenses for machine learning
 * Secure and safe machine learning in practice
 * Verification of algorithms and systems
+* Machine learning system security
 * Privacy in machine learning
 * Forensic analysis of machine learning
 * Fairness and interpretability
