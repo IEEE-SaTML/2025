@@ -50,6 +50,6 @@ Participants are expected to adhere to these principles and respect the rights
 of others.
 
 IEEE seeks to provide a secure environment at its events. Participants should report
-any behavior inconsistent with the principles outlin
-[eventconduct@ieee.org](mailto:eventconduct@ieee.org)
+any behavior inconsistent with the principles outlined here, to on site staff, security or
+venue personnel, or to [eventconduct@ieee.org](mailto:eventconduct@ieee.org)
 
