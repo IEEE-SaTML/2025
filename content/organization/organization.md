@@ -136,7 +136,7 @@ title_align = "left"
 **Xiangyu Zhang**, Purdue University     
 **Xiao Wang**, Northwestern University     
 **Xiao Zhang**, CISPA Helmholtz Center for Information Security     
-**xiaojun jia**, Nanyang Technological University     
+**Xiaojun Jia**, Nanyang Technological University     
 **Xinlei He**, Hong Kong University of Science and Technology (Guangzhou)     
 **Xinyue Shen**, CISPA Helmholtz Center for Information Security     
 **Xinyun Chen**, Google DeepMind     
