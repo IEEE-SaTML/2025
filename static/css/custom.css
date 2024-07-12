@@ -102,3 +102,11 @@ h4 {
  div.dropdown-menu {
    background-color: #343538
  }
+
+ .organization table {
+   width: 100%;
+ }
+
+ .organization strong {
+   color: brown;
+ }
