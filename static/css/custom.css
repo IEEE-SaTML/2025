@@ -24,7 +24,8 @@ section .bg-light code, section .bg-light pre {
   height: 100%;
   backdrop-filter: brightness(0.45) hue-rotate(-10deg);
   -webkit-backdrop-filter: brightness(0.45) hue-rotate(-10deg);
-  padding: 6rem 2rem;
+  padding: 8rem 2rem;
+  margin: -4rem 0rem;
 }
 
 nav {
