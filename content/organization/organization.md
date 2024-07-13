@@ -147,6 +147,7 @@ title_align = "left"
 | | Jason Xue | CSIRO’s Data61 |
 | | Chhavi Yadav | University of California San Diego |
 | | Ziqi Yang | Zhejiang University |
+| | Hossein Yalame | Bosch GmbH |
 | | Jiayuan Ye | National University of Singapore |
 | | Chia-Mu Yu | National Yang Ming Chiao Tung University |
 | | Yaodong Yu | University of Maryland, College Park |
