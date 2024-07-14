@@ -103,6 +103,7 @@ title_align = "left"
 | | Audra McMillan | Apple |
 | | Jaron Mink | Arizona State University |
 | | Esfandiar Mohammadi | Universität zu Lübeck |
+| | Tamalika Mukherjee | Columbia University |
 | | Ozan Özdenizci | Montanuniversität Leoben |
 | | Rasmus Pagh | University of Copenhagen  |
 | | Dario Pasquini | George Mason University |
@@ -135,6 +136,7 @@ title_align = "left"
 | | Kunal Talwar | Apple |
 | | Guanhong Tao | University of Utah |
 | | Binghui Wang | Illinois Institute of Technology |
+| | Ren Wang | Illinois Institute of Technology |
 | | Tianhao Wang | University of Virginia |
 | | Ting Wang | Stony Brook University |
 | | Xiao Wang | Northwestern University |
@@ -146,8 +148,8 @@ title_align = "left"
 | | Shengmin Xu | Fujian Normal University |
 | | Jason Xue | CSIRO’s Data61 |
 | | Chhavi Yadav | University of California San Diego |
-| | Ziqi Yang | Zhejiang University |
 | | Hossein Yalame | Bosch GmbH |
+| | Ziqi Yang | Zhejiang University |
 | | Jiayuan Ye | National University of Singapore |
 | | Chia-Mu Yu | National Yang Ming Chiao Tung University |
 | | Yaodong Yu | University of Maryland, College Park |
