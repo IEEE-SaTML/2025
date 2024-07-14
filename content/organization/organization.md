@@ -85,7 +85,7 @@ title_align = "left"
 | | Bargav Jayaraman | Meta |
 | | Shouling Ji | Zhejiang University |
 | | Jinyuan Jia | Penn State |
-| | xiaojun jia | Nanyang Technological University |
+| | Xiaojun Jia | Nanyang Technological University |
 | | Raouf Kerkouche | CISPA Helmholtz Center for Information Security |
 | | Mahdi Khalili | Ohio State University |
 | | Klim Kireev | EPFL |
@@ -128,7 +128,7 @@ title_align = "left"
 | | Saeed Sharifi-Malvajerdi | TTIC |
 | | Ryan Sheatsley | University of Wisconsin-Madison |
 | | Xinyue Shen | CISPA Helmholtz Center for Information Security |
-| | ilia shumailov | Google DeepMind |
+| | Ilia Shumailov | Google DeepMind |
 | | Wai Man Si | CISPA Helmholtz Center for Information Security |
 | | Jessica Sorrell | Johns Hopkins University |
 | | Angelo Sotgiu | University of Cagliari |
