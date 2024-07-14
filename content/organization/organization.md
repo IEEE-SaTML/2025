@@ -95,6 +95,7 @@ title_align = "left"
 | | Tian Li | University of Chicago |
 | | Zheng Li | CISPA Helmholtz Center for Information Security |
 | | Jian Liu | University of Tennessee, Knoxville |
+| | Ruixuan Liu | Emory University |
 | | Sijia Liu | Michigan State University  |
 | | Yugeng Liu | CISPA Helmholtz Center for Information Security |
 | | Keane Lucas | Carnegie Mellon University |
@@ -103,6 +104,7 @@ title_align = "left"
 | | Audra McMillan | Apple |
 | | Jaron Mink | Arizona State University |
 | | Esfandiar Mohammadi | Universität zu Lübeck |
+| | Meisam Mohammady | Iowa State University |
 | | Tamalika Mukherjee | Columbia University |
 | | Ozan Özdenizci | Montanuniversität Leoben |
 | | Rasmus Pagh | University of Copenhagen  |
