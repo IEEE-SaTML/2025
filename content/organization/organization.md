@@ -107,6 +107,7 @@ title_align = "left"
 | | Meisam Mohammady | Iowa State University |
 | | Tamalika Mukherjee | Columbia University |
 | | Ozan Özdenizci | Montanuniversität Leoben |
+| | Iyiola Emmanuel Olatunji | CISPA Helmholtz Center for Information Security |
 | | Rasmus Pagh | University of Copenhagen  |
 | | Dario Pasquini | George Mason University |
 | | Kexin Pei | University of Chicago |
@@ -144,6 +145,7 @@ title_align = "left"
 | | Ting Wang | Stony Brook University |
 | | Xiao Wang | Northwestern University |
 | | Christian Weinert | Royal Holloway, University of London |
+| | Emily Wenger | Duke University |
 | | Eric Wong | University of Pennsylvania |
 | | Christian Wressnegger | Karlsruhe Institute of Technology (KIT) |
 | | Hao Wu | University of Copenhagen |
