@@ -138,6 +138,7 @@ title_align = "left"
 | | Kunal Talwar | Apple |
 | | Guanhong Tao | University of Utah |
 | | Binghui Wang | Illinois Institute of Technology |
+| | Derui Wang | CSIRO's Data61 |
 | | Ren Wang | Illinois Institute of Technology |
 | | Tianhao Wang | University of Virginia |
 | | Ting Wang | Stony Brook University |
