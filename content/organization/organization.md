@@ -123,6 +123,7 @@ title_align = "left"
 | | Ambrish Rawat | IBM Research |
 | | Saeyoung Rho | Columbia University |
 | | Vera Rimmer | DistriNet, KU Leuven |
+| | Mikel Rodriguez | Google DeepMind |
 | | Alexander Robey | University of Pennsylvania |
 | | Amrita Roy Chowdhury | University of Michigan, Ann Arbor |
 | | Lea Schönherr | CISPA Helmholtz Center for Information Security |
