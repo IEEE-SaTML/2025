@@ -121,6 +121,7 @@ title_align = "left"
 | | Sazzadur Rahaman | University of Arizona |
 | | Nidhi Rastogi | Rochester Institute of Technology |
 | | Ambrish Rawat | IBM Research |
+| | Saeyoung Rho | Columbia University |
 | | Vera Rimmer | DistriNet, KU Leuven |
 | | Alexander Robey | University of Pennsylvania |
 | | Amrita Roy Chowdhury | University of Michigan, Ann Arbor |
@@ -160,6 +161,7 @@ title_align = "left"
 | | Yaodong Yu | University of Maryland, College Park |
 | | Xiangyu Zhang | Purdue University |
 | | Xiao Zhang | CISPA Helmholtz Center for Information Security |
+| | Xuero Zhang | Ohio State University |
 | | Yang Zhang | CISPA Helmholtz Center for Information Security  |
 
 </div>
