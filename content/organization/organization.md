@@ -72,6 +72,7 @@ title_align = "left"
 | | Parikshit Gopalan | Apple |
 | | Wenbo Guo | University of California, Santa Barbara |
 | | Nirupam Gupta | University of Copenhagen |
+| | Xingshuo Han | Nanyang Technological University |
 | | Jamie Hayes | Deepmind  |
 | | Xinlei He | Hong Kong University of Science and Technology |
 | | Nidhi Hegde | University of Alberta |
