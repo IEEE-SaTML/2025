@@ -10,7 +10,6 @@ title = ""
 +++
 
 #### Important dates
-  * Competition proposal deadline: **August 7, 2024**
   * Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
   * Early reject notification: **Wednesday, October 23, 2024** 
   * Interactive discussion & revision phase: **November 13--27, 2024**
