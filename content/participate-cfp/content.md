@@ -26,10 +26,10 @@ IEEE SaTML expands upon the theoretical and practical understandings of vulnerab
 
 #### Important date
 
-* Paper​ ​submission deadline: **Wednesday, September 18, 2024** 
+* Paper submission deadline: **Wednesday, September 18, 2024** 
 * Early reject notification: **Wednesday, October 23, 2024** 
 * Interactive discussion & revision phase: **November 13--27, 2024**
-* Decision ​notification: **Wednesday, December 11, 2024**
+* Decision notification: **Wednesday, December 11, 2024**
 * Conference dates: **April 9--11, 2025**
 
 All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to UTC-12 time zone.
@@ -48,7 +48,7 @@ We solicit research papers, systematization of knowledge papers, and position pa
 
 All submissions must be received by 11:59 PM AoE (UTC-12) on the day of the deadline. The submission site is available here:
 
-* **Submission site: TBD**
+* **Submission site: https://hotcrp.satml.org**
 
 Submitted papers must not substantially overlap with papers that have been published or accepted for publication, or that are simultaneously in submission to a journal, conference, or workshop with published proceedings. 
 However, authors may choose to give talks about their work, post a preprint of the paper online, and disclose security vulnerabilities to vendors.
