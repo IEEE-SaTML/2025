@@ -12,7 +12,7 @@ title_align = "left"
 
 #### Competition Track
 
-SaTML traditionally includes a *Competition Track* as part of its program. Participants are invited to engage in selected data science competitions, competing to achieve the highest score on relevant machine learning or security tasks. These tasks are based on well-defined problems and corresponding datasets provided by the competition organizers. The competition results will be presented and discussed during dedicated sessions at the conference. 
+SaTML traditionally includes a *Competition Track* as part of its program. Participants are invited to engage in selected data science competitions, competing to achieve the highest score on relevant machine learning or security tasks. These tasks are based on well-defined problems and corresponding datasets provided by the competition organizers. The competition results will be presented and discussed during dedicated sessions at the conference (see [Call for Competitions](/participate-cfc) for details). 
 
 #### Accepted Competitions
 
