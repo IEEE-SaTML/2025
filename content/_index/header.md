@@ -21,9 +21,14 @@ url = "/participate-cfp"
 color = "secondary"
 
 [[buttons]]
-text = "Call For Competitions"
-url = "/participate-cfc"
-color = "secondary" 
+text = "Competitions"
+url = "/competitions"
+color = "secondary"
+
+#[[buttons]]
+#text = "Call For Competitions"
+#url = "/participate-cfc"
+#color = "secondary" 
 
 #[[buttons]]
 #  text = "Accepted Papers"
@@ -34,12 +39,6 @@ color = "secondary"
 #text = "Attend"
 #url = "/attend"
 #color = "info"
-
-#[[buttons]]
-#text = "Competitions"
-#url = "/participate-competitions"
-#color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - #default: primary
-
 
 #[[buttons]]
 #  text = "Schedule"
