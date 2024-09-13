@@ -26,10 +26,10 @@ IEEE SaTML expands upon the theoretical and practical understandings of vulnerab
 
 #### Important date
 
-* Paper submission deadline: **Wednesday, September 18, 2024** 
-* Early reject notification: **Wednesday, October 23, 2024** 
-* Interactive discussion & revision phase: **November 13--27, 2024**
-* Decision notification: **Wednesday, December 11, 2024**
+* Paper submission deadline: **Friday, September 27, 2024** (extended)
+* Early reject notification: **Thursday, October 31, 2024** 
+* Interactive discussion & revision phase: **November 21 -- December 5, 2024**
+* Decision notification: **Thursday, December 12, 2024**
 * Conference dates: **April 9--11, 2025**
 
 All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to UTC-12 time zone.
