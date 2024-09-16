@@ -87,6 +87,7 @@ title_align = "left"
 | | Shouling Ji | Zhejiang University |
 | | Jinyuan Jia | Penn State |
 | | Xiaojun Jia | Nanyang Technological University |
+| | Yigitcan Kaya | University of California, Santa Barbara |
 | | Raouf Kerkouche | CISPA Helmholtz Center for Information Security |
 | | Mahdi Khalili | Ohio State University |
 | | Klim Kireev | EPFL |
