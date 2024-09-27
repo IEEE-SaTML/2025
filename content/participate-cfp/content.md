@@ -91,4 +91,4 @@ Outstanding paper(s) will be selected by the Program Committee, with input from 
 
 At least one author of accepted papers must present their work at the conference, and their papers will appear in the conference’s formal IEEE proceedings. In the event of difficulty obtaining visas for travel or other exceptional circumstances, exceptions may be made and will be discussed on a case-by-case basis.
 
-If you have any questions, please email us at [contact@satml.org](mailto:contact@satml.org)
+If you have any questions, please email us at [pcchairs@satml.org](mailto:pcchairs@satml.org)

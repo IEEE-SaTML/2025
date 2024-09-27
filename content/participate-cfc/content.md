@@ -20,7 +20,7 @@ Our focus is on **data science competitions** where participants will compete to
 
 #### Proposal submission
 
-Proposals for competitions at SaTML must be submitted via email to [contact@satml.org](mailto:contact@satml.org). They should be concise, with a **maximum length of three pages**, to ensure a swift and efficient review process.
+Proposals for competitions at SaTML must be submitted via email to [pcchairs@satml.org](mailto:pcchairs@satml.org). They should be concise, with a **maximum length of three pages**, to ensure a swift and efficient review process.
 
 #### Reviewing and selection process
 
@@ -44,4 +44,4 @@ Competition organizers should propose a timeline for running the competition to 
 
 #### Contact and help
 
-Competition organizers who require help or suggestions regarding competition platforms for running the competition can contact [contact@satml.org](mailto:contact@satml.org) for advice. This call for competitions is adapted from the NeurIPS competition track.
+Competition organizers who require help or suggestions regarding competition platforms for running the competition can contact [pcchairs@satml.org](mailto:pcchairs@satml.org) for advice. This call for competitions is adapted from the NeurIPS competition track.
