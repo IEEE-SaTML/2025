@@ -43,12 +43,10 @@ title_align = "left"
 | | Franziska Boenisch | CISPA Helmholtz Center for Information Security |
 | | Kirill Bykov | ATB Potsdam, TU Berlin & BIFOLD |
 | | Yinzhi Cao | Johns Hopkins University |
-| | Javier Carnerero Cano | IBM Research & Imperial College London |
 | | Karan Chadha | Meta |
 | | Varun Chandrasekaran | University of Illinois Urbana-Champaign |
 | | Kai Chen | Institute of Information Engineering, Chinese Academy of Sciences |
 | | Sizhe Chen | University of California, Berkeley |
-| | Xinyun Chen | Google DeepMind |
 | | Antonio Emanuele Cinà | University of Genova |
 | | Aloni Cohen | University of Chicago |
 | | Tianshuo Cong | Tsinghua University |
@@ -70,18 +68,15 @@ title_align = "left"
 | | Sébastien Gambs | Université du Québec à Montréal |
 | | Neil Gong | Duke University  |
 | | Parikshit Gopalan | Apple |
-| | Wenbo Guo | University of California, Santa Barbara |
 | | Nirupam Gupta | University of Copenhagen |
 | | Xingshuo Han | Nanyang Technological University |
 | | Jamie Hayes | Deepmind  |
 | | Xinlei He | Hong Kong University of Science and Technology |
-| | Nidhi Hegde | University of Alberta |
 | | Matthias Hein | University of Tuebingen |
 | | Antti Honkela | University of Helsinki |
 | | Shengyuan Hu | Carnegie Mellon University |
 | | Mathias  Humbert | University of Lausanne |
 | | Jacob Imola | University of Copenhagen |
-| | Berivan Isik | Stanford University |
 | | Suman Jana | Columbia University |
 | | Bargav Jayaraman | Meta |
 | | Shouling Ji | Zhejiang University |
