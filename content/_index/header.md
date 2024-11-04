@@ -1,7 +1,6 @@
 +++
 fragment = "hero"
 #disabled = true
-date = "2024-06-26"
 weight = 1
 background = "dark" # can influence the text color
 particles = false
@@ -29,16 +28,16 @@ color = "secondary"
 #text = "Call For Competitions"
 #url = "/participate-cfc"
 #color = "secondary" 
-
-#[[buttons]]
-#  text = "Accepted Papers"
-#  url = "/accepted-papers"
-#  color = "success" # primary, secondary, success, danger, warning, info, light,dark, link - default: primary
   
 #[[buttons]]
 #text = "Attend"
 #url = "/attend"
 #color = "info"
+
+#[[buttons]]
+#  text = "Accepted Papers"
+#  url = "/accepted-papers"
+#  color = "success" # primary, secondary, success, danger, warning, info, light,dark, link - default: primary
 
 #[[buttons]]
 #  text = "Schedule"

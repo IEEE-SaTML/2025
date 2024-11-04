@@ -1,8 +1,7 @@
 +++
 fragment = "content"
 disabled = false
-date = "2022-08-09"
-weight = 25
+weight = 10
 #background = ""
 
 title = ""
