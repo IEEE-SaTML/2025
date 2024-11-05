@@ -19,7 +19,7 @@ All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to 
 
 #### Keynotes
 
-We are excited to have the following keynote speakers in the SATML 2025 program. For more details about each keynote talk, please visit the <a href="keynotes">keynotes page</a>.
+We are excited to have the following keynote speakers in the SATML 2025 program. For more details about each talk, please visit the <a href="keynotes">keynotes page</a>.
 
 <div class="row keynotes">
   <div class="col-md-4 text-center">
