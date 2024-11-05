@@ -125,3 +125,10 @@ h5 {
   padding-left: 20px;
   color: #444;
 }
+
+.keynotes img {
+  width: 80%;
+  max-width: 300px !important;
+  border-radius: 50%;
+  padding: 20px;
+} 

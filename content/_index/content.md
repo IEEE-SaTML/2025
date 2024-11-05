@@ -17,6 +17,28 @@ title = ""
 
 All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to UTC-12 time zone.
 
+#### Keynotes
+
+We are excited to have the following outstanding keynote speakers in the program of SATML 2025.
+
+<div class="row keynotes">
+  <div class="col-md-4 text-center">
+    <img src="images/2025/michael.jpg">
+    <br><b>Michael Veale</b>
+    <br>University College London
+  </div>
+  <div class="col-md-4 text-center">
+    <img src="images/2025/kamalika2.jpg">
+    <br><b>Kamalika Chaudhuri</b>
+    <br>University of California San Diego
+  </div>
+  <div class="col-md-4 text-center">
+    <img src="images/2025/matt.jpg">    
+    <br><b>Matt Turek</b>
+    <br>Defense Advanced Research Agency
+  </div>
+</div>
+
 #### Overview
 This conference will expand on the theoretical and practical understandings of vulnerabilities inherent to machine learning (ML), explore the robustness of learning algorithms and systems, and aid in developing a unified, coherent scientific community which aims to establish trustworthy machine learning. Topics of interest include (but are not limited to):
 
