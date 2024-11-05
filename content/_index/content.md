@@ -19,22 +19,22 @@ All deadlines are set to 11:59 PM AoE (Anywhere on Earth), which corresponds to 
 
 #### Keynotes
 
-We are excited to have the following outstanding keynote speakers in the program of SATML 2025.
+We are excited to have the following keynote speakers in the SATML 2025 program. For more details about each keynote talk, please visit the <a href="keynotes">keynotes page</a>.
 
 <div class="row keynotes">
   <div class="col-md-4 text-center">
     <img src="images/2025/michael.jpg">
-    <br><b>Michael Veale</b>
+    <br><a href="keynotes/#keynote1"><b>Michael Veale</b></a>
     <br>University College London
   </div>
   <div class="col-md-4 text-center">
     <img src="images/2025/kamalika2.jpg">
-    <br><b>Kamalika Chaudhuri</b>
+    <br><a href="keynotes/#keynote2"><b>Kamalika Chaudhuri</b></a>
     <br>University of California San Diego
   </div>
   <div class="col-md-4 text-center">
     <img src="images/2025/matt.jpg">    
-    <br><b>Matt Turek</b>
+    <br><a href="keynotes/#keynote3"><b>Matt Turek</b></a>
     <br>Defense Advanced Research Agency
   </div>
 </div>
