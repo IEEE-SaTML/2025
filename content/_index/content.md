@@ -8,6 +8,10 @@ title = ""
 #subtitle = ""
 +++
 
+#### News & Updates
+
+The <a href="https://eventsignup.ku.dk/ieeesatml2025/conference">registration page</a> for SaTML 2025 is now open! 
+
 #### Important dates
   * Paper submission deadline: **Friday, September 27, 2024** (extended)
   * Early reject notification: **Thursday, October 31, 2024**
