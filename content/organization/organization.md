@@ -142,6 +142,7 @@ title_align = "left"
 | | Tianhao Wang | University of Virginia |
 | | Ting Wang | Stony Brook University |
 | | Xiao Wang | Northwestern University |
+| | Alexander Warnecke | Databricks |
 | | Christian Weinert | Royal Holloway, University of London |
 | | Emily Wenger | Duke University |
 | | Eric Wong | University of Pennsylvania |
