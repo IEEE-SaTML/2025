@@ -10,7 +10,8 @@ title = ""
 
 #### News & Updates
 
-The <a href="https://eventsignup.ku.dk/ieeesatml2025/conference">registration page</a> for SaTML 2025 is now open! 
+- We are offering travel scholarships for students and postdocs, thanks to generous sponsor support. <a href="scholarships">Learn more</a>.
+- The <a href="https://eventsignup.ku.dk/ieeesatml2025/conference">registration page</a> for SaTML 2025 is now open! 
 
 #### Important dates
   * Paper submission deadline: **Friday, September 27, 2024** (extended)
