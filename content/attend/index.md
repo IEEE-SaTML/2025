@@ -1,4 +1,3 @@
 +++
-title = "Attend"
-date = "2022-08-09"
+title = "Register & Attend"
 +++

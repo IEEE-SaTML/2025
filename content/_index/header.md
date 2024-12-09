@@ -24,15 +24,15 @@ text = "Competitions"
 url = "/competitions"
 color = "secondary"
 
-[[buttons]]
-text = "Registration"
-url = "https://eventsignup.ku.dk/ieeesatml2025/conference"
-color = "secondary" 
-  
 #[[buttons]]
-#text = "Attend"
-#url = "/attend"
-#color = "info"
+#text = "Registration"
+#url = "https://eventsignup.ku.dk/ieeesatml2025/conference"
+#color = "secondary" 
+  
+[[buttons]]
+text = "Register & Attend"
+url = "/attend"
+color = "secondary"
 
 #[[buttons]]
 #  text = "Accepted Papers"
