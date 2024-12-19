@@ -79,7 +79,7 @@ outside event activities too!
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and code of conduct violations reduce the value of our event for everyone. We want to provide a safe, inclusive environment at our event. And people who report unacceptable behavior help us cultivate a safe and inclusive environment.
 
-**To make a report:** [Email the general chair](mailto:contact@staml.org).
+**To make a report:** [Email the general chair](mailto:contact@satml.org).
 
 When taking a personal report, we will ensure you are in a safe environment and cannot be overheard. We may involve other event staff to ensure your report is managed properly. Once in a safe environment, we will ask you to tell us about what happened. This can be upsetting, but we will handle it as respectfully as possible, and you can bring someone to support you. You won’t be asked to confront anyone and we won’t tell anyone who you are.
 
