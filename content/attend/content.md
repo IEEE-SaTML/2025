@@ -51,7 +51,7 @@ Should you require a visa support letter to attend the conference, please rememb
 
 #### Travel Scholarships
 
-The conference will be using the generous support we received from our sponsors to support students and postdoctoral researchers traveling to IEEE SaTML 2025 who do not have sufficient funding. For more information about the scholarship application, important deadlines, and scholarship criteria and conditions, please visit our <a href="scholarships">travel scholarship page</a>.
+The conference will be using the generous support we received from our sponsors to support students and postdoctoral researchers traveling to IEEE SaTML 2025 who do not have sufficient funding. For more information about the scholarship application, important deadlines, and scholarship criteria and conditions, please visit our <a href="../scholarships">travel scholarship page</a>.
 
 #### Code of Conduct
 
