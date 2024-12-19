@@ -39,8 +39,7 @@ The following requirements must be met for you to receive the scholarship:
 
 #### Application
 
-To apply for the scholarship, you must register **no later than Sunday 22nd December 2024**. The registration page is [available here](https://eventsignup.ku.dk/ieeesatml2025/conference). The committee will consider all applications and give their final decisions on 10th January 2025.
-
+To apply for the scholarship, you must register **no later than 8th January 2025**. The registration page is [available here](https://eventsignup.ku.dk/ieeesatml2025/conference). The committee will consider all applications and give their final decisions on 24th January 2025.
 
 When you apply for the scholarship, remember to fill in all the fields in the application form or we may not be able to consider your application.
 
