@@ -13,8 +13,6 @@ title_align = "left"
 
 This page provides a checklist for common formatting issues in preparing the camera-ready version of your paper for SaTML. The checklist is largely taken from the excellent author instructions provided by [JMLR](https://www.jmlr.org/format/formatting-errors.html).  
 
-#### General
-
 #### Title Page
 
 - Use title case for the paper's title. Capitalize the first letter of each word, except for small words like “and” and “or.”
