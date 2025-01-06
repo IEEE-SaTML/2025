@@ -15,8 +15,6 @@ This page provides a checklist for common formatting issues in preparing the cam
 
 #### General
 
-- Make sure your abstract reads well. It will be used to advertise your paper.
-
 - At the end of your paper, the order of sections should be: Acknowledgments, References, then Appendices.
 
 - Acknowledgments should be a unnumbered section.
