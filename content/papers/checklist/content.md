@@ -15,12 +15,6 @@ This page provides a checklist for common formatting issues in preparing the cam
 
 #### General
 
-- At the end of your paper, the order of sections should be: Acknowledgments, References, then Appendices.
-
-- Acknowledgments should be a unnumbered section.
-
-- Appendix section number should be a letter. You can use `\appendix` followed by a regular `\section` command to format appendices
-
 #### Title Page
 
 - Use title case for the paper's title. Capitalize the first letter of each word, except for small words like “and” and “or.”
@@ -34,6 +28,12 @@ This page provides a checklist for common formatting issues in preparing the cam
 - Aim to avoid runts as well (a single word, part of a word, or a very short line that appears alone at the end of a paragraph).
 
 - When referring to figures, tables, sections, and similar elements (e.g., “Figure 1”, “Section 2.1”), ensure that terms like “Figure” and “Section” are capitalized.
+
+- At the end of your paper, the order of sections should be: Acknowledgments, References, then Appendices.
+
+- Acknowledgments should be a unnumbered section.
+
+- Appendix section number should be a letter. You can use `\appendix` followed by a regular `\section` command to format appendices
 
 #### Sections, Figures and Tables
 
