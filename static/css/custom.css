@@ -149,3 +149,42 @@ h5 {
   padding-top: 10px;
   margin-top: 10px;
 }
+
+em.paper-title {
+  font-weight: 500;
+  font-style: normal;
+}
+
+li.paper-item {
+  margin: 14px 0;
+  padding: 0px 0px;
+  list-style-type: none;
+  border-left: 2px solid #DDD;
+  padding-left: 20px;  
+}
+
+ul.paper-list {
+  padding-left: 0px;
+}
+
+blockquote.paper-abstract {
+  color: #555;
+  display: none;
+  font-size: 0.95em;
+  max-width: 80ch;
+  text-align: justify;
+  line-height: 1.5em;
+  background-color: #f0f0f0;
+  margin-top: 10px;
+  margin-left: -20px;
+  padding: 15px 25px;
+}
+
+.paper-item .button {
+  color: teal;
+  font-size: 0.9em;
+}
+
+.paper-item .button small {
+  font-size: 0.7em;
+}
