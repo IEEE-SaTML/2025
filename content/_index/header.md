@@ -34,11 +34,11 @@ text = "Register & Attend"
 url = "/attend"
 color = "secondary"
 
-#[[buttons]]
-#  text = "Accepted Papers"
-#  url = "/accepted-papers"
-#  color = "success" # primary, secondary, success, danger, warning, info, light,dark, link - default: primary
-
+[[buttons]]
+  text = "Accepted Papers"
+  url = "/accepted-papers"
+  color = "secondary"
+   
 #[[buttons]]
 #  text = "Schedule"
 #  url = "/schedule"
