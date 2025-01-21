@@ -20,6 +20,18 @@ For SaTML 2025, 53 papers were accepted out of 180 submissions, resulting in an 
 
 <ul class='paper-list'>
 <li class='paper-item'>
+    <em class='paper-title'>Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics</em> <br> 
+    Francesco&nbsp;Croce (EPFL), Christian&nbsp;Schlarmann, Naman Deep&nbsp;Singh, Matthias&nbsp;Hein (University&nbsp;of&nbsp;Tuebingen) <br>
+    <span class='button' id='spot-90'><small>📃</small> Abstract</span> <br>
+    <blockquote class='paper-abstract' id='abstract-90'>
+        Measuring perceptual similarity is a key tool in computer vision. In recent years perceptual metrics based on features extracted from neural networks with large and diverse training sets, e.g. CLIP, have become popular. At the same time, the metrics extracted from features of neural networks are not adversarially robust. In this paper we show that adversarially robust CLIP models, called \rclipf, obtained by unsupervised adversarial finetuning induce a <em>better</em> and <em>adversarially robust</em> perceptual metric that outperforms existing metrics in a zero-shot setting, and further matches the performance of state-of-the-art metrics while being robust after fine-tuning. Moreover, our perceptual metric achieves strong performance on related task such as robust image-to-image retrieval, which becomes especially relevant when applied to ``Not Safe for Work'' (NSFW) content detection and dataset filtering. While standard perceptual metrics can be easily attacked by a small perturbation completely degrading NSFW detection, our robust perceptual metric maintains high accuracy under an attack while having similar performance for unperturbed images. Finally, perceptual metrics induced by robust CLIP models have higher interpretability: feature inversion can show which images are considered similar, while text inversion can find what images are associated to a given prompt. This also allows us to visualize the very rich visual concepts learned by a CLIP model, including memorized persons, paintings and complex queries.
+    </blockquote>
+    <script>
+        $("#spot-90").click(function(){
+            $("#abstract-90").slideToggle("fast", "linear");
+        });
+    </script>
+</li> <li class='paper-item'>
     <em class='paper-title'>Attackers Can Do Better: Over- and Understated Factors of Model Stealing Attacks</em> <br> 
     Daryna&nbsp;Oliynyk, Rudolf&nbsp;Mayer (SBA&nbsp;Research), Andreas&nbsp;Rauber (TU&nbsp;Wien) <br>
     <span class='button' id='spot-192'><small>📃</small> Abstract</span> <br>
@@ -116,6 +128,18 @@ For SaTML 2025, 53 papers were accepted out of 180 submissions, resulting in an 
         });
     </script>
 </li> <li class='paper-item'>
+    <em class='paper-title'>DART: A Principled Approach to Adversarially Robust Unsupervised Domain Adaptation</em> <br> 
+    Yunjuan&nbsp;Wang (Johns&nbsp;Hopkins&nbsp;University), Hussein&nbsp;Hazimeh, Natalia&nbsp;Ponomareva, Alexey&nbsp;Kurakin, Ibrahim&nbsp;Hammoud (Google), Raman&nbsp;Arora (Johns&nbsp;Hopkins&nbsp;University) <br>
+    <span class='button' id='spot-2'><small>📃</small> Abstract</span> <br>
+    <blockquote class='paper-abstract' id='abstract-2'>
+        Distribution shifts and adversarial examples are two major challenges for deploying machine learning models. While these challenges have been studied individually, their combination is an important topic that remains relatively under-explored. In this work, we study the problem of adversarial robustness under a common setting of distribution shift – unsupervised domain adaptation (UDA). Specifically, given a labeled source domain DS and an unlabeled target domain DT with related but different distributions, the goal is to obtain an adversarially robust model for DT. The absence of target domain labels poses a unique challenge, as conventional adversarial robustness defenses cannot be directly applied to DT. To address this challenge, we first establish a generalization bound for the adversarial target loss, which consists of (i) terms related to the loss on the data, and (ii) a measure of worst-case domain divergence. Motivated by this bound, we develop a novel unified defense framework called Divergence Aware adveRsarial Training (DART), which can be used in conjunction with a variety of standard UDA methods; e.g., DANN (Ganin & Lempitsky, 2015). DART is applicable to general threat models, including the popular lp-norm model, and does not require heuristic regularizers or architectural changes. We also release DomainRobust: a testbed for evaluating robustness of UDA models to adversarial attacks. DomainRobust consists of 4 multi-domain benchmark datasets (with 46 source-target pairs) and 7 meta-algorithms with a total of 11 variants. Our large-scale experiments demonstrate that on average, DART significantly enhances model robustness on all benchmarks compared to the state of the art, while maintaining competitive standard accuracy. The relative improvement in robustness from DART reaches up to 29.2% on the source-target domain pairs considered.
+    </blockquote>
+    <script>
+        $("#spot-2").click(function(){
+            $("#abstract-2").slideToggle("fast", "linear");
+        });
+    </script>
+</li> <li class='paper-item'>
     <em class='paper-title'>Differentially Private Active Learning: Balancing Effective Data Selection and Privacy</em> <br> 
     Kristian&nbsp;Schwethelm, Johannes&nbsp;Kaiser, Jonas&nbsp;Kuntzer (Technical&nbsp;University&nbsp;of&nbsp;Munich), Mehmet&nbsp;Yigitsoy (deepc&nbsp;GmbH), Daniel&nbsp;Rückert (Technical&nbsp;University&nbsp;of&nbsp;Munich,&nbsp;Imperial&nbsp;College&nbsp;London), Georgios&nbsp;Kaissis (Technical&nbsp;University&nbsp;of&nbsp;Munich,&nbsp;Helmholtz&nbsp;Munich) <br>
     <span class='button' id='spot-27'><small>📃</small> Abstract</span> <br>
@@ -185,6 +209,18 @@ For SaTML 2025, 53 papers were accepted out of 180 submissions, resulting in an 
     <script>
         $("#spot-137").click(function(){
             $("#abstract-137").slideToggle("fast", "linear");
+        });
+    </script>
+</li> <li class='paper-item'>
+    <em class='paper-title'>HALO: Robust Out-of-Distribution Detection via Joint Optimisation</em> <br> 
+    Hugo&nbsp;Lyons Keenan, Sarah&nbsp;Erfani, Christopher&nbsp;Leckie (The&nbsp;University&nbsp;of&nbsp;Melbourne) <br>
+    <span class='button' id='spot-100'><small>📃</small> Abstract</span> <br>
+    <blockquote class='paper-abstract' id='abstract-100'>
+        Effective out-of-distribution (OOD) detection is crucial for the safe deployment of machine learning models in real-world scenarios. However, recent work has shown that OOD detection methods are vulnerable to adversarial attacks, potentially leading to critical failures in high-stakes applications. This discovery has motivated work on robust OOD detection methods that are capable of maintaining performance under various attack settings. Prior approaches have made progress on this problem but face a number of limitations: often only exhibiting robustness to attacks on OOD data or failing to maintain strong clean performance. In this work, we adapt an existing robust classification framework, TRADES, extending it to the problem of robust OOD detection and discovering a novel objective function. Recognising the critical importance of a strong clean/robust trade-off for OOD detection, we introduce an additional loss term which boosts classification and detection performance. Our approach, called HALO (Helper-based AdversariaL OOD detection), surpasses existing methods and achieves state-of-the-art performance across a number of datasets and attack settings. Extensive experiments demonstrate an average AUROC improvement of 3.15 in clean settings and 7.07 under adversarial attacks when compared to the next best method. Furthermore, HALO exhibits resistance to transferred attacks, offers tuneable performance through hyper-parameter selection, and is compatible with existing OOD detection frameworks out-of-the-box, leaving open the possibility of future performance gains.
+    </blockquote>
+    <script>
+        $("#spot-100").click(function(){
+            $("#abstract-100").slideToggle("fast", "linear");
         });
     </script>
 </li> <li class='paper-item'>
@@ -293,6 +329,18 @@ For SaTML 2025, 53 papers were accepted out of 180 submissions, resulting in an 
     <script>
         $("#spot-155").click(function(){
             $("#abstract-155").slideToggle("fast", "linear");
+        });
+    </script>
+</li> <li class='paper-item'>
+    <em class='paper-title'>ML-Based Behavioral Malware Detection Is Far From a Solved Problem</em> <br> 
+    Yigitcan&nbsp;Kaya (UC&nbsp;Santa&nbsp;Barbara), Yizheng&nbsp;Chen (University&nbsp;of&nbsp;Maryland&nbsp;College&nbsp;Park), Marcus&nbsp;Botacin (Texas&nbsp;A&M&nbsp;University), Shoumik&nbsp;Saha (University&nbsp;of&nbsp;Maryland&nbsp;College&nbsp;Park), Fabio&nbsp;Pierazzi (King’s&nbsp;College&nbsp;London&nbsp;&&nbsp;University&nbsp;College&nbsp;London), Lorenzo&nbsp;Cavallaro (University&nbsp;College&nbsp;London), David&nbsp;Wagner (UC&nbsp;Berkeley), Tudor&nbsp;Dumitras (University&nbsp;of&nbsp;Maryland&nbsp;College&nbsp;Park) <br>
+    <span class='button' id='spot-82'><small>📃</small> Abstract</span> <br>
+    <blockquote class='paper-abstract' id='abstract-82'>
+        Malware detection is a ubiquitous application of Machine Learning (ML) in security. In behavioral malware analysis, the detector relies on features extracted from program execution traces. The research literature has focused on detectors trained with features collected from sandbox environments and evaluated on samples also analyzed in a sandbox. However, in deployment, a malware detector at endpoint hosts often must rely on traces captured from endpoint hosts, not from a sandbox. Thus, there is a gap between the literature and real-world needs.   We present the first measurement study of the performance of ML-based malware detectors at real-world endpoints. Leveraging a dataset of sandbox traces and a dataset of in-the-wild program traces, we evaluate two scenarios: (i) an endpoint detector trained on sandbox traces (convenient and easy to train), and (ii) an endpoint detector trained on endpoint traces (more challenging to train, since we need to collect telemetry data). We discover a wide gap between the performance as measured using prior evaluation methods in the literature—over 90%—vs. expected performance in endpoint detection—about 20% (scenario (i)) to 50% (scenario (ii)). We characterize the ML challenges that arise in this domain and contribute to this gap, including label noise, distribution shift, and spurious features. Moreover, we show several techniques that achieve 5–30% relative performance improvements over the baselines. Our evidence suggests that applying detectors trained on sandbox data to endpoint detection is challenging. The most promising direction is training detectors directly on endpoint data, which marks a departure from current practice. To promote progress, we will facilitate researchers to perform realistic detector evaluations against our real-world dataset.
+    </blockquote>
+    <script>
+        $("#spot-82").click(function(){
+            $("#abstract-82").slideToggle("fast", "linear");
         });
     </script>
 </li> <li class='paper-item'>
