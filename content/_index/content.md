@@ -10,7 +10,7 @@ title = ""
 
 #### News & Updates
 
-- The list of accepted papers to SaTML 2025 is <a href="accepted-papers">now available</a>. Congratulations to all authors!
+- The list of accepted papers for SaTML 2025 is <a href="accepted-papers">now available</a>. Congratulations to all authors!
 - We are offering travel scholarships for students and postdocs, thanks to generous sponsor support. <a href="scholarships">Learn more</a>.
 - The <a href="https://eventsignup.ku.dk/ieeesatml2025/conference">registration page</a> for SaTML 2025 is now open! 
 
