@@ -14,10 +14,15 @@ subtitle3 = "<br>Sponsored by the [IEEE Computer Society Technical Committee of 
 [header]
   image = "2025/header02a.jpg"
 
+#[[buttons]]
+#text = "Call For Papers"
+#url = "/participate-cfp"
+#color = "secondary"
+
 [[buttons]]
-text = "Call For Papers"
-url = "/participate-cfp"
-color = "secondary"
+  text = "Accepted Papers"
+  url = "/accepted-papers"
+  color = "secondary"
 
 [[buttons]]
 text = "Competitions"
@@ -34,10 +39,6 @@ text = "Register & Attend"
 url = "/attend"
 color = "secondary"
 
-[[buttons]]
-  text = "Accepted Papers"
-  url = "/accepted-papers"
-  color = "secondary"
    
 #[[buttons]]
 #  text = "Schedule"
