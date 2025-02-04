@@ -156,7 +156,7 @@ em.paper-title {
 }
 
 li.paper-item {
-  margin: 14px 0;
+  margin: 14px 0px;
   padding: 0px 0px;
   list-style-type: none;
   border-left: 2px solid #DDD;
@@ -171,7 +171,7 @@ blockquote.paper-abstract {
   color: #555;
   display: none;
   font-size: 0.95em;
-  max-width: 80ch;
+  max-width: 70ch;
   text-align: justify;
   line-height: 1.5em;
   background-color: #f0f0f0;
@@ -180,11 +180,60 @@ blockquote.paper-abstract {
   padding: 15px 25px;
 }
 
-.paper-item .button {
+.button {
   color: teal;
   font-size: 0.9em;
+  cursor: pointer;
 }
 
-.paper-item .button small {
+.button small {
   font-size: 0.7em;
+}
+
+.button:hover {
+  text-decoration: underline;
+}
+
+h5 .slot-title {
+  padding-left: 10px;
+  display: inline-block;
+}
+
+h5 .slot-time {
+  font-weight: normal;
+  display: inline-block;
+  color: #444;
+}
+
+h5 .break, h5 .lunch, h5 .coffee {
+  color: #666;
+}  
+
+article .slot-title a {
+  text-decoration: none;
+}
+
+article .slot-title a:hover {
+  text-decoration: underline;
+}
+
+.slot-block {
+  margin: 14px 0px;
+  padding: 0px 0px;
+  border-left: 2px solid #DDD;
+  padding-left: 20px;  
+}
+
+article .slot-block a {
+  text-decoration: none;
+}
+
+article .slot-block a:hover {
+  text-decoration: underline;
+}
+
+.program li.paper-item {
+  margin: 0px 0px;
+  padding-bottom: 7px;
+  padding-top: 7px;
 }
