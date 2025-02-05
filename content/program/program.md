@@ -31,7 +31,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='keynote'> <div class='slot-time'>09:00&ndash;09:40</div> <a class='anchor' name='04090900'></a> <div class='slot-title keynote'>Keynote 1</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program keynote'>
     <em class='paper-title'>Malice, Models and Middlemen</em> <br> 
     Michael Veale (University College London)<br>
     <div class='button-group'>
@@ -46,7 +46,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>10:00&ndash;11:00</div> <a class='anchor' name='04091000'></a> <div class='slot-title session'>Session: Security of LLMs</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>Non-Halting Queries: Exploiting Fixed Points in LLMs</em> <br> 
     Ghaith&nbsp;Hammouri, Kemal&nbsp;Derya, Berk&nbsp;Sunar (WPI) <br>
     <div class='button-group'>
@@ -60,7 +60,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-87").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Jailbreaking Black Box Large Language Models in Twenty Queries</em> <br> 
     Patrick&nbsp;Chao, Alexander&nbsp;Robey, Edgar&nbsp;Dobriban, Hamed&nbsp;Hassani, George J.&nbsp;Pappas, Eric&nbsp;Wong (University&nbsp;of&nbsp;Pennsylvania) <br>
     <div class='button-group'>
@@ -74,7 +74,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-95").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Get my drift? Catching LLM Task Drift with Activation Deltas</em> <br> 
     Sahar&nbsp;Abdelnabi, Aideen&nbsp;Fay, Giovanni&nbsp;Cherubin, Ahmed&nbsp;Salem (Microsoft), Mario&nbsp;Fritz (CISPA&nbsp;Helmholtz&nbsp;Center&nbsp;for&nbsp;Information&nbsp;Security), Andrew&nbsp;Paverd (Microsoft) <br>
     <div class='button-group'>
@@ -88,7 +88,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-137").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Mark My Words: Analyzing and Evaluating Language Model Watermarks</em> <br> 
     Julien&nbsp;Piet, Chawin&nbsp;Sitawarin, Vivian&nbsp;Fang, Norman&nbsp;Mu, David&nbsp;Wagner (UC&nbsp;Berkeley) <br>
     <div class='button-group'>
@@ -109,7 +109,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>11:20&ndash;12:20</div> <a class='anchor' name='04091120'></a> <div class='slot-title session'>Session: Adversaries and Attacks</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>SnatchML: Hijacking ML models without Training Access</em> <br> 
     Mahmoud&nbsp;Ghorbal (Université&nbsp;Polytechnique&nbsp;Hauts-de-France), Halima&nbsp;Bouzidi (CSIT,&nbsp;Queen's&nbsp;University&nbsp;Belfast), Ioan Marius&nbsp;Bilasco (Université&nbsp;de&nbsp;Lille), Ihsen&nbsp;Alouani (CSIT,&nbsp;Queen's&nbsp;University&nbsp;Belfast) <br>
     <div class='button-group'>
@@ -123,7 +123,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-72").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>TS-Inverse: A Gradient Inversion Attack tailored for Federated Time Series Forecasting Models</em> <br> 
     Caspar&nbsp;Meijer, Jiyue&nbsp;Huang (TU&nbsp;Delft), Shreshtha&nbsp;Sharma, Elena&nbsp;Lazovik (TNO), Lydia Y.&nbsp;Chen (TU&nbsp;Delft) <br>
     <div class='button-group'>
@@ -137,7 +137,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-127").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>PEEL the Layers and Find Yourself: Revisiting Inference-time Data Leakage for Residual Neural Networks</em> <br> 
     Huzaifa&nbsp;Arif (Rensselaer&nbsp;Polytechnic&nbsp;Institute), Pin-Yu&nbsp;Chen, Keerthiram&nbsp;Murugesan, Payel&nbsp;Das (IBM), Alex&nbsp;Gittens (RPI) <br>
     <div class='button-group'>
@@ -151,7 +151,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-176").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Attackers Can Do Better: Over- and Understated Factors of Model Stealing Attacks</em> <br> 
     Daryna&nbsp;Oliynyk, Rudolf&nbsp;Mayer (SBA&nbsp;Research), Andreas&nbsp;Rauber (TU&nbsp;Wien) <br>
     <div class='button-group'>
@@ -172,7 +172,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>13:30&ndash;14:30</div> <a class='anchor' name='04091330'></a> <div class='slot-title session'>Session: Backdoors Attacks</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>Backdoor Detection through Replicated Execution of Outsourced Training</em> <br> 
     Hengrui&nbsp;Jia, Sierra&nbsp;Wyllie (University&nbsp;of&nbsp;Toronto&nbsp;and&nbsp;Vector&nbsp;Institute), Akram Bin&nbsp;Sediq, Ahmed A.&nbsp;Ibrahim (Ericsson&nbsp;Canada), Nicolas&nbsp;Papernot (University&nbsp;of&nbsp;Toronto&nbsp;and&nbsp;Vector&nbsp;Institute) <br>
     <div class='button-group'>
@@ -186,7 +186,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-10").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Robust Knowledge Distillation in Federated Learning: Counteracting Backdoor Attacks</em> <br> 
     Ebtisaam&nbsp;Alharbi (Lancaster&nbsp;University;&nbsp;Umm&nbsp;AlQura&nbsp;University), Leandro Soriano&nbsp;Marcolino, Qiang&nbsp;Ni, Antonios&nbsp;Gouglidis (Lancaster&nbsp;University) <br>
     <div class='button-group'>
@@ -200,7 +200,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-50").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Krait: A Backdoor Attack Against Graph Prompt Tuning</em> <br> 
     Ying&nbsp;Song (University&nbsp;of&nbsp;Pittsburgh), Rita&nbsp;Singh (Carnegie&nbsp;Mellon&nbsp;University), Balaji&nbsp;Palanisamy (University&nbsp;of&nbsp;Pittsburgh) <br>
     <div class='button-group'>
@@ -214,7 +214,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-153").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>The Ultimate Cookbook for Invisible Poison: Crafting Subtle Clean-Label Text Backdoors with Style Attributes</em> <br> 
     Wencong&nbsp;You, Daniel&nbsp;Lowd (University&nbsp;of&nbsp;Oregon) <br>
     <div class='button-group'>
@@ -237,20 +237,16 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <ul class='paper-list program'>
 <li class='paper-item program competition'>
     <em class='paper-title'>🏁 Adaptive Prompt Injection: LLMail Inject</em> <br>
-    <a href="https://microsoft.github.io/llmail-inject/">https://microsoft.github.io/llmail-inject/</a> <br>
-<!--
     <div class='button-group'>
     <a class='button' href="/competitions/#competition1"><small>📃</small> Abstract</a>
+    <a class='button' href="https://microsoft.github.io/llmail-inject/"><small>🌐</small> Website</a>
     </div>
--->    
 </li><li class='paper-item program competition'>
     <em class='paper-title'>🏁 Membership Inference on Diffusion-model-based Synthetic Tabular Data</em> <br>
-    <a href="https://vectorinstitute.github.io/MIDST">https://vectorinstitute.github.io/MIDST</a> <br>
-<!--
     <div class='button-group'>
     <a class='button' href="/competitions/#competition3"><small>📃</small> Abstract</a>
+    <a class='button' href="https://vectorinstitute.github.io/MIDST"><small>🌐</small> Website</a>
     </div>
--->    
 </li></ul>
 
 <h5 class='break'> <div class='slot-time'>15:20&ndash;15:40</div> <a class='anchor' name='04091520'></a> <div class='slot-title break'>Break</div>
@@ -258,7 +254,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>15:40&ndash;16:40</div> <a class='anchor' name='04091540'></a> <div class='slot-title session'>Session: Broader Perspectives</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>SoK: On the Offensive Potential of AI</em> <br> 
     Saskia Laura&nbsp;Schröer, Giovanni&nbsp;Apruzzese (University&nbsp;of&nbsp;Liechtenstein), Soheil&nbsp;Human (Vienna&nbsp;University&nbsp;of&nbsp;Economics&nbsp;and&nbsp;Business), Pavel&nbsp;Laskov (University&nbsp;of&nbsp;Liechtenstein), Hyrum S.&nbsp;Anderson (Robust&nbsp;Intelligence), Edward W.N.&nbsp;Bernroider (Vienna&nbsp;University&nbsp;of&nbsp;Economics&nbsp;and&nbsp;Business), Aurore&nbsp;Fass (CISPA&nbsp;Helmholtz&nbsp;Center&nbsp;for&nbsp;Information&nbsp;Security), Ben&nbsp;Nassi (Technion&nbsp;-&nbsp;Israel&nbsp;Institute&nbsp;of&nbsp;Technology)), Vera&nbsp;Rimmer (DistriNet,&nbsp;KU&nbsp;Leuven), Fabio&nbsp;Roli (Università&nbsp;degli&nbsp;Studi&nbsp;di&nbsp;Genova), Samer&nbsp;Salam, Ashley&nbsp;Shen (Cisco&nbsp;Systems), Ali&nbsp;Sunyaev (Karlsruhe&nbsp;Institute&nbsp;of&nbsp;Technolog), Tim&nbsp;Wadhwa-Brown (Cisco&nbsp;Systems), Isabel&nbsp;Wagner (University&nbsp;of&nbsp;Basel), Gang&nbsp;Wang (University&nbsp;of&nbsp;Illinois&nbsp;Urbana-Champaign) <br>
     <div class='button-group'>
@@ -272,7 +268,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-58").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Contextual Confidence and Generative AI</em> <br> 
     Shrey&nbsp;Jain (Microsoft), Zoe&nbsp;Hitzig (Harvard/OpenAI), Pamela&nbsp;Mishkin (OpenAI) <br>
     <div class='button-group'>
@@ -286,7 +282,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-96").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Locking Machine Learning Models into Hardware</em> <br> 
     Eleanor&nbsp;Clifford (Imperial&nbsp;College&nbsp;London), Adhithya&nbsp;Saravanan, Harry&nbsp;Langford (University&nbsp;of&nbsp;Cambridge), Cheng&nbsp;Zhang, Yiren&nbsp;Zhao (Imperial&nbsp;College&nbsp;London), Robert&nbsp;Mullins (University&nbsp;of&nbsp;Cambridge), Ilia&nbsp;Shumailov, Jamie&nbsp;Hayes (Google&nbsp;Deepmind) <br>
     <div class='button-group'>
@@ -300,7 +296,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-141").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Position: Episodic memory in AI agents poses risks that should be studied and mitigated</em> <br> 
     Chad&nbsp;DeChant (Columbia&nbsp;University) <br>
     <div class='button-group'>
@@ -320,6 +316,11 @@ For a high-level overview of the conference schedule, please visit our [Google C
 </h5>
 <h5 class='posters'> <div class='slot-time'>17:00&ndash;20:00</div> <a class='anchor' name='04091700'></a> <div class='slot-title posters'>Poster Session</div>
 </h5>
+<ul class='paper-list program'>
+<li class='paper-item program poster'><b>Note:</b> The poster session will be held at HC. Ørsted Institute, ground floor lobby. It is located just a <a href='https://maps.app.goo.gl/T7TCK8F5FEuSFnqj8'>6-minute walk</a> from the Lundbeck Auditorium. The address is <a href='https://maps.app.goo.gl/byv7nKUB1xSqnRB57'>Universitetsparken 5, 2100 Copenhagen.
+</li>
+</ul>
+
 <br/><hr>
 
 <a class='anchor' name='0410'></a>
@@ -327,7 +328,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='keynote'> <div class='slot-time'>09:00&ndash;09:40</div> <a class='anchor' name='04100900'></a> <div class='slot-title keynote'>Keynote 2</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program keynote'>
     <em class='paper-title'>The Science of Empirical Privacy Measurement: Memorization and Beyond</em> <br> 
     Kamalika Chaudhuri (University of California San Diego)<br>
     <div class='button-group'>
@@ -342,7 +343,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>10:00&ndash;11:00</div> <a class='anchor' name='04101000'></a> <div class='slot-title session'>Session: Membership Inference Attacks</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>Position: Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data</em> <br> 
     Jie&nbsp;Zhang, Debeshee&nbsp;Das (ETH&nbsp;Zurich), Gautam&nbsp;Kamath (University&nbsp;of&nbsp;Waterloo), Florian&nbsp;Tramèr (ETH&nbsp;Zurich) <br>
     <div class='button-group'>
@@ -356,7 +357,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-109").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Range Membership Inference Attacks</em> <br> 
     Jiashu&nbsp;Tao, Reza&nbsp;Shokri (National&nbsp;University&nbsp;of&nbsp;Singapore) <br>
     <div class='button-group'>
@@ -370,7 +371,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-129").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Hyperparameters in Score-Based Membership Inference Attacks</em> <br> 
     Gauri&nbsp;Pradhan, Joonas&nbsp;Jälkö, Marlon&nbsp;Tobaben, Antti&nbsp;Honkela (University&nbsp;of&nbsp;Helsinki) <br>
     <div class='button-group'>
@@ -384,7 +385,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-154").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>SoK: Membership Inference Attacks on LLMs are Rushing Nowhere (and How to Fix It)</em> <br> 
     Matthieu&nbsp;Meeus, Igor&nbsp;Shilov (Imperial&nbsp;College&nbsp;London), Shubham&nbsp;Jain (Sense&nbsp;Street), Manuel&nbsp;Faysse (MICS,&nbsp;CentraleSupélec,&nbsp;Université&nbsp;Paris-Saclay), Marek&nbsp;Rei, Yves-Alexandre&nbsp;de Montjoye (Imperial&nbsp;College&nbsp;London) <br>
     <div class='button-group'>
@@ -405,7 +406,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>11:20&ndash;12:20</div> <a class='anchor' name='04101120'></a> <div class='slot-title session'>Session: Detection and Forensics</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>HALO: Robust Out-of-Distribution Detection via Joint Optimisation</em> <br> 
     Hugo&nbsp;Lyons Keenan, Sarah&nbsp;Erfani, Christopher&nbsp;Leckie (The&nbsp;University&nbsp;of&nbsp;Melbourne) <br>
     <div class='button-group'>
@@ -419,7 +420,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-100").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Targeted Manifold Manipulation Against Adversarial Attacks</em> <br> 
     Banibrata&nbsp;Ghosh, Haripriya&nbsp;Harikumar, Svetha&nbsp;Venkatesh, Santu&nbsp;Rana (Deakin&nbsp;University) <br>
     <div class='button-group'>
@@ -433,7 +434,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-123").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>SEA: Shareable and Explainable Attribution for Query-based Black-box Attacks</em> <br> 
     Yue&nbsp;Gao (Snowflake), Ilia&nbsp;Shumailov (Google&nbsp;Deepmind), Kassem&nbsp;Fawaz (University&nbsp;of&nbsp;Wisconsin-Madison) <br>
     <div class='button-group'>
@@ -447,7 +448,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-125").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>SpaNN: Detecting Multiple Adversarial Patches on CNNs by Spanning Saliency Thresholds</em> <br> 
     Mauricio&nbsp;Byrd Victorica, György&nbsp;Dán, Henrik&nbsp;Sandberg (KTH&nbsp;Royal&nbsp;Institute&nbsp;of&nbsp;Technology) <br>
     <div class='button-group'>
@@ -468,7 +469,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>13:30&ndash;14:30</div> <a class='anchor' name='04101330'></a> <div class='slot-title session'>Session: Machine Unlearning</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>Verifiable and Provably Secure Machine Unlearning</em> <br> 
     Thorsten&nbsp;Eisenhofer (BIFOLD&nbsp;&&nbsp;TU&nbsp;Berlin), Doreen&nbsp;Riepel (University&nbsp;of&nbsp;California&nbsp;San&nbsp;Diego), Varun&nbsp;Chandrasekaran (University&nbsp;of&nbsp;Illinois&nbsp;Urbana-Champaign), Esha&nbsp;Ghosh (Microsoft&nbsp;Research), Olga&nbsp;Ohrimenko (The&nbsp;University&nbsp;of&nbsp;Melbourne), Nicolas&nbsp;Papernot (University&nbsp;of&nbsp;Toronto&nbsp;and&nbsp;Vector&nbsp;Institute) <br>
     <div class='button-group'>
@@ -482,7 +483,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-89").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Inexact Unlearning Needs More Careful Evaluations to Avoid a False Sense of Privacy</em> <br> 
     Jamie&nbsp;Hayes (Google&nbsp;Deepmind), Amr&nbsp;Khalifa, Ilia&nbsp;Shumailov, Nicolas&nbsp;Papernot, Eleni&nbsp;Triantafillou (Google&nbsp;DeepMind) <br>
     <div class='button-group'>
@@ -496,7 +497,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-91").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Position: LLM Unlearning Benchmarks are Weak Measures of Progress</em> <br> 
     Pratiksha&nbsp;Thaker, Shengyuan&nbsp;Hu, Neil&nbsp;Kale, Yash&nbsp;Maurya, Zhiwei Steven&nbsp;Wu, Virginia&nbsp;Smith (CMU) <br>
     <div class='button-group'>
@@ -510,7 +511,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-160").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>On the Reliability of Membership Inference Attacks</em> <br> 
     Amrita&nbsp;Roy Chowdhury (University&nbsp;of&nbsp;Michigan,&nbsp;Ann&nbsp;Arbor), Zhifeng&nbsp;Kong, Kamalika&nbsp;Chaudhuri (UCSD) <br>
     <div class='button-group'>
@@ -533,20 +534,16 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <ul class='paper-list program'>
 <li class='paper-item program competition'>
     <em class='paper-title'>🏁 Inference Attacks Against Document VQA</em> <br>
-    <a href="https://benchmarks.elsa-ai.eu/?ch=2&com=introduction">https://benchmarks.elsa-ai.eu/?ch=2&com=introduction</a> <br>
-<!--
     <div class='button-group'>
     <a class='button' href="/competitions/#competition2"><small>📃</small> Abstract</a>
+    <a class='button' href="https://benchmarks.elsa-ai.eu/?ch=2&com=introduction"><small>🌐</small> Website</a>
     </div>
--->    
 </li><li class='paper-item program competition'>
     <em class='paper-title'>🏁 Robust Android Malware Detection Competition</em> <br>
-    <a href="https://ramd-competition.github.io">https://ramd-competition.github.io</a> <br>
-<!--
     <div class='button-group'>
     <a class='button' href="/competitions/#competition4"><small>📃</small> Abstract</a>
+    <a class='button' href="https://ramd-competition.github.io"><small>🌐</small> Website</a>
     </div>
--->    
 </li></ul>
 
 <h5 class='break'> <div class='slot-time'>15:20&ndash;15:40</div> <a class='anchor' name='04101520'></a> <div class='slot-title break'>Break</div>
@@ -554,7 +551,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>15:40&ndash;16:40</div> <a class='anchor' name='04101540'></a> <div class='slot-title session'>Session: Private Algorithms</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>Equilibria of Data Marketplaces with Privacy-Aware Sellers under Endogenous Privacy Costs</em> <br> 
     Diptangshu&nbsp;Sen (Georgia&nbsp;Institute&nbsp;of&nbsp;Technology), Jingyan&nbsp;Wang (Toyota&nbsp;Technological&nbsp;Institute&nbsp;at&nbsp;Chicago), Juba&nbsp;Ziani (Georgia&nbsp;Institute&nbsp;of&nbsp;Technology) <br>
     <div class='button-group'>
@@ -568,7 +565,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-113").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Streaming Private Continual Counting via Binning</em> <br> 
     Joel Daniel&nbsp;Andersson, Rasmus&nbsp;Pagh (University&nbsp;of&nbsp;Copenhagen) <br>
     <div class='button-group'>
@@ -582,7 +579,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-156").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation</em> <br> 
     Sajani&nbsp;Vithana (Harvard&nbsp;University), Viveck R.&nbsp;Cadambe (Georgia&nbsp;Institute&nbsp;of&nbsp;Technology), Flavio P.&nbsp;Calmon (Harvard&nbsp;University), Haewon&nbsp;Jeong (University&nbsp;of&nbsp;California,&nbsp;Santa&nbsp;Barbara) <br>
     <div class='button-group'>
@@ -596,7 +593,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-173").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Private Selection with Heterogeneous Sensitivities</em> <br> 
     Daniela&nbsp;Antonova, Allegra&nbsp;Latimer, Audra&nbsp;McMillan (Apple), Lorenz&nbsp;Wolf (University&nbsp;College&nbsp;London) <br>
     <div class='button-group'>
@@ -617,7 +614,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>17:00&ndash;17:45</div> <a class='anchor' name='04101700'></a> <div class='slot-title session'>Session: Vision and Perception</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics</em> <br> 
     Francesco&nbsp;Croce (EPFL), Christian&nbsp;Schlarmann, Naman Deep&nbsp;Singh, Matthias&nbsp;Hein (University&nbsp;of&nbsp;Tuebingen) <br>
     <div class='button-group'>
@@ -631,7 +628,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-90").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Err on the Side of Texture: Texture Bias on Real Data</em> <br> 
     Blaine&nbsp;Hoak, Ryan&nbsp;Sheatsley, Patrick&nbsp;McDaniel (University&nbsp;of&nbsp;Wisconsin-Madison) <br>
     <div class='button-group'>
@@ -645,7 +642,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-120").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>ColorSense: A Study on Color Vision in Machine Visual Recognition</em> <br> 
     Ming-Chang&nbsp;Chiu, Yingfei&nbsp;Wang (University&nbsp;of&nbsp;Southern&nbsp;California), Derrick Eui Gyu&nbsp;Kim (Brandeis&nbsp;University), Pin-Yu&nbsp;Chen (IBM&nbsp;Research), Xuezhe&nbsp;Ma (University&nbsp;of&nbsp;Southern&nbsp;California) <br>
     <div class='button-group'>
@@ -668,7 +665,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='keynote'> <div class='slot-time'>09:00&ndash;09:40</div> <a class='anchor' name='04110900'></a> <div class='slot-title keynote'>Keynote 3</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program keynote'>
     <em class='paper-title'>Artificial Intelligence: Should you trust it?</em> <br> 
     Matt Turek (Defense Advanced Research Agency)<br>
     <div class='button-group'>
@@ -683,7 +680,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>10:00&ndash;11:00</div> <a class='anchor' name='04111000'></a> <div class='slot-title session'>Session: Fairness and Bias</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>SoK: Fair Clustering: Critique, Caveats, and Future Directions</em> <br> 
     John&nbsp;Dickerson (University&nbsp;of&nbsp;Maryland), Seyed&nbsp;Esmaeili (University&nbsp;of&nbsp;Chicago), Jamie&nbsp;Morgenstern, Claire Jie&nbsp;Zhang (University&nbsp;of&nbsp;Washington) <br>
     <div class='button-group'>
@@ -697,7 +694,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-77").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Fair Decentralized Learning</em> <br> 
     Sayan&nbsp;Biswas, Anne-Marie&nbsp;Kermarrec, Rishi&nbsp;Sharma, Thibaud&nbsp;Trinca, Martijn&nbsp;de Vos (EPFL) <br>
     <div class='button-group'>
@@ -711,7 +708,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-105").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>When mitigating bias is unfair: multiplicity and arbitrariness in algorithmic group fairness</em> <br> 
     Natasa&nbsp;Krco (Imperial&nbsp;College,&nbsp;London,&nbsp;United&nbsp;Kingdom), Thibault&nbsp;Laugel, Vincent&nbsp;Grari (AXA,&nbsp;Paris,&nbsp;France), Jean-Michel&nbsp;Loubes (Institut&nbsp;de&nbsp;Mathématiques&nbsp;de&nbsp;Toulouse,&nbsp;Université&nbsp;Paul&nbsp;Sabatier,&nbsp;Toulouse,&nbsp;France), Marcin&nbsp;Detyniecki (AXA,&nbsp;Paris,&nbsp;France) <br>
     <div class='button-group'>
@@ -725,7 +722,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-128").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Minimax Group Fairness in Strategic Classification</em> <br> 
     Emily&nbsp;Diana (CMU), Saeed&nbsp;Sharifi-Malvajerdi, Ali&nbsp;Vakilian (TTIC) <br>
     <div class='button-group'>
@@ -746,7 +743,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>11:20&ndash;12:20</div> <a class='anchor' name='04111120'></a> <div class='slot-title session'>Session: Robustness and Transferability</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>DART: A Principled Approach to Adversarially Robust Unsupervised Domain Adaptation</em> <br> 
     Yunjuan&nbsp;Wang (Johns&nbsp;Hopkins&nbsp;University), Hussein&nbsp;Hazimeh, Natalia&nbsp;Ponomareva, Alexey&nbsp;Kurakin, Ibrahim&nbsp;Hammoud (Google), Raman&nbsp;Arora (Johns&nbsp;Hopkins&nbsp;University) <br>
     <div class='button-group'>
@@ -760,7 +757,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-2").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Reliable Evaluation of Adversarial Transferability</em> <br> 
     Wenqian&nbsp;Yu (Wuhan&nbsp;University), Jindong&nbsp;Gu (University&nbsp;of&nbsp;Oxford), Zhijiang&nbsp;Li (Wuhan&nbsp;University), Philip&nbsp;Torr (University&nbsp;of&nbsp;Oxford) <br>
     <div class='button-group'>
@@ -774,7 +771,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-7").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Hi-ALPS - An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving</em> <br> 
     Alexandra&nbsp;Arzberger, Ramin Tavakoli&nbsp;Kolagari (Technische&nbsp;Hochschule&nbsp;Nürnberg&nbsp;Georg&nbsp;Simon&nbsp;Ohm) <br>
     <div class='button-group'>
@@ -788,7 +785,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-57").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Timber! Poisoning Decision Trees</em> <br> 
     Stefano&nbsp;Calzavara, Lorenzo&nbsp;Cazzaro, Massimo&nbsp;Vettori (Università&nbsp;Ca'&nbsp;Foscari&nbsp;Venezia) <br>
     <div class='button-group'>
@@ -809,7 +806,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>13:30&ndash;14:30</div> <a class='anchor' name='04111330'></a> <div class='slot-title session'>Session: Private Learning</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>SoK: What Makes Private Learning Unfair?</em> <br> 
     Kai&nbsp;Yao, Marc&nbsp;Juarez (University&nbsp;of&nbsp;Edinburgh) <br>
     <div class='button-group'>
@@ -823,7 +820,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-9").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Differentially Private Active Learning: Balancing Effective Data Selection and Privacy</em> <br> 
     Kristian&nbsp;Schwethelm, Johannes&nbsp;Kaiser, Jonas&nbsp;Kuntzer (Technical&nbsp;University&nbsp;of&nbsp;Munich), Mehmet&nbsp;Yigitsoy (deepc&nbsp;GmbH), Daniel&nbsp;Rückert (Technical&nbsp;University&nbsp;of&nbsp;Munich,&nbsp;Imperial&nbsp;College&nbsp;London), Georgios&nbsp;Kaissis (Technical&nbsp;University&nbsp;of&nbsp;Munich,&nbsp;Helmholtz&nbsp;Munich) <br>
     <div class='button-group'>
@@ -837,7 +834,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-27").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Choosing Public Datasets for Private Machine Learning via Gradient Subspace Distance</em> <br> 
     Xin&nbsp;Gu (Penn&nbsp;State&nbsp;University), Gautam&nbsp;Kamath (University&nbsp;of&nbsp;Waterloo), Steven&nbsp;Wu (Carnegie&nbsp;Mellon&nbsp;University) <br>
     <div class='button-group'>
@@ -851,7 +848,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-116").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Learning with User-Level Differential Privacy under Fixed Compute Budgets</em> <br> 
     Zachary&nbsp;Charles, Arun&nbsp;Ganesh, Ryan&nbsp;McKenna, H. Brendan&nbsp;McMahan, Nicole&nbsp;Mitchell (Google&nbsp;Research), Krishna&nbsp;Pillutla (IIT&nbsp;Madras), Keith&nbsp;Rush (Google&nbsp;Research) <br>
     <div class='button-group'>
@@ -872,7 +869,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>14:50&ndash;15:20</div> <a class='anchor' name='04111450'></a> <div class='slot-title session'>Session: Malware and Steganography</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>ML-Based Behavioral Malware Detection Is Far From a Solved Problem</em> <br> 
     Yigitcan&nbsp;Kaya (UC&nbsp;Santa&nbsp;Barbara), Yizheng&nbsp;Chen (University&nbsp;of&nbsp;Maryland&nbsp;College&nbsp;Park), Marcus&nbsp;Botacin (Texas&nbsp;A&M&nbsp;University), Shoumik&nbsp;Saha (University&nbsp;of&nbsp;Maryland&nbsp;College&nbsp;Park), Fabio&nbsp;Pierazzi (King’s&nbsp;College&nbsp;London&nbsp;&&nbsp;University&nbsp;College&nbsp;London), Lorenzo&nbsp;Cavallaro (University&nbsp;College&nbsp;London), David&nbsp;Wagner (UC&nbsp;Berkeley), Tudor&nbsp;Dumitras (University&nbsp;of&nbsp;Maryland&nbsp;College&nbsp;Park) <br>
     <div class='button-group'>
@@ -886,7 +883,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-82").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Provably Secure Covert Messaging Using Image-based Diffusion Processes</em> <br> 
     Luke&nbsp;Bauer, Wenxuan&nbsp;Bao, Vincent&nbsp;Bindschaedler (University&nbsp;of&nbsp;Florida) <br>
     <div class='button-group'>
@@ -907,7 +904,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 <h5 class='session'> <div class='slot-time'>15:40&ndash;16:40</div> <a class='anchor' name='04111540'></a> <div class='slot-title session'>Session: Differential Privacy</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program'>
+<li class='paper-item program paper'>
     <em class='paper-title'>FairDP: Achieving Fairness Certification with Differential Privacy</em> <br> 
     Khang&nbsp;Tran (New&nbsp;Jersey&nbsp;Institute&nbsp;of&nbsp;Technology), Ferdinando&nbsp;Fioretto (University&nbsp;of&nbsp;Virginia), Issa&nbsp;Khalil (Qatar&nbsp;Computing&nbsp;Research&nbsp;Institute&nbsp;(QCRI),&nbsp;HBKU), My&nbsp;Thai (University&nbsp;of&nbsp;Florida), Linh&nbsp;Phan (University&nbsp;of&nbsp;Pennsylvania), Hai&nbsp;Phan (New&nbsp;Jersey&nbsp;Institute&nbsp;of&nbsp;Technology) <br>
     <div class='button-group'>
@@ -921,7 +918,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-19").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Privacy Vulnerabilities in Marginals-based Synthetic Data</em> <br> 
     Steven&nbsp;Golob, Sikha&nbsp;Pentyala, Anuar&nbsp;Maratkhan, Martine&nbsp;De Cock (University&nbsp;of&nbsp;Washington&nbsp;Tacoma) <br>
     <div class='button-group'>
@@ -935,7 +932,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-55").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Avoiding Pitfalls for Privacy Accounting of Subsampled Mechanisms under Composition</em> <br> 
     Christian Janos&nbsp;Lebeda (Inria), Matthew&nbsp;Regehr, Gautam&nbsp;Kamath (University&nbsp;of&nbsp;Waterloo), Thomas&nbsp;Steinke (Google&nbsp;DeepMind) <br>
     <div class='button-group'>
@@ -949,7 +946,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
             $("#abstract-92").slideToggle("fast", "linear");
         });
     </script>
-</li> <li class='paper-item program'>
+</li> <li class='paper-item program paper'>
     <em class='paper-title'>Auditing Differential Privacy Guarantees Using Density Estimation</em> <br> 
     Antti&nbsp;Koskela, Jafar&nbsp;Mohammadi (Nokia&nbsp;Bell&nbsp;Labs) <br>
     <div class='button-group'>
