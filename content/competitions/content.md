@@ -18,6 +18,7 @@ SaTML traditionally includes a *Competition Track* as part of its program. Parti
 
 For this year, the following competitions have been accepted for the conference. Interested researchers can participate in any of these by following the instructions provided on the competition websites. For more information or specific inquiries, please contact the respective competition organizers directly.
 
+<a class="anchor" name="competition1"></a>
 ##### 🏁  Adaptive Prompt Injection: LLMail Inject
 
 Website: https://microsoft.github.io/llmail-inject/
@@ -26,6 +27,7 @@ Website: https://microsoft.github.io/llmail-inject/
 
 Organizers: Sahar Abdelnabi, Giovanni Cherubin, Aideen Fay, Andrew Paverd, Mark Russinovich, Ahmed Salem, Egor Zverev, and Javier Rando.
 
+<a class="anchor" name="competition2"></a>
 ##### 🏁 Inference Attacks Against Document VQA
 
 Website: https://benchmarks.elsa-ai.eu/?ch=2&com=introduction
@@ -34,6 +36,7 @@ Website: https://benchmarks.elsa-ai.eu/?ch=2&com=introduction
 
 Organizers: Dimosthenis Karatzas,  Andrey Barsky, Mohamed Ali Souibgui, Khanh Nguyen, Raouf Kerkouche, Marlon Tobaben, Kangsoo Jung, Joonas Jälkö,  Vincent Poulain, Aurélie Joseph, Ernest Valveny, Josep Lladós, Catuscia Palamidessi, Antti Honkela, and Mario Fritz.
 
+<a class="anchor" name="competition3"></a>
 ##### 🏁 Membership Inference on Diffusion-model-based Synthetic Tabular Data
 
 Website: https://vectorinstitute.github.io/MIDST
@@ -42,6 +45,7 @@ Website: https://vectorinstitute.github.io/MIDST
 
 Organizers: Masoumeh Shafieinejad, Xi He, John Jewell, Mahshid Alinoori, Sana Ayromlou, Wei Pang, Gauri Sharma, Veronica Chatrath, and Deval Pandya.
 
+<a class="anchor" name="competition4"></a>
 ##### 🏁 Robust Android Malware Detection Competition
 
 Website: https://ramd-competition.github.io

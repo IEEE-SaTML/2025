@@ -157,10 +157,12 @@ em.paper-title {
 
 li.paper-item {
   margin: 14px 0px;
-  padding: 0px 0px;
+  padding: 6px 0px;
   list-style-type: none;
   border-left: 2px solid #DDD;
-  padding-left: 20px;  
+  padding-left: 20px;    
+  padding-right: 10px;
+  background-color: #f2f2f2;
 }
 
 ul.paper-list {
@@ -170,20 +172,27 @@ ul.paper-list {
 blockquote.paper-abstract {
   color: #555;
   display: none;
-  font-size: 0.95em;
-  max-width: 70ch;
+  font-size: 0.9em;
   text-align: justify;
   line-height: 1.5em;
-  background-color: #f0f0f0;
+  background-color: #f2f2f2;
   margin-top: 10px;
-  margin-left: -20px;
+  margin-left: 20px;
+  margin-right: 60px;
   padding: 15px 25px;
 }
 
 .button {
-  color: teal;
-  font-size: 0.9em;
+  font-size: 0.8em;
   cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 5px;
+  color: teal;
+  border: 1px solid #DDD;
+}
+
+article a.button {
+  color: teal;
 }
 
 .button small {
@@ -205,10 +214,6 @@ h5 .slot-time {
   color: #444;
 }
 
-h5 .break, h5 .lunch, h5 .coffee {
-  color: #666;
-}  
-
 article .slot-title a {
   text-decoration: none;
 }
@@ -217,23 +222,42 @@ article .slot-title a:hover {
   text-decoration: underline;
 }
 
-.slot-block {
-  margin: 14px 0px;
-  padding: 0px 0px;
-  border-left: 2px solid #DDD;
-  padding-left: 20px;  
-}
-
-article .slot-block a {
-  text-decoration: none;
-}
-
-article .slot-block a:hover {
-  text-decoration: underline;
-}
-
 .program li.paper-item {
   margin: 0px 0px;
   padding-bottom: 7px;
   padding-top: 7px;
+}
+
+.program li.competition {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.program li.competition:first-child {
+  padding-top: 10px;
+}
+
+.program li.competition:last-child {
+  padding-bottom: 10px;
+}
+
+article .program a {
+  text-decoration: none;
+}
+
+article .program a:hover {
+  text-decoration: underline;
+}
+
+
+.anchor {
+  scroll-margin-top: 30px;
+}
+
+h5 .break, h5 .lunch, h5 .coffee {
+  color: #666;
+}  
+
+.button-group {
+  margin-top: 4px;
 }

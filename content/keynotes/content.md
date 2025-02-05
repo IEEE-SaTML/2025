@@ -7,7 +7,7 @@ title = "Keynote Talks"
 subtitle = " "
 title_align = "left"
 +++
-<a name="keynote1"></a>
+<a class="anchor" name="keynote1"></a>
 <div class="row keynotes-list">
     <div class="col-md-2 text-left">
     <img src="../images/2025/michael.jpg">
@@ -29,7 +29,7 @@ Legal regimes and technical governance methods will play a significant role in t
 
 Michael Veale is Associate Professor in Digital Rights and Regulation and Vice-Dean (Education Innovation) at the Faculty of Laws, University College London (UCL), and Fellow at the Institute for Information Law, University of Amsterdam. His research focusses on how to understand and address challenges of power and justice that digital technologies and their users create and exacerbate, in areas such as privacy-enhancing technologies and machine learning. Veale has advised a wide variety of actors across the world on these issues, and his work is cited by hundreds of public policy players including courts, regulators, governments, legislatures, civil society and business, as well as thousands of academics. He sits on the advisory councils for the Open Rights Group and Foxglove, the Panel of Expert of the Digital Freedom Fund, and the Technology Advisory Panel for the Information Commissioner’s Office. He holds a PhD in the governance of machine learning from the Faculty of Engineering, UCL, as well as degrees from LSE and U Maastricht.
 
-<a name="keynote2"></a>
+<a class="anchor" name="keynote2"></a>
 <div class="row keynotes-list">
     <div class="col-md-2">
     <img src="../images/2025/kamalika2.jpg">
@@ -48,7 +48,7 @@ Since Fredriksson et al (2014), a body of work has emerged on the empirical meas
 
 Kamalika Chaudhuri is a Director, Research Scientist at FAIR in Meta and an adjunct professor at University of California, San Diego. She was formerly a full professor at University of California, San Diego. She received a Bachelor of Technology degree in Computer Science and Engineering in 2002 from Indian Institute of Technology, Kanpur, and a PhD in Computer Science from University of California at Berkeley in 2007. She received an NSF CAREER Award in 2013 and a Hellman Faculty Fellowship in 2012. She has served as the program co-chair for AISTATS 2019 and ICML 2019, and as the General Chair for ICML 2022.
 
-<a name="keynote3"></a>
+<a class="anchor" name="keynote3"></a>
 <div class="row keynotes-list">
     <div class="col-md-2 text-left">
     <img src="../images/2025/matt.jpg">
