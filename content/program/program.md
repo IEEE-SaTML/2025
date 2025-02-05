@@ -19,7 +19,7 @@ The SaTML 2025 conference will take place from April 9-11, 2025. The program con
 - [Day 2 - Thursday, April 10](#0410)
 - [Day 3 - Friday, April 11](#0411)
 
-For a high-level overview of the conference schedule, please visit the [Schedule](schedule) page. You can add all conference events to your calendar by subscribing to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19hZTE0NDNlMThjZjBhOTA0MzM5ZTY0YjI2Y2M0NzA0ZDAzOWZiOWVmZGZiYjVkY2FjNWI5NmNlZjJkY2M5ZGE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). 
+For a high-level overview of the conference schedule, please visit our [Google Calendar](https://calendar.google.com/calendar/embed?src=c_ae1443e18cf0a904339e64b26cc4704d039fb9efdfbb5dcac5b96cef2dcc9da7%40group.calendar.google.com&ctz=Europe%2FBerlin&mode=WEEK&dates=20250409%2F20250411). You can also subscribe to the calendar via this [iCal Link](https://calendar.google.com/calendar/ical/c_ae1443e18cf0a904339e64b26cc4704d039fb9efdfbb5dcac5b96cef2dcc9da7%40group.calendar.google.com/public/basic.ics).
 
 <hr>
 
