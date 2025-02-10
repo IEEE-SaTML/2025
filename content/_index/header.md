@@ -20,6 +20,11 @@ subtitle3 = "<br>Sponsored by the [IEEE Computer Society Technical Committee of 
 #color = "secondary"
 
 [[buttons]]
+  text = "Conference Program"
+  url = "/program"
+  color = "secondary"
+
+[[buttons]]
   text = "Accepted Papers"
   url = "/accepted-papers"
   color = "secondary"
