@@ -436,7 +436,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
     </script>
 </li> <li class='paper-item program paper'>
     <em class='paper-title'>SEA: Shareable and Explainable Attribution for Query-based Black-box Attacks</em> <br> 
-    Yue&nbsp;Gao (Snowflake), Ilia&nbsp;Shumailov (Google&nbsp;Deepmind), Kassem&nbsp;Fawaz (University&nbsp;of&nbsp;Wisconsin-Madison) <br>
+    Yue&nbsp;Gao (University&nbsp;of&nbsp;Wisconsin-Madison), Ilia&nbsp;Shumailov (University&nbsp;of&nbsp;Oxford), Kassem&nbsp;Fawaz (University&nbsp;of&nbsp;Wisconsin-Madison) <br>
     <div class='button-group'>
     <span class='button' id='spot-125'><small>📃</small> Abstract</span>
     </div>
