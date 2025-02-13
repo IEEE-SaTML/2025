@@ -6,9 +6,16 @@ background = "dark" # can influence the text color
 particles = false
 minHeight = "50vh" #66.7vw" # optional - changes hero fragment's minimum height
 
-title = "3rd IEEE Conference on<br>Secure and Trustworthy Machine Learning"
-subtitle1 = "April 9-11, 2025<br><br>"
-subtitle2 = "University of Copenhagen<br>Copenhagen, Denmark"
+title = """
+<div class='left'>
+3rd IEEE Conference on Secure and Trustworthy Machine Learning
+</div><div class='right'>
+  <img src='/images/2025/satml-logo.svg' alt='SaTML 2025 Logo' 
+       style='width: 120px;'>
+</div>
+"""
+subtitle1 = "University of Copenhagen, Denmark"
+subtitle2 = "April 9-11, 2025"
 subtitle3 = "<br>Sponsored by the [IEEE Computer Society Technical Committee of Security and Privacy](https://www.ieee-security.org/)<br><br>"
 
 [header]
