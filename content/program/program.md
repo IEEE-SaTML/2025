@@ -169,7 +169,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 
 <h5 class='lunch'> <div class='slot-time'>12:20&ndash;13:30</div> <a class='anchor' name='04091220'></a> <div class='slot-title lunch'>Lunch Break</div>
 </h5>
-<h5 class='session'> <div class='slot-time'>13:30&ndash;14:30</div> <a class='anchor' name='04091330'></a> <div class='slot-title session'>Session: Backdoors Attacks</div>
+<h5 class='session'> <div class='slot-time'>13:30&ndash;14:30</div> <a class='anchor' name='04091330'></a> <div class='slot-title session'>Session: Backdoor Attacks</div>
 </h5>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
