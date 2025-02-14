@@ -22,8 +22,8 @@ section .bg-light code, section .bg-light pre {
 .filter-layer {
   width: 100%;
   height: 100%;
-  backdrop-filter: brightness(0.30) hue-rotate(-10deg);
-  -webkit-backdrop-filter: brightness(0.30) hue-rotate(-10deg);
+  backdrop-filter: brightness(0.40) hue-rotate(-10deg);
+  -webkit-backdrop-filter: brightness(0.40) hue-rotate(-10deg);
   padding: 8rem 2rem;
   margin: -4rem 0rem;
 }
