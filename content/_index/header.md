@@ -11,7 +11,7 @@ title = """
 3rd IEEE Conference on Secure and Trustworthy Machine Learning
 </div><div class='right'>
   <img src='/images/2025/satml-logo.svg' alt='SaTML 2025 Logo' 
-       style='width: 120px;'>
+       style='width: 110px; padding-top:5px;'>
 </div>
 """
 subtitle1 = "University of Copenhagen, Denmark"
