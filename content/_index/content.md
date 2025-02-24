@@ -66,3 +66,36 @@ IEEE SaTML 2025 will be hosted on the campus of the University of Copenhagen on 
 9-11, 2025. The venue for the conference will be the <a
 href="https://www.biocenter.ku.dk/english/auditorium/"
 target="_blank">Lundbeckfond Auditorium</a>.
+
+#### Sponsors and Supporters
+
+<br>
+
+<div class="row text-center">
+
+  <div class="col-md-2 text-center">
+  </div>
+
+  <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
+    <a href="https://novonordiskfonden.dk/en/"><img src="images/2025/sponsors/nnf.svg" width="85%" alt="Novo Nordisk Foundation"></a>
+  </div>
+
+  <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
+    <a href="https://www.ddsa.dk/"><img src="images/2025/sponsors/ddsa.png" width="100%" alt="Danish Data Science Academy"></a>
+  </div>
+</div>
+
+<br>
+
+<div class="row text-center">
+  <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
+    <a href="https://www.aicentre.dk"><img src="images/2025/sponsors/pcai.svg" width="80%" alt="Pioneer Center for AI"></a>
+  </div>
+  <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
+    <a href="https://casa.rub.de/en/"><img src="images/2025/sponsors/casa.svg" width="70%" alt="Cluster of Excellence CASA" style="margin-top: -20px;"></a>
+  </div>
+
+  <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
+    <a href="https://www.bifold.berlin/"><img src="images/2025/sponsors/bifold.svg" width="90%" alt="Berlin Institute for the Foundations of Learning and Data" style="margin-top: -30px;"></a>
+  </div>
+</div>
