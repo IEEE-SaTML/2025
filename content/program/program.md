@@ -556,20 +556,6 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
-    <em class='paper-title'>Equilibria of Data Marketplaces with Privacy-Aware Sellers under Endogenous Privacy Costs</em> <br> 
-    Diptangshu&nbsp;Sen (Georgia&nbsp;Institute&nbsp;of&nbsp;Technology), Jingyan&nbsp;Wang (Toyota&nbsp;Technological&nbsp;Institute&nbsp;at&nbsp;Chicago), Juba&nbsp;Ziani (Georgia&nbsp;Institute&nbsp;of&nbsp;Technology) <br>
-    <div class='button-group'>
-        <span class='button' id='spot-113'><small>📃</small> Abstract</span>  
-    </div>
-    <blockquote class='paper-abstract' id='abstract-113'>
-        We study a two-sided online data ecosystem comprised of an online platform, users on the platform, and downstream data buyers. The buyers can buy user data on the platform to run a statistic or machine learning task. Potential users decide whether to join by looking at the trade-off between i) their benefit from joining the platform and interacting with other users and ii) the privacy costs they incur from sharing their data.  In light of the rapidly changing user privacy attitudes, we introduce a novel modeling element for two-sided data platforms: the privacy costs of users are endogenous and depend on the number of downstream buyers who purchase and access their data. Then, we characterize marketplace equilibria in certain simple settings. In particular, we provide a full characterization in two variants of our model that correspond to different utility functions for the users: i) when each user gets a constant benefit for participating on the platform and ii) when each user's benefit is linearly increasing in the number of other users that participate. In both variants, equilibria in our setting are significantly different from equilibria when privacy costs are exogenous and fixed, the most significant point of difference being that under exogenous privacy costs, the user-side participation rate is completely independent of the platform's price and the buyer-side decisions and thus can never be improved without investing in improving the quality of service offered. This highlights the importance of taking endogeneity in privacy costs into account. Finally, we provide simulations and semi-synthetic experiments to extend our results to more general assumptions; we experiment with different distributions of users' privacy costs and different functional forms of the users' utilities for joining the platform.
-    </blockquote>
-    <script>
-        $("#spot-113").click(function(){
-            $("#abstract-113").slideToggle("fast", "linear");
-        });
-    </script>
-</li> <li class='paper-item program paper'>
     <em class='paper-title'>Streaming Private Continual Counting via Binning</em> <br> 
     Joel Daniel&nbsp;Andersson, Rasmus&nbsp;Pagh (University&nbsp;of&nbsp;Copenhagen) <br>
     <div class='button-group'>
@@ -609,6 +595,20 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
     <script>
         $("#spot-185").click(function(){
             $("#abstract-185").slideToggle("fast", "linear");
+        });
+    </script>
+</li> <li class='paper-item program paper'>
+    <em class='paper-title'>Equilibria of Data Marketplaces with Privacy-Aware Sellers under Endogenous Privacy Costs</em> <br> 
+    Diptangshu&nbsp;Sen (Georgia&nbsp;Institute&nbsp;of&nbsp;Technology), Jingyan&nbsp;Wang (Toyota&nbsp;Technological&nbsp;Institute&nbsp;at&nbsp;Chicago), Juba&nbsp;Ziani (Georgia&nbsp;Institute&nbsp;of&nbsp;Technology) <br>
+    <div class='button-group'>
+        <span class='button' id='spot-113'><small>📃</small> Abstract</span>  
+    </div>
+    <blockquote class='paper-abstract' id='abstract-113'>
+        We study a two-sided online data ecosystem comprised of an online platform, users on the platform, and downstream data buyers. The buyers can buy user data on the platform to run a statistic or machine learning task. Potential users decide whether to join by looking at the trade-off between i) their benefit from joining the platform and interacting with other users and ii) the privacy costs they incur from sharing their data.  In light of the rapidly changing user privacy attitudes, we introduce a novel modeling element for two-sided data platforms: the privacy costs of users are endogenous and depend on the number of downstream buyers who purchase and access their data. Then, we characterize marketplace equilibria in certain simple settings. In particular, we provide a full characterization in two variants of our model that correspond to different utility functions for the users: i) when each user gets a constant benefit for participating on the platform and ii) when each user's benefit is linearly increasing in the number of other users that participate. In both variants, equilibria in our setting are significantly different from equilibria when privacy costs are exogenous and fixed, the most significant point of difference being that under exogenous privacy costs, the user-side participation rate is completely independent of the platform's price and the buyer-side decisions and thus can never be improved without investing in improving the quality of service offered. This highlights the importance of taking endogeneity in privacy costs into account. Finally, we provide simulations and semi-synthetic experiments to extend our results to more general assumptions; we experiment with different distributions of users' privacy costs and different functional forms of the users' utilities for joining the platform.
+    </blockquote>
+    <script>
+        $("#spot-113").click(function(){
+            $("#abstract-113").slideToggle("fast", "linear");
         });
     </script>
 </li> </ul>
