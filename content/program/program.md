@@ -49,6 +49,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>10:00&ndash;11:00</div> <a class='anchor' name='04091000'></a> <div class='slot-title session'>Session: Security of LLMs</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Pavel Laskov</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>Non-Halting Queries: Exploiting Fixed Points in LLMs</em> <br> 
@@ -112,6 +113,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>11:20&ndash;12:20</div> <a class='anchor' name='04091120'></a> <div class='slot-title session'>Session: Adversaries and Attacks</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Lea Schönherr</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>SnatchML: Hijacking ML models without Training Access</em> <br> 
@@ -175,6 +177,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>13:30&ndash;14:30</div> <a class='anchor' name='04091330'></a> <div class='slot-title session'>Session: Backdoor Attacks</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Yigitcan Kaya</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>Backdoor Detection through Replicated Execution of Outsourced Training</em> <br> 
@@ -257,6 +260,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>15:40&ndash;16:40</div> <a class='anchor' name='04091540'></a> <div class='slot-title session'>Session: Broader Perspectives</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Lorenzo Cavallaro</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>SoK: On the Offensive Potential of AI</em> <br> 
@@ -346,6 +350,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>10:00&ndash;11:00</div> <a class='anchor' name='04101000'></a> <div class='slot-title session'>Session: Membership Inference Attacks</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Vera Rimmer</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>Position: Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data</em> <br> 
@@ -409,6 +414,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>11:20&ndash;12:20</div> <a class='anchor' name='04101120'></a> <div class='slot-title session'>Session: Detection and Forensics</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Giovanni Apruzzese</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>HALO: Robust Out-of-Distribution Detection via Joint Optimisation</em> <br> 
@@ -472,6 +478,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>13:30&ndash;14:30</div> <a class='anchor' name='04101330'></a> <div class='slot-title session'>Session: Machine Unlearning</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Yugeng Liu</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>Verifiable and Provably Secure Machine Unlearning</em> <br> 
@@ -554,6 +561,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>15:40&ndash;16:40</div> <a class='anchor' name='04101540'></a> <div class='slot-title session'>Session: Private Algorithms</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Saeyoung Rho</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>Streaming Private Continual Counting via Binning</em> <br> 
@@ -617,6 +625,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>17:00&ndash;17:45</div> <a class='anchor' name='04101700'></a> <div class='slot-title session'>Session: Vision and Perception</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Adam Dziedzic</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics</em> <br> 
@@ -683,6 +692,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>10:00&ndash;11:00</div> <a class='anchor' name='04111000'></a> <div class='slot-title session'>Session: Fairness and Bias</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Rasmus Pagh</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>SoK: Fair Clustering: Critique, Caveats, and Future Directions</em> <br> 
@@ -746,6 +756,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>11:20&ndash;12:20</div> <a class='anchor' name='04111120'></a> <div class='slot-title session'>Session: Robustness and Transferability</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Kathrin Grosse</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>DART: A Principled Approach to Adversarially Robust Unsupervised Domain Adaptation</em> <br> 
@@ -809,6 +820,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>13:30&ndash;14:30</div> <a class='anchor' name='04111330'></a> <div class='slot-title session'>Session: Private Learning</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Franziska Boenisch</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>SoK: What Makes Private Learning Unfair?</em> <br> 
@@ -872,6 +884,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>14:50&ndash;15:20</div> <a class='anchor' name='04111450'></a> <div class='slot-title session'>Session: Malware and Steganography</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Ilia Shumailov</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>ML-Based Behavioral Malware Detection Is Far From a Solved Problem</em> <br> 
@@ -907,6 +920,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='session'> <div class='slot-time'>15:40&ndash;16:40</div> <a class='anchor' name='04111540'></a> <div class='slot-title session'>Session: Differential Privacy</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Antti Honkela</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program paper'>
     <em class='paper-title'>FairDP: Achieving Fairness Certification with Differential Privacy</em> <br> 
