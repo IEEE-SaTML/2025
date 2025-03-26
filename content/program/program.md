@@ -23,7 +23,7 @@ For a high-level overview of the conference schedule, please visit our [Google C
 
 #### Location
 
-All events will take place in the [Lundbeckfond Auditorium](https://www.biocenter.ku.dk/english/auditorium/) at the University of Copenhagen, except for the poster session. The poster session will be held in the ground floor lobby of the HC Ørsted Institute, located just a [6-minute walk](https://maps.app.goo.gl/T7TCK8F5FEuSFnqj8) from the auditorium. 
+All events will take place in the [Lundbeckfond Auditorium](https://www.biocenter.ku.dk/english/auditorium/) at the University of Copenhagen, except for the poster session and reception. The poster session and reception will be held in the ground floor lobby of the HC Ørsted Institute, located just a [6-minute walk](https://maps.app.goo.gl/T7TCK8F5FEuSFnqj8) from the auditorium. 
 
 <hr>
 
@@ -322,10 +322,10 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 
 <h5 class='break'> <div class='slot-time'>16:40&ndash;17:00</div> <a class='anchor' name='04091640'></a> <div class='slot-title break'>Break</div>
 </h5>
-<h5 class='posters'> <div class='slot-time'>17:00&ndash;20:00</div> <a class='anchor' name='04091700'></a> <div class='slot-title posters'>Poster Session</div>
+<h5 class='posters'> <div class='slot-time'>17:00&ndash;20:00</div> <a class='anchor' name='04091700'></a> <div class='slot-title posters'>Poster Session and Reception</div>
 </h5>
 <ul class='paper-list program'>
-<li class='paper-item program poster'><b>Note:</b> The poster session will be held at HC. Ørsted Institute, ground floor lobby. It is located just a <a href='https://maps.app.goo.gl/T7TCK8F5FEuSFnqj8'>6-minute walk</a> from the Lundbeck Auditorium. The address is <a href='https://maps.app.goo.gl/byv7nKUB1xSqnRB57'>Universitetsparken 5, 2100 Copenhagen.
+<li class='paper-item program poster'><b>Note:</b> The poster session and reception will be held at HC. Ørsted Institute, ground floor lobby. It is located just a <a href='https://maps.app.goo.gl/T7TCK8F5FEuSFnqj8'>6-minute walk</a> from the Lundbeck Auditorium. The address is <a href='https://maps.app.goo.gl/byv7nKUB1xSqnRB57'>Universitetsparken 5, 2100 Copenhagen.
 </li>
 </ul>
 
