@@ -77,7 +77,7 @@ target="_blank">Lundbeckfond Auditorium</a>.
   </div>
 
   <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
-    <a href="https://novonordiskfonden.dk/en/"><img src="images/2025/sponsors/nnf.svg" width="85%" alt="Novo Nordisk Foundation"></a>
+    <a href="https://novonordiskfonden.dk/en/"><img src="images/2025/sponsors/nnf.png" width="70%" alt="Novo Nordisk Foundation"></a>
   </div>
 
   <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
@@ -89,13 +89,13 @@ target="_blank">Lundbeckfond Auditorium</a>.
 
 <div class="row text-center">
   <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
-    <a href="https://www.aicentre.dk"><img src="images/2025/sponsors/pcai.svg" width="80%" alt="Pioneer Center for AI"></a>
+    <a href="https://www.aicentre.dk"><img src="images/2025/sponsors/pcai.png" width="80%" alt="Pioneer Center for AI" style="margin-bottom: 10px"></a>
   </div>
   <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
-    <a href="https://casa.rub.de/en/"><img src="images/2025/sponsors/casa.svg" width="70%" alt="Cluster of Excellence CASA" style="margin-top: -20px;"></a>
+    <a href="https://casa.rub.de/en/"><img src="images/2025/sponsors/casa.png" width="70%" alt="Cluster of Excellence CASA"></a>
   </div>
 
   <div class="col-md-4 text-center d-flex align-items-center justify-content-center"> 
-    <a href="https://www.bifold.berlin/"><img src="images/2025/sponsors/bifold.svg" width="90%" alt="Berlin Institute for the Foundations of Learning and Data" style="margin-top: -30px;"></a>
+    <a href="https://www.bifold.berlin/"><img src="images/2025/sponsors/bifold.png" width="95%" alt="Berlin Institute for the Foundations of Learning and Data" style="margin-top: -20px;"></a>
   </div>
 </div>
