@@ -34,6 +34,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='keynote'> <div class='slot-time'>09:00&ndash;09:40</div> <a class='anchor' name='04090900'></a> <div class='slot-title keynote'>Keynote 1</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Konrad Rieck</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program keynote'>
     <em class='paper-title'>Malice, Models and Middlemen</em> <br> 
@@ -241,6 +242,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='competitions'> <div class='slot-time'>14:50&ndash;15:20</div> <a class='anchor' name='04091450'></a> <div class='slot-title competitions'>Competitions</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Konrad Rieck</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program competition'>
     <em class='paper-title'>🏁 Adaptive Prompt Injection: LLMail Inject</em> <br>
@@ -335,6 +337,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 #### <div class='day-title'>Thursday, April 10, 2025</div>
 <h5 class='keynote'> <div class='slot-time'>09:00&ndash;09:40</div> <a class='anchor' name='04100900'></a> <div class='slot-title keynote'>Keynote 2</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Kathrin Grosse</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program keynote'>
     <em class='paper-title'>The Science of Empirical Privacy Measurement: Memorization and Beyond</em> <br> 
@@ -542,6 +545,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 </h5>
 <h5 class='competitions'> <div class='slot-time'>14:50&ndash;15:20</div> <a class='anchor' name='04101450'></a> <div class='slot-title competitions'>Competitions</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Konrad Rieck</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program competition'>
     <em class='paper-title'>🏁 Inference Attacks Against Document VQA</em> <br>
@@ -677,6 +681,7 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
 #### <div class='day-title'>Friday, April 11, 2025</div>
 <h5 class='keynote'> <div class='slot-time'>09:00&ndash;09:40</div> <a class='anchor' name='04110900'></a> <div class='slot-title keynote'>Keynote 3</div>
 </h5>
+<p class='session-chair'>Session Chair: <b>Amartya Sanyal</b></p>
 <ul class='paper-list program'>
 <li class='paper-item program keynote'>
     <em class='paper-title'>Artificial Intelligence: Should you trust it?</em> <br> 
