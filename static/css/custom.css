@@ -199,6 +199,17 @@ blockquote.paper-abstract {
   border: 1px solid #DDD;
 }
 
+.no-border {
+  border: none;
+  color: #444;
+}
+
+.no-link:hover {
+  cursor: auto !important;
+  text-decoration: none !important;
+}
+
+
 article a.button {
   color: teal;
 }
