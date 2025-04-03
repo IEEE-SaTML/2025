@@ -204,8 +204,8 @@ article a.button {
 }
 
 .button small {
-  filter: sepia(1);
-  -webkit-filter: sepia(1);
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
   font-size: 0.7em;
 }
 
