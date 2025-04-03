@@ -209,20 +209,6 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
         });
     </script>
 </li> <li class='paper-item program paper'>
-    <em class='paper-title'>Krait: A Backdoor Attack Against Graph Prompt Tuning</em> <br> 
-    Ying&nbsp;Song (University&nbsp;of&nbsp;Pittsburgh), Rita&nbsp;Singh (Carnegie&nbsp;Mellon&nbsp;University), Balaji&nbsp;Palanisamy (University&nbsp;of&nbsp;Pittsburgh) <br>
-    <div class='button-group'>
-        <span class='button' id='spot-153'><small>📃</small> Abstract</span>   <span class='button no-border no-link'>⚠️ Video talk</span>
-    </div>
-    <blockquote class='paper-abstract' id='abstract-153'>
-        Graph prompt tuning has emerged as a promising paradigm to effectively transfer general graph knowledge from pre-trained models to various downstream tasks, particularly in few-shot contexts. However, its susceptibility to backdoor attacks, where adversaries insert triggers to manipulate outcomes, raises a critical concern. We conduct the first study to investigate such vulnerability, revealing that backdoors can disguise benign graph prompts, thus evading detection. We introduce Krait, a novel graph prompt backdoor. Specifically, we propose a simple yet effective model-agnostic metric called label non-uniformity homophily to select poisoned candidates, significantly reducing computational complexity. To accommodate diverse attack scenarios and advanced attack types, we design three customizable trigger generation methods to craft prompts as triggers. We propose a novel centroid similarity-based loss function to optimize prompt tuning for attack effectiveness and stealthiness. Experiments on four real-world graphs demonstrate that Krait can efficiently embed triggers to merely 0.15% to 2% of training nodes, achieving high attack success rates without sacrificing clean accuracy. Notably, in one-to-one and all-to-one attacks, Krait can achieve 100% attack success rates by poisoning as few as 2 and 22 nodes, respectively. Our experiments further show that Krait remains potent across different transfer cases, attack types, and graph neural network backbones. Additionally, Krait can be successfully extended to the black-box setting, posing more severe threats. Finally, we analyze why Krait can evade both classical and state-of-the-art defenses, and provide practical insights for detecting and mitigating this class of attacks. 
-    </blockquote>
-    <script>
-        $("#spot-153").click(function(){
-            $("#abstract-153").slideToggle("fast", "linear");
-        });
-    </script>
-</li> <li class='paper-item program paper'>
     <em class='paper-title'>The Ultimate Cookbook for Invisible Poison: Crafting Subtle Clean-Label Text Backdoors with Style Attributes</em> <br> 
     Wencong&nbsp;You, Daniel&nbsp;Lowd (University&nbsp;of&nbsp;Oregon) <br>
     <div class='button-group'>
@@ -234,6 +220,20 @@ All events will take place in the [Lundbeckfond Auditorium](https://www.biocente
     <script>
         $("#spot-194").click(function(){
             $("#abstract-194").slideToggle("fast", "linear");
+        });
+    </script>
+</li> <li class='paper-item program paper'>
+    <em class='paper-title'>Krait: A Backdoor Attack Against Graph Prompt Tuning</em> <br> 
+    Ying&nbsp;Song (University&nbsp;of&nbsp;Pittsburgh), Rita&nbsp;Singh (Carnegie&nbsp;Mellon&nbsp;University), Balaji&nbsp;Palanisamy (University&nbsp;of&nbsp;Pittsburgh) <br>
+    <div class='button-group'>
+        <span class='button' id='spot-153'><small>📃</small> Abstract</span>   <span class='button no-border no-link'>⚠️ Video talk</span>
+    </div>
+    <blockquote class='paper-abstract' id='abstract-153'>
+        Graph prompt tuning has emerged as a promising paradigm to effectively transfer general graph knowledge from pre-trained models to various downstream tasks, particularly in few-shot contexts. However, its susceptibility to backdoor attacks, where adversaries insert triggers to manipulate outcomes, raises a critical concern. We conduct the first study to investigate such vulnerability, revealing that backdoors can disguise benign graph prompts, thus evading detection. We introduce Krait, a novel graph prompt backdoor. Specifically, we propose a simple yet effective model-agnostic metric called label non-uniformity homophily to select poisoned candidates, significantly reducing computational complexity. To accommodate diverse attack scenarios and advanced attack types, we design three customizable trigger generation methods to craft prompts as triggers. We propose a novel centroid similarity-based loss function to optimize prompt tuning for attack effectiveness and stealthiness. Experiments on four real-world graphs demonstrate that Krait can efficiently embed triggers to merely 0.15% to 2% of training nodes, achieving high attack success rates without sacrificing clean accuracy. Notably, in one-to-one and all-to-one attacks, Krait can achieve 100% attack success rates by poisoning as few as 2 and 22 nodes, respectively. Our experiments further show that Krait remains potent across different transfer cases, attack types, and graph neural network backbones. Additionally, Krait can be successfully extended to the black-box setting, posing more severe threats. Finally, we analyze why Krait can evade both classical and state-of-the-art defenses, and provide practical insights for detecting and mitigating this class of attacks. 
+    </blockquote>
+    <script>
+        $("#spot-153").click(function(){
+            $("#abstract-153").slideToggle("fast", "linear");
         });
     </script>
 </li> </ul>
