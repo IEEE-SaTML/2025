@@ -28,6 +28,8 @@ title_align = "left"
 | **Steering committee**      | Nicolas Papernot    | University of Toronto & Vector Institute |
 |                             | Carmela Troncoso    | EPFL |
 |                             | Been Kim            | Google Brain |
+|			      | Ben Zhao            | University of Chicago |
+|			      | Bo Li               | University of Illinois at Urbana–Champaign |
 |                             | Zico Kolter         | Carnegie Mellon University |
 | | | <br> |
 | **Program committee** | Syed Ishtiaque Ahmed | University of Toronto |
