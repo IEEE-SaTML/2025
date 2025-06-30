@@ -7,9 +7,9 @@
   recent versions introduced breaking changes with theme used)
 - Clone repository and submodules:
   - (HTTPS) `git clone --recurse-submodules
-    https://github.com/IEEE-SaTML/ieee-satml.github.io.git`
+    https://github.com/IEEE-SaTML/2025.git`
   - (SSH) `git clone --recurse-submodules
-    git@github.com:IEEE-SaTML/ieee-satml.github.io.git`
+    git@github.com:IEEE-SaTML/2025.git`
 
 ## Template Architecture
 
