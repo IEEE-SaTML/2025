@@ -122,9 +122,21 @@ lastmod = ["lastmod", ":git", "date"]
 #  weight = 55
 
 [[menu.main]]
-  url = "/past"
   name = "Past Editions"
   weight = 100
+  identifier = "past"
+
+[[menu.main]]
+  name = "2024"
+  url = "/2024"
+  parent = "past"
+  weight = 101
+
+[[menu.main]]
+  name = "2023"
+  url = "/2023"
+  parent = "past"
+  weight = 102
 
 [[menu.footer]]
   url = "#"
