@@ -1,4 +1,0 @@
-+++
-title = "Participate in competitions held before SaTML 2023"
-date = "2022-08-09"
-+++
