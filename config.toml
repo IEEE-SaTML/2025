@@ -128,13 +128,13 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   name = "2024"
-  url = "https://satml.org/2024"
+  url = "https://satml.org/2024/"
   parent = "past"
   weight = 102
 
 [[menu.main]]
   name = "2023"
-  url = "https://satml.org/2023"
+  url = "https://satml.org/2023/"
   parent = "past"
   weight = 101
 
