@@ -14,18 +14,25 @@ At SaTML 2025, we recognize exceptional contributions to the field through a Bes
 
 #### Best Paper Award
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 <style>
 .reviewer-grid {
-  columns: 2;
-  column-gap: 2rem;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  column-gap: 0.5rem;
+  row-gap: 0.25rem;
+  align-items: baseline;
 }
-.reviewer-grid div {
-  break-inside: avoid;
-  margin-bottom: 0.25rem;
+.reviewer-grid div:nth-child(4n+2) {
+  padding-right: 1.5rem;
 }
 @media (max-width: 800px) {
   .reviewer-grid {
-    columns: 1;
+    grid-template-columns: auto auto;
+  }
+  .reviewer-grid div:nth-child(4n+2) {
+    padding-right: 0;
   }
 }
 </style>
@@ -55,16 +62,16 @@ Selected by the PC for its outstanding contribution to secure and trustworthy ma
 We are grateful to all our PC members for their dedication and hard work. The following reviewers stood out for their exceptional engagement.
 
 <div class="reviewer-grid">
-  <div><strong>Apostolos Pyrgelis</strong>, RISE Research Institutes of Sweden</div>
-  <div><strong>Dario Pasquini</strong>, George Mason University</div>
-  <div><strong>Franziska Boenisch</strong>, CISPA Helmholtz Center for Information Security</div>
-  <div><strong>Hossein Yalame</strong>, Bosch GmbH</div>
-  <div><strong>Kai Chen</strong>, Institute of Information Engineering, Chinese Academy of Sciences</div>
-  <div><strong>Mathias Lecuyer</strong>, University of British Columbia</div>
-  <div><strong>Rafael Pinot</strong>, Sorbonne University</div>
-  <div><strong>Ryan Sheatsley</strong>, University of Wisconsin-Madison</div>
-  <div><strong>Scott Coull</strong>, Google</div>
-  <div><strong>Stjepan Picek</strong>, Radboud University</div>
-  <div><strong>Vera Rimmer</strong>, DistriNet, KU Leuven</div>
-  <div><strong>Xiangyu Zhang</strong>, Purdue University</div>
+  <div><strong>Apostolos Pyrgelis</strong></div><div>RISE Research Institutes of Sweden</div>
+  <div><strong>Rafael Pinot</strong></div><div>Sorbonne University</div>
+  <div><strong>Dario Pasquini</strong></div><div>George Mason University</div>
+  <div><strong>Ryan Sheatsley</strong></div><div>University of Wisconsin-Madison</div>
+  <div><strong>Franziska Boenisch</strong></div><div>CISPA Helmholtz Center for Information Security</div>
+  <div><strong>Scott Coull</strong></div><div>Google</div>
+  <div><strong>Hossein Yalame</strong></div><div>Bosch GmbH</div>
+  <div><strong>Stjepan Picek</strong></div><div>Radboud University</div>
+  <div><strong>Kai Chen</strong></div><div>Institute of Information Engineering, Chinese Academy of Sciences</div>
+  <div><strong>Vera Rimmer</strong></div><div>DistriNet, KU Leuven</div>
+  <div><strong>Mathias Lecuyer</strong></div><div>University of British Columbia</div>
+  <div><strong>Xiangyu Zhang</strong></div><div>Purdue University</div>
 </div>
