@@ -10,7 +10,7 @@ title_align = "left"
 
 At SaTML 2025, we recognize exceptional contributions to the field through a Best Paper Award and Distinguished Reviewer recognitions. Congratulations to all recipients!
 
-## Best Paper Award
+#### Best Paper Award
 
 <style>
 blockquote {
@@ -79,9 +79,7 @@ Selected by the PC for its outstanding contribution to secure and trustworthy ma
   </div>
 </blockquote>
 
----
-
-## Distinguished Reviewers
+#### Distinguished Reviewers
 
 We are grateful to all our PC members for their dedication and hard work. The following reviewers stood out for their exceptional engagement.
 
